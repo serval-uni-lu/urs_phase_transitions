@@ -44,11 +44,13 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     # mc =  pd.read_csv("data/mc.csv", skipinitialspace = True, index_col = 'file')
     subfm = pd.read_csv(nbcls_f, skipinitialspace = True, index_col = 'file')
     # subfmk3 = pd.read_csv("data/subfm_k3.csv", skipinitialspace = True, index_col = 'file')
+    cost = pd.read_csv("./data/split_cost_s75.csv", skipinitialspace = True, index_col = 'file')
 
     data = cnf.join(d4, on = 'file')
     data = data.join(subfm, on = 'file')
     # data = data.join(subfmk3, on = 'file', rsuffix = '_k3')
     # data = data.join(mc, on = 'file')
+    data = data.join(cost, on = 'file')
 
 
     if sampler not in total_time:
@@ -69,6 +71,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     # data['pred'] = np.logical_and(data['r'] >= 2 , data['r'] <= 5)
     # data['pred'] = np.logical_or(data.nbv >= 150, data['nbv_k3'] >= 150)
     data['pred'] = data.nbv >= nb_v_thresh
+    # data['pred'] = data.cost >= 100000
     data['bot'] = [False] * len(data)
     data['top'] = [True] * len(data)
     data['Y'] = data['state'] != 'done'
