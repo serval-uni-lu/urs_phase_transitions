@@ -66,7 +66,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'] + 1)
     orig_r = data.r
 
-    data['pred'] = np.logical_and(data['r'] >= 2 , data['r'] <= 5)
+    # data['pred'] = np.logical_and(data['r'] >= 2 , data['r'] <= 5)
     # data['pred'] = np.logical_or(data.nbv >= 150, data['nbv_k3'] >= 150)
     data['pred'] = data.nbv >= nb_v_thresh
     data['bot'] = [False] * len(data)
@@ -134,24 +134,24 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     mpl.legend()
     f.savefig(f"{sampler}_complete.png", dpi = dpi, bbox_inches = 'tight')
 
-    f = mpl.figure(f_id)
-    f_id += 1
+    # f = mpl.figure(f_id)
+    # f_id += 1
 
-    mpl.ylabel("Number of formulas")
-    mpl.xlabel(xlabel)
-    mpl.hist(data.r, 100, color='grey', alpha = 0.5, label = "number of formulas")
-    mpl.twinx()
+    # mpl.ylabel("Number of formulas")
+    # mpl.xlabel(xlabel)
+    # mpl.hist(data.r, 100, color='grey', alpha = 0.5, label = "number of formulas")
+    # mpl.twinx()
 
-    mpl.xlabel(xlabel)
-    mpl.ylabel(ylabel)
-    mpl.minorticks_on()
-    # mpl.title("nb points: " + str(nb_r))
-    mpl.scatter(Xd_r, Yd_r, marker = '.', label = 'success')
-    mpl.scatter(Xm_r, Ym_r, marker = '.', label = 'out of memory')
-    mpl.scatter(Xt_r, Yt_r, marker = '.', label = 'timeout')
-    mpl.scatter(Xh_r, Yh_r, linewidth = 0.5, marker = 'x', color = 'black', label = 'subformula detected')
-    mpl.legend()
-    f.savefig(f"{sampler}_r10.png", dpi = dpi, bbox_inches = 'tight')
+    # mpl.xlabel(xlabel)
+    # mpl.ylabel(ylabel)
+    # mpl.minorticks_on()
+    # # mpl.title("nb points: " + str(nb_r))
+    # mpl.scatter(Xd_r, Yd_r, marker = '.', label = 'success')
+    # mpl.scatter(Xm_r, Ym_r, marker = '.', label = 'out of memory')
+    # mpl.scatter(Xt_r, Yt_r, marker = '.', label = 'timeout')
+    # mpl.scatter(Xh_r, Yh_r, linewidth = 0.5, marker = 'x', color = 'black', label = 'subformula detected')
+    # mpl.legend()
+    # f.savefig(f"{sampler}_r10.png", dpi = dpi, bbox_inches = 'tight')
 
 
     # print(stats.kendalltau(X, Y, nan_policy = 'raise'))
