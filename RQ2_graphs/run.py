@@ -52,6 +52,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
     mpl.ylabel("relative time")
+    mpl.minorticks_on()
     # mpl.xlim(right = 7)
     mpl.savefig(f"var_k_f1_{s}.png", dpi = dpi, bbox_inches = 'tight')
 
@@ -61,6 +62,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
     mpl.ylabel("relative time ; $log_2(|R_F|) / |Var(F)|$")
+    mpl.minorticks_on()
     mpl.savefig(f"var_k_f2_{s}.png", dpi = dpi, bbox_inches = 'tight')
 
     mpl.figure(f3)
@@ -68,5 +70,6 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
     mpl.ylabel("relative time")
+    mpl.minorticks_on()
     # mpl.xlim(left = 0.1)
     mpl.savefig(f"var_k_f3_{s}.png", dpi = dpi, bbox_inches = 'tight')
