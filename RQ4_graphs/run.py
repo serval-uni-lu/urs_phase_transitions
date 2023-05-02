@@ -16,9 +16,9 @@ dpi = 200
 def score(title, Y, ype):
     print("## " + title)
 
-    l = [ "F1: " + str(metrics.f1_score(Y, ype))
-    , "ROC AUC: " + str(metrics.roc_auc_score(Y, ype))
-    , "precision: " + str(metrics.precision_score(Y, ype))
+    l = [ #"F1: " + str(metrics.f1_score(Y, ype))
+    #, "ROC AUC: " + str(metrics.roc_auc_score(Y, ype))
+    "precision: " + str(metrics.precision_score(Y, ype))
     ]
 
     for i in l:
@@ -44,7 +44,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     # mc =  pd.read_csv("data/mc.csv", skipinitialspace = True, index_col = 'file')
     subfm = pd.read_csv(nbcls_f, skipinitialspace = True, index_col = 'file')
     # subfmk3 = pd.read_csv("data/subfm_k3.csv", skipinitialspace = True, index_col = 'file')
-    cost = pd.read_csv("./data/split_cost_s75.csv", skipinitialspace = True, index_col = 'file')
+    cost = pd.read_csv("./data/split_cost_s200.csv", skipinitialspace = True, index_col = 'file')
 
     data = cnf.join(d4, on = 'file')
     data = data.join(subfm, on = 'file')
@@ -68,10 +68,8 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'] + 1)
     orig_r = data.r
 
-    # data['pred'] = np.logical_and(data['r'] >= 2 , data['r'] <= 5)
-    # data['pred'] = np.logical_or(data.nbv >= 150, data['nbv_k3'] >= 150)
     data['pred'] = data.nbv >= nb_v_thresh
-    # data['pred'] = data.cost >= 100000
+    # data['pred'] = data.cost >= 5000
     data['bot'] = [False] * len(data)
     data['top'] = [True] * len(data)
     data['Y'] = data['state'] != 'done'
@@ -82,11 +80,6 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     # score("bot_" + sampler, tmp['Y'], tmp['bot'])
     score("top_" + sampler, tmp['Y'], tmp['top'])
     print("")
-
-    # if sampler == 'spur':
-        # tmp = data[data.r >= 5]
-        # tmp = tmp[tmp.r <= 6]
-        # print(tmp[['#v', '#c-u', 'time', 'state']])
 
     print(f"nb data points: {len(data)}")
 
@@ -103,9 +96,6 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
 
     hard_r = data[data.pred]
 
-
-# X = ((data['log2(#m)'] - data['#vf']) / (data['#v'] - data['#vu'] - data['#vf'] + 1))
-# Y = np.log2(data.time)
 
     Xd, Yd = get_v(done)
     Xm, Ym = get_v(mem)
@@ -156,9 +146,6 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     # mpl.legend()
     # f.savefig(f"{sampler}_r10.png", dpi = dpi, bbox_inches = 'tight')
 
-
-    # print(stats.kendalltau(X, Y, nan_policy = 'raise'))
-    # print(stats.kendalltau(X_r, Y_r, nan_policy = 'raise'))
 
 for s in total_time:
     print(f"{s}:\t{total_time[s]}")
