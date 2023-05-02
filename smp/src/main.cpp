@@ -7,7 +7,7 @@ void print_stats(std::string const& path, CNF & cnf) {
     cnf.simplify();
     cnf.compute_free_vars();
     
-    //std::cout << "file, #v, #vu, #vf, #c-u, #c2, #v2, #c3, #v3, #c4, #v4, #c5, #v5\n";
+    std::cout << "file, #v, #vu, #vf, #c-u, #c2, #v2, #c3, #v3, #c4, #v4, #c5, #v5\n";
 
     std::cout << path << ", ";
 
@@ -44,8 +44,11 @@ int main(int argc, char const** argv) {
     cnf.simplify();
     cnf.subsumption();
 
+#ifndef STATS
     std::cout << cnf;
-    //print_stats(path, cnf);
+#else
+    print_stats(path, cnf);
+#endif
 
     return 0;
 }

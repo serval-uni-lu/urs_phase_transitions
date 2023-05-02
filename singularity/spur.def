@@ -1,0 +1,21 @@
+BootStrap: docker
+From: ubuntu:22.04
+
+%files
+    ./wrapper/wrap /wrap
+
+%post
+    echo "setup start"
+    apt-get -y update
+
+    apt-get -y install git build-essential libgmp-dev libgmpxx4ldbl cmake
+
+    git clone "https://github.com/ZaydH/spur"
+    cd spur
+    bash build.sh
+
+    ls
+    echo "setup done"
+
+%runscript
+    /wrap 64000 18000 /spur/build/Release/spur "$@"

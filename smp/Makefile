@@ -1,5 +1,9 @@
-override CXXFLAGS += -std=c++14 -Wall -Wextra -fopenmp -pthread
-override LDFLAGS  += -std=c++14 -fopenmp -pthread
+CXXFLAGS += -std=c++14 -Wall -Wextra -fopenmp -pthread
+LDFLAGS  += -std=c++14 -fopenmp -pthread
+
+ifeq ($(STATS),1)
+CXXFLAGS += -DSTATS
+endif
 
 EXEC = smp
 
