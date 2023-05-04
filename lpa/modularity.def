@@ -1,0 +1,20 @@
+BootStrap: docker
+From: ubuntu:22.04
+
+%files
+    ./ /modularity
+
+%post
+    echo "setup start"
+    apt-get -y update
+    apt-get -y install make g++
+
+    cd modularity
+    make clean
+    make -j8
+
+    ls
+    echo "setup done"
+
+%runscript
+    /modularity/modularity "$@"
