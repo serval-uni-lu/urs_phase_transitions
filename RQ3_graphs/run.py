@@ -123,7 +123,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     mpl.scatter(Xd, Yd, marker = '.', label = 'success')
     mpl.scatter(Xm, Ym, marker = '.', label = 'out of memory')
     mpl.scatter(Xt, Yt, marker = '.', label = 'timeout')
-    mpl.scatter(Xh, Yh, linewidth=0.5, marker = 'x', color = 'black', label = 'subformula detected')
+    # mpl.scatter(Xh, Yh, linewidth=0.5, marker = 'x', color = 'black', label = 'subformula detected')
     mpl.legend()
     f.savefig(f"{sampler}_complete.png", dpi = dpi, bbox_inches = 'tight')
 
