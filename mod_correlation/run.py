@@ -89,6 +89,7 @@ for sampler in samplers:
     print("(time, #rv): " + str(stats.kendalltau(done.time, done['#rv'], nan_policy = 'raise')))
     print("(time, mod): " + str(stats.kendalltau(done.time, done['q'], nan_policy = 'raise')))
     print("(time, mod / (1 + #rv)): " + str(stats.kendalltau(done['time'], done['q'] / (1 + done['#rv']), nan_policy = 'raise')))
+    print("(time, mod / ((#c) / (1 + #rv))): " + str(stats.kendalltau(done['time'], done['q'] / (done['r'] + 1), nan_policy = 'raise')))
     print("(time, tw): " + str(stats.kendalltau(done['time'], done['tw'], nan_policy = 'raise')))
     print("(time, tw / (1 + #rv)): " + str(stats.kendalltau(done['time'], done['tw'] / (1 + done['#rv']), nan_policy = 'raise')))
     print("(time, 1 / (1 + #rv)): " + str(stats.kendalltau(done['time'], 1 / (1 + done['#rv']), nan_policy = 'raise')))

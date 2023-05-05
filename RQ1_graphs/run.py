@@ -10,7 +10,7 @@ xlabel = "$|F| / |Var(F)|$"
 ylabel = "time (s)"
 
 # for s in ["spur"]:
-for dataset in ["c8", "c15"]:
+for dataset in ["c5", "c8", "c15"]:
     for s in ["d4", "ug3", "mcTw", "sharpSAT", "spur"]:
         f = mpl.figure(fig_nb)
         fig_nb += 1
