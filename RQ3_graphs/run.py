@@ -15,7 +15,6 @@ dpi = 200
 
 def get_v(data):
     X = np.abs(((data['#c-u']) / (data['#v'] - data['#vu'] - data['#vf'] + 1)))
-    # X = data['mis'] / (data['#v'] - data['#vu'] - data['#vf'] + 1)
     Y = data.time
     return X, Y
 
