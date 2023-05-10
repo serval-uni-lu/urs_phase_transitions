@@ -1,5 +1,19 @@
 # URS and #SAT phase transitions
 
+## RQk
+
+The `RQk_graphs` folders contain a `run.py` script used to create
+graphs from the data in the respective `data` folder.
+
+## Community
+
+The `community` folder contains the community attachment model
+, by Jesús Giráldez-Cru and Jordi Levy,
+which generates random k-CNF formulas with a community structure.
+(https://www.ijcai.org/Abstract/15/277)
+
+The folder also contains `rsat` which generates random k-CNF formulas.
+
 ## SMP
 
 The `smp` folder contains the program used to simplify a DIMACS file
