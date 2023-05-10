@@ -32,11 +32,17 @@ The output is in csv format with the following columns:
 `file, #v, #vu, #vf, #c-u, #c2, #v2, #c3, #v3, #c4, #v4, #c5, #v5`
 
 `file` is the file name
+
 `#v` is the number of variables
+
 `#vu` is the number of unit variables
+
 `#vf` is the number of unconstrained variables
+
 `#c-u` is the number of clauses minus the number of unit clauses
+
 `#ck` is the number of clauses of size k
+
 `#vk` is the number of variables in the subset of the formula containing only clauses of size k
 
 
