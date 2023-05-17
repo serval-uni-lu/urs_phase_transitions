@@ -12,7 +12,7 @@
 Literal::Literal (Variable v) : l((v.get() << 1)) {
 }
 
-Literal::Literal (Variable v, int sign) : l((v.get() << 1) | (sign < 0 ? -1 : 1)) {
+Literal::Literal (Variable v, int sign) : l((v.get() << 1) | (sign < 0 ? 1 : 0)) {
 }
 
 Literal::Literal (int i) : l(((std::abs(i) - 1) << 1) ^ (i < 0 ? 1 : 0)) {
