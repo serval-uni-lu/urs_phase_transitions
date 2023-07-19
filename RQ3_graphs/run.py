@@ -34,7 +34,9 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
         total_time[sampler] = 0
     # data.dropna(inplace = True)
 
-    data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'] + 1)
+    data['#vc'] = data['#v'] - data['#vu'] - data['#vf']
+    data = data[data['#vc'] > 0]
+    data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'])
 
 
     done = data[data['state'] == 'done']

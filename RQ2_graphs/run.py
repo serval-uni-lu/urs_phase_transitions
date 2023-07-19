@@ -15,6 +15,9 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     f3 = mpl.figure(nb_fig)
     nb_fig += 1
 
+    f4 = mpl.figure(nb_fig)
+    nb_fig += 1
+
     for i in range(3, 5):
         ncls = pd.read_csv(f"data/r50k{i}_cls.csv", skipinitialspace = True, index_col = 'file')
         sp = pd.read_csv(f"data/r50k{i}_{s}.csv", skipinitialspace = True, index_col = 'file')
@@ -46,6 +49,11 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
         mpl.figure(f3)
         mpl.scatter(succ.lmc_ratio, succ.time, label = f'k = {i}', marker = '.')
 
+        mpl.figure(f4)
+        #mpl.scatter(succ.lmc_ratio, succ.ratio, label = f'k = {i}', marker = '.')
+        if i == 4:
+            mpl.hist(d.lmc_ratio, bins = 40, label = f'k = {i}')
+
 
     mpl.figure(f1)
     mpl.legend()
@@ -73,3 +81,12 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.minorticks_on()
     # mpl.xlim(left = 0.1)
     mpl.savefig(f"var_k_f3_{s}.png", dpi = dpi, bbox_inches = 'tight')
+
+    mpl.figure(f4)
+    mpl.legend()
+    mpl.grid()
+    mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
+    mpl.ylabel("$|F| / |Var(F)|$")
+    mpl.minorticks_on()
+    # mpl.xlim(left = 0.1)
+    mpl.savefig(f"var_k_f4_{s}.png", dpi = dpi, bbox_inches = 'tight')
