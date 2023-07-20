@@ -148,6 +148,59 @@ CNF::CNF(char const* path) {
     //compute_free_vars();
 }
 
+CNF::CNF(std::size_t nbv) : idx(nbv * 2, std::set<std::size_t>()) {
+    for(std::size_t i = 1; i <= nbv; i++) {
+        vars.insert(Variable(i));
+    }
+}
+
+CNF CNF::rename_vars() {
+    std::size_t next_v = 1;
+    std::set<Variable> done;
+
+    std::map<Variable, Variable> m;
+
+    for(std::size_t i = 0; i < clauses.size(); i++) {
+        if(active[i] && clauses[i].size() > 1) {
+            for(auto const& l : clauses[i]) {
+                Variable v(l);
+
+                if(done.find(v) == done.end()) {
+                    //m[v] = Variable(next_v);
+                    m.emplace(v, next_v);
+                    next_v += 1;
+                    done.insert(v);
+                }
+            }
+        }
+    }
+
+#ifdef PRINT_MAP
+    for(auto const& e : m) {
+        std::cout << "c " << e.first << " -> " << e.second << "\n";
+    }
+#endif
+
+    CNF res(m.size());
+
+    for(std::size_t i = 0; i < clauses.size(); i++) {
+        if(active[i]) {
+            Clause tmp;
+            for(auto const& l : clauses[i]) {
+                Variable v(l);
+                Literal nl(m.find(v)->second, l.sign());
+
+                tmp.push(nl);
+            }
+
+            //std::cout << clauses[i] << " -> " << tmp << "\n";
+            res.add_clause(tmp);
+        }
+    }
+
+    return res;
+}
+
 std::ostream & operator<<(std::ostream & out, CNF const& cnf) {
     out << "p cnf " << cnf.vars.size() << " " << (cnf.nb_active + cnf.units.size());
     for(std::size_t i = 0; i < cnf.clauses.size(); i++) {
@@ -289,4 +342,16 @@ std::vector<std::set<Variable> > CNF::get_vars_by_clause_len() const {
     }
 
     return res;
+}
+
+void CNF::add_clause(Clause c) {
+    active.push_back(true);
+    nb_active += 1;
+    auto id = clauses.size();
+    clauses.push_back(c);
+
+    for(auto const& l : c) {
+        idx[l.get()].insert(id);
+        //std::cout << idx[l.get()].size() << "\n";
+    }
 }

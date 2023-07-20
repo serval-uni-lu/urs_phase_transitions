@@ -5,6 +5,14 @@ ifeq ($(STATS),1)
 CXXFLAGS += -DSTATS
 endif
 
+ifeq ($(RENAME),1)
+CXXFLAGS += -DRENAME
+endif
+
+ifeq ($(PRINT_MAP),1)
+CXXFLAGS += -DPRINT_MAP
+endif
+
 EXEC = smp
 
 CSRCS      = $(wildcard *.cpp */*.cpp)

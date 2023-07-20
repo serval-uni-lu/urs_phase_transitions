@@ -135,6 +135,7 @@ class CNF {
 
     public:
         CNF() = default;
+        CNF(std::size_t nbv);
         CNF(char const* path);
         CNF(CNF const& c) = default;
         CNF(CNF && c) = default;
@@ -145,6 +146,10 @@ class CNF {
         void compute_free_vars();
         void simplify();
         void subsumption();
+
+        void add_clause(Clause c);
+
+        CNF rename_vars();
 
         std::vector<std::size_t> get_nb_by_clause_len() const;
         std::vector<std::set<Variable> > get_vars_by_clause_len() const;
