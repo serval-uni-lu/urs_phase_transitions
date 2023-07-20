@@ -376,7 +376,7 @@ void gfa(CNF const& cnf) {
     std::cout << "s " << L1.nb_communities() << "\n";
 }
 
-void lpa(CNF const& cnf) {
+double lpa(CNF const& cnf) {
     auto m = cnf.get_reduced_mapping();
     Graph g = build_graph(cnf, m);
     Community L(g.size());
@@ -425,8 +425,10 @@ void lpa(CNF const& cnf) {
     auto cl_by_vars = cnf.get_clauses_by_vars(vars, 3);
     auto cl_by_vars_w = cnf.get_clauses_by_vars_wide(vars, 3);
 
+    double const modul_q = modularity(g, L);
+
     std::cout << "i " << count << "\n";
-    std::cout << "q " << modularity(g, L) << "\n";
+    std::cout << "q " << modul_q << "\n";
     std::cout << "nb comm " << L.nb_communities() << "\n";
     std::cout << "smallest comm size " << L.min_comm_size() << "\n";
     std::cout << "biggest comm size " << L.max_comm_size() << "\n";
@@ -476,6 +478,8 @@ void lpa(CNF const& cnf) {
             std::cout << "\n";
         }
     }
+
+    return modul_q;
 }
 
 int main(int argc, char const** argv) {
@@ -486,9 +490,16 @@ int main(int argc, char const** argv) {
     cnf.simplify();
     cnf.subsumption();
 
+    const int nb = std::stoi(argv[2]);
+
     //std::cout << "GFA\n";
     //gfa(cnf);
     std::cout << "LPA\n";
-    lpa(cnf);
+    double res = lpa(cnf);
+    for(int i = 1; i < nb; i++) {
+        res = std::max(res, lpa(cnf));
+    }
+
+    std::cout << "s q " << res << "\n";
     return 0;
 }
