@@ -24,18 +24,18 @@ the address sanitizer. This will create an executable calles
 `modularity_d`.
 
 Program usage:
-`modularity <path to cnf formula>`
+`modularity <path to cnf formula> <nb repeats>`
 
 example outputs for the file `benchmarks/blasted_case200.cnf`:
 ```
-LFA
+LPA
 i 5
 q 0.116006
 s 2
 ```
 or for the same file:
 ```
-LFA
+LPA
 i 3
 q 0
 s 1
