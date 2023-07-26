@@ -33,6 +33,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
         print(f"{s}: max mem for k={i}: {d.mem.max()} (min: {d.mem.min()})")
         d.time /= d.time.max()
 
+        fail = d[d.state != 'done']
         succ = d[d.state == 'done']
         mem = d[d.state == 'mem']
         t = d[d.state == 'timeout']
