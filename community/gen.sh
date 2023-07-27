@@ -1,12 +1,12 @@
 #!/bin/bash
 
 nv=75
-nc=750
-nb=5
+nc=900
+nb=3
 
 k=3
 Q="$1" #0.3 -> 0.8
-comm=8
+comm=5
 
 for ic in $(seq 1 "$nc") ; do
     for j in $(seq 1 "$nb") ; do

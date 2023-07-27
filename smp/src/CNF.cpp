@@ -184,7 +184,7 @@ CNF CNF::rename_vars() {
     CNF res(m.size());
 
     for(std::size_t i = 0; i < clauses.size(); i++) {
-        if(active[i]) {
+        if(active[i] && clauses[i].size() > 1) {
             Clause tmp;
             for(auto const& l : clauses[i]) {
                 Variable v(l);
