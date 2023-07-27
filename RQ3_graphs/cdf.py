@@ -49,17 +49,18 @@ for sampler in ['d4', 'spur', 'unigen3', 'sharpSAT', 'mcTw']:
 
     X = np.sort(done[field].to_numpy())
     Y = np.arange(len(done))
-    mpl.plot(X, Y, label = 'done')
+    mpl.plot(X, Y, label = 'success')
 
     X = np.sort(fail[field].to_numpy())
     Y = np.arange(len(fail))
-    mpl.plot(X, Y, label = 'fail')
+    mpl.plot(X, Y, label = 'out of memory or timeout')
 
 
     mpl.ylabel("Number of formulas")
     mpl.xlabel(xlabel)
     mpl.legend()
     mpl.minorticks_on()
+    mpl.grid()
     f.savefig(f"cdf_{sampler}.png", dpi = dpi, bbox_inches = 'tight')
 
     crit = 2.2
