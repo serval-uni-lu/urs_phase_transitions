@@ -4,6 +4,8 @@ import numpy as np
 import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
+# default: [6.4, 4.8]
+mpl.rcParams["figure.figsize"] = (6.4,4.1)
 nb_fig = 1
 dpi = 200
 

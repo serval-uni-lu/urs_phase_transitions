@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
+mpl.rcParams["figure.figsize"] = (6.4,4.1)
 
 fig_dim = (4, 4)
 fig_nb = 1

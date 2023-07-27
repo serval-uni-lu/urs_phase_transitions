@@ -7,6 +7,8 @@ import scipy.stats as stats
 import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
+# default: [6.4, 4.8]
+mpl.rcParams["figure.figsize"] = (6.4,4.1)
 
 xlabel = "$|F| / |Var(F)|$"
 ylabel = "time (s)"
