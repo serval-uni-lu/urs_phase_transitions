@@ -8,6 +8,11 @@ mpl.rcParams["figure.figsize"] = (6.4,4.1)
 nb_fig = 1
 dpi = 200
 
+ylabel_f1 = 'relative memory'
+ylabel_f2 = 'relative memory ; $log_2(|R_F|) / |Var(F)|$'
+ylabel_f4 = '$|F| / |Var(F)|$'
+yfield = 'mem'
+
 for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     f1 = mpl.figure(nb_fig)
     nb_fig += 1
@@ -33,6 +38,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
         print(f"{s}: max time for k={i}: {d.time.max()} (min: {d.time.min()})")
         print(f"{s}: max mem for k={i}: {d.mem.max()} (min: {d.mem.min()})")
         d.time /= d.time.max()
+        d.mem /= d.mem.max()
 
         fail = d[d.state != 'done']
         succ = d[d.state == 'done']
@@ -40,16 +46,16 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
         t = d[d.state == 'timeout']
 
         mpl.figure(f1)
-        mpl.scatter(succ['ratio'], succ['time'], label = f'k = {i}', marker = '.')
-        mpl.scatter(mem['ratio'], mem['time'], label = f'(out of mem) k = {i}', marker = '.')
-        mpl.scatter(t['ratio'], t['time'], label = f'(timeout) k = {i}', marker = '.')
+        mpl.scatter(succ['ratio'], succ[yfield], label = f'k = {i}', marker = '.')
+        mpl.scatter(mem['ratio'], mem[yfield], label = f'(out of mem) k = {i}', marker = '.')
+        mpl.scatter(t['ratio'], t[yfield], label = f'(timeout) k = {i}', marker = '.')
 
         mpl.figure(f2)
-        mpl.scatter(succ.ratio, succ.time, label = f'k = {i}', marker = '.')
+        mpl.scatter(succ.ratio, succ[yfield], label = f'k = {i}', marker = '.')
         mpl.scatter(succ.ratio, succ.lmc_ratio, label = f'lmc / var k = {i}', marker = '.')
 
         mpl.figure(f3)
-        mpl.scatter(succ.lmc_ratio, succ.time, label = f'k = {i}', marker = '.')
+        mpl.scatter(succ.lmc_ratio, succ[yfield], label = f'k = {i}', marker = '.')
 
         mpl.figure(f4)
         #mpl.scatter(succ.lmc_ratio, succ.ratio, label = f'k = {i}', marker = '.')
@@ -61,7 +67,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.legend()
     mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
-    mpl.ylabel("relative time")
+    mpl.ylabel(ylabel_f1)
     mpl.minorticks_on()
     # mpl.xlim(right = 7)
     mpl.savefig(f"var_k_f1_{s}.png", dpi = dpi, bbox_inches = 'tight')
@@ -71,7 +77,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.legend()
     mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
-    mpl.ylabel("relative time ; $log_2(|R_F|) / |Var(F)|$")
+    mpl.ylabel(ylabel_f2)
     mpl.minorticks_on()
     mpl.savefig(f"var_k_f2_{s}.png", dpi = dpi, bbox_inches = 'tight')
 
@@ -79,7 +85,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.legend()
     mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
-    mpl.ylabel("relative time")
+    mpl.ylabel(ylabel_f1)
     mpl.minorticks_on()
     # mpl.xlim(left = 0.1)
     mpl.savefig(f"var_k_f3_{s}.png", dpi = dpi, bbox_inches = 'tight')
@@ -88,7 +94,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     mpl.legend()
     mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
-    mpl.ylabel("$|F| / |Var(F)|$")
+    mpl.ylabel(ylabel_f4)
     mpl.minorticks_on()
     # mpl.xlim(left = 0.1)
     mpl.savefig(f"var_k_f4_{s}.png", dpi = dpi, bbox_inches = 'tight')
