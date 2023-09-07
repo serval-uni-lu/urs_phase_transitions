@@ -173,7 +173,7 @@ void genFormula(pcg32_random_t* rng, uint64_t nv, uint64_t nc, uint64_t k, char 
 
     int64_t * cls = malloc(sizeof(int64_t) * k * nc);
     for(uint64_t c = 0; c < nc; c++) {
-         do {
+         //do {
              for(uint64_t i = c * k; i < (c + 1) * k; i++) {
                  do {
                      cls[i] = pcg32_boundedrand_r(rng, nv) + 1;
@@ -183,7 +183,7 @@ void genFormula(pcg32_random_t* rng, uint64_t nv, uint64_t nc, uint64_t k, char 
              for(uint64_t i = c * k; i < (c + 1) * k; i++) {
                  cls[i] *= pcg32_boundedrand_r(rng, 2) ? -1 : 1;
              }
-         } while(already_generated(cls, k, c, c));
+         //} while(already_generated(cls, k, c, c));
 
         for(uint64_t ki = 0; ki < k; ki++) {
             fprintf(file, "%" PRIi64 " ", cls[c * k + ki]);
