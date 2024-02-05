@@ -9,11 +9,12 @@ import matplotlib.pyplot as mpl
 mpl.rcParams['text.usetex'] = True
 # default: [6.4, 4.8]
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 
 xlabel = "$|F| / |Var(F)|$"
 ylabel = "time (s)"
 
-dpi = 200
+dpi = 600
 f_id = 0
 
 
@@ -58,11 +59,11 @@ for sampler in ['d4', 'spur', 'unigen3', 'sharpSAT', 'mcTw']:
     mpl.plot(X, Y, label = 'out of memory or timeout')
 
 
-    mpl.ylabel("Number of formulas")
+    mpl.ylabel("Number of formulae")
     mpl.xlabel(xlabel)
     mpl.legend()
     mpl.minorticks_on()
-    mpl.grid()
+    # mpl.grid()
     f.savefig(f"cdf_{sampler}.png", dpi = dpi, bbox_inches = 'tight')
 
     crit = 2.2

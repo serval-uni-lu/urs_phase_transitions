@@ -5,8 +5,9 @@ import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 nb_fig = 1
-dpi = 200
+dpi = 600
 
 q_f_fig = nb_fig
 mpl.figure(nb_fig)
@@ -31,9 +32,9 @@ for i in range(3, 5):
     nb_fig += 1
     mpl.hist(mc.ratio, bins = 40, label = f'k = {i}')
 
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
-    mpl.ylabel("number of formulas")
+    mpl.ylabel("number of formulae")
     mpl.minorticks_on()
     # mpl.xlim(right = 7)
     mpl.savefig(f"dist_cls_k{i}.png", dpi = dpi, bbox_inches = 'tight')
@@ -42,9 +43,9 @@ for i in range(3, 5):
     nb_fig += 1
     mpl.hist(mc.lmc_ratio, bins = 40, label = f'k = {i}')
 
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
-    mpl.ylabel("number of formulas")
+    mpl.ylabel("number of formulae")
     mpl.minorticks_on()
     # mpl.xlim(right = 7)
     mpl.savefig(f"dist_lmc_k{i}.png", dpi = dpi, bbox_inches = 'tight')
@@ -56,7 +57,7 @@ for i in range(3, 5):
     mpl.scatter(mc.lmc_ratio, mc['q'], label = f'k = {i}', marker = '.')
 
 mpl.figure(q_f_fig)
-mpl.grid()
+# mpl.grid()
 mpl.xlabel("$|F| / |Var(F)|$")
 mpl.ylabel("Q")
 mpl.minorticks_on()
@@ -66,7 +67,7 @@ mpl.savefig(f"mod_f.png", dpi = dpi, bbox_inches = 'tight')
 
 
 mpl.figure(q_rf_fig)
-mpl.grid()
+# mpl.grid()
 mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
 mpl.ylabel("Q")
 mpl.minorticks_on()

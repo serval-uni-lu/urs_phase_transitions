@@ -5,13 +5,19 @@ import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 nb_fig = 1
-dpi = 200
+dpi = 600
 
-ylabel_f1 = 'relative memory'
-ylabel_f2 = 'relative memory ; $log_2(|R_F|) / |Var(F)|$'
+# ylabel_f1 = 'relative memory'
+# ylabel_f2 = 'relative memory ; $log_2(|R_F|) / |Var(F)|$'
+# ylabel_f4 = '$|F| / |Var(F)|$'
+# yfield = 'mem'
+
+ylabel_f1 = 'relative time'
+ylabel_f2 = 'relative time ; $log_2(|R_F|) / |Var(F)|$'
 ylabel_f4 = '$|F| / |Var(F)|$'
-yfield = 'mem'
+yfield = 'time'
 
 for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     f1 = mpl.figure(nb_fig)
@@ -65,7 +71,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
     mpl.figure(f1)
     mpl.legend()
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
     mpl.ylabel(ylabel_f1)
     mpl.minorticks_on()
@@ -75,7 +81,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
     mpl.figure(f2)
     mpl.legend()
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
     mpl.ylabel(ylabel_f2)
     mpl.minorticks_on()
@@ -83,7 +89,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
     mpl.figure(f3)
     mpl.legend()
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
     mpl.ylabel(ylabel_f1)
     mpl.minorticks_on()
@@ -92,7 +98,7 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
     mpl.figure(f4)
     mpl.legend()
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
     mpl.ylabel(ylabel_f4)
     mpl.minorticks_on()

@@ -6,8 +6,9 @@ import matplotlib.pyplot as mpl
 mpl.rcParams['text.usetex'] = True
 # default: [6.4, 4.8]
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 nb_fig = 1
-dpi = 200
+dpi = 600
 
 q_fig = nb_fig
 mpl.figure(nb_fig)
@@ -41,9 +42,9 @@ mpl.figure(nb_fig)
 nb_fig += 1
 mpl.hist(mc.ratio, bins = 40)
 
-mpl.grid()
+# mpl.grid()
 mpl.xlabel("$|F| / |Var(F)|$")
-mpl.ylabel("number of formulas")
+mpl.ylabel("number of formulae")
 mpl.minorticks_on()
 # mpl.xlim(right = 7)
 mpl.savefig(f"dist_cls.png", dpi = dpi, bbox_inches = 'tight')
@@ -52,9 +53,9 @@ mpl.figure(nb_fig)
 nb_fig += 1
 mpl.hist(mc.lmc_ratio, bins = 40)
 
-mpl.grid()
+# mpl.grid()
 mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
-mpl.ylabel("number of formulas")
+mpl.ylabel("number of formulae")
 mpl.minorticks_on()
 # mpl.xlim(right = 7)
 mpl.savefig(f"dist_lmc.png", dpi = dpi, bbox_inches = 'tight')
@@ -65,7 +66,7 @@ mpl.scatter(done['#vc'], done.q, label = 'done')
 mpl.scatter(fail['#vc'], fail['q'], label = 'fail')
 
 mpl.figure(q_fig)
-mpl.grid()
+# mpl.grid()
 mpl.xlabel("$|Var(F)|$")
 mpl.ylabel("Q")
 mpl.minorticks_on()

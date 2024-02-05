@@ -5,8 +5,9 @@ import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 nb_fig = 1
-dpi = 200
+dpi = 600
 
 
 for dataset in ["c5", "c8", "c15"]:
@@ -59,7 +60,7 @@ for dataset in ["c5", "c8", "c15"]:
         mpl.scatter(mc.lmc_ratio, mc['q'], label = f'Q = 0.{i}', marker = '.')
 
     mpl.figure(q_f_fig)
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$|F| / |Var(F)|$")
     mpl.ylabel("Q")
     mpl.minorticks_on()
@@ -69,7 +70,7 @@ for dataset in ["c5", "c8", "c15"]:
 
 
     mpl.figure(q_rf_fig)
-    mpl.grid()
+    # mpl.grid()
     mpl.xlabel("$log_2(|R_F|) / |Var(F)|$")
     mpl.ylabel("Q")
     mpl.minorticks_on()

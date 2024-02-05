@@ -9,11 +9,12 @@ import matplotlib.pyplot as mpl
 mpl.rcParams['text.usetex'] = True
 # default: [6.4, 4.8]
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 
 xlabel = "$|F| / |Var(F)|$"
 ylabel = "time (s)"
 
-dpi = 200
+dpi = 600
 
 def get_v(data):
     X = np.abs(((data['#c-u']) / (data['#v'] - data['#vu'] - data['#vf'] + 1)))
@@ -76,9 +77,9 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     f = mpl.figure(f_id)
     f_id += 1
 
-    mpl.ylabel("Number of formulas")
+    mpl.ylabel("Number of formulae")
     mpl.xlabel(xlabel)
-    mpl.hist(orig_r, 100, color='grey', alpha = 0.5, label = "number of formulas")
+    mpl.hist(orig_r, 100, color='grey', alpha = 0.5, label = "number of formulae")
     mpl.twinx()
 
     mpl.ylabel(ylabel)
@@ -93,9 +94,9 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     f = mpl.figure(f_id)
     f_id += 1
 
-    # mpl.ylabel("Number of formulas")
+    # mpl.ylabel("Number of formulae")
     # mpl.xlabel(xlabel)
-    # mpl.hist(done.r, 100, color='grey', alpha = 0.5, label = "number of formulas")
+    # mpl.hist(done.r, 100, color='grey', alpha = 0.5, label = "number of formulae")
     # mpl.twinx()
 
     mpl.ylabel(ylabel)

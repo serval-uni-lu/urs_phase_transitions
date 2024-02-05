@@ -3,6 +3,7 @@ import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams['font.size'] = '14'
 dpi = 600
 
 fig_dim = (4, 4)
@@ -37,6 +38,6 @@ for dataset in ["c5", "c8", "c15"]:
             mpl.scatter(sampler['ratio'], sampler['time'], label = f'Q = {i / 10}', marker = '.')
 
         mpl.legend()
-        mpl.grid()
+        # mpl.grid()
         mpl.minorticks_on()
         mpl.savefig(f"gr/{s}_{dataset}.png", dpi = dpi, bbox_inches = 'tight')
