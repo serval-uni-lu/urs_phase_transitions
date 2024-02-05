@@ -3,6 +3,7 @@ import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
 mpl.rcParams["figure.figsize"] = (6.4,4.1)
+dpi = 600
 
 fig_dim = (4, 4)
 fig_nb = 1
@@ -38,4 +39,4 @@ for dataset in ["c5", "c8", "c15"]:
         mpl.legend()
         mpl.grid()
         mpl.minorticks_on()
-        mpl.savefig(f"gr/{s}_{dataset}.png", dpi = 200, bbox_inches = 'tight')
+        mpl.savefig(f"gr/{s}_{dataset}.png", dpi = dpi, bbox_inches = 'tight')
