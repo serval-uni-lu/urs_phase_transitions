@@ -3,8 +3,11 @@ import numpy as np
 
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_absolute_percentage_error
 
 EF = mean_absolute_error
+# EF = mean_absolute_percentage_error
+# EF = mean_squared_error
 
 def median_vals(data, xkey, ykey, epsilon = 0.01):
     vals = set(data[xkey].to_numpy())
