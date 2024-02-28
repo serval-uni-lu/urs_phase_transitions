@@ -14,14 +14,19 @@ def median_vals(data, xkey, ykey, epsilon = 0.01):
 
     res = {}
 
+    sz = []
+
     for nc in vals:
         mask = [data[xkey][i] > nc - epsilon and data[xkey][i] < nc + epsilon for i in data[xkey].keys()]
         # tmp = data[data[xkey] >= nc - epsilon or data[xkey] <= nc + epsilon]
         tmp = data[mask]
+        sz.append(len(tmp))
         tmp = tmp[ykey].to_numpy()
         # tmp = np.median(tmp)
         tmp = np.mean(tmp)
         res[nc] = [tmp]
+
+    print(np.mean(sz))
 
     return (pd.DataFrame(res).T).sort_index()
 
@@ -61,14 +66,18 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
     d['ratio'] = d['#c'] / d['#v']
     d['lmc_ratio'] = d['log2(#m)'] / d['#v']
 
-    d.time /= d.time.max()
-    d.mem /= d.mem.max()
 
-    mlmc = median_vals(d, 'lmc_ratio', yfield, epsilon = 0.06)
+    # mlmc = median_vals(d, 'lmc_ratio', yfield, epsilon = 0.06)
+    # mr = median_vals(d, 'ratio', yfield, epsilon = 0.64)
+
+    mlmc = median_vals(d, 'lmc_ratio', yfield, epsilon = 0.028)
     mr = median_vals(d, 'ratio', yfield, epsilon = 0.3)
 
     mlmc[0] /= mlmc[0].max()
     mr[0] /= mr[0].max()
+
+    d.time /= d.time.max()
+    d.mem /= d.mem.max()
 
     ytrue = d['time'].to_numpy()
     xs = d['ratio'].to_numpy()
