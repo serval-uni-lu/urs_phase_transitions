@@ -262,30 +262,46 @@ void CNF::simplify() {
     }
 }
 
+std::set<std::size_t> intersection(std::set<std::size_t> const& a, std::set<std::size_t> const& b) {
+    std::set<std::size_t> res;
+    for(auto const& i : a) {
+        if(b.find(i) != b.end()) {
+            res.insert(i);
+        }
+    }
+    return res;
+}
+
 void CNF::subsumption() {
     for(std::size_t i = 0; i < clauses.size(); i++) {
         if(active[i]) {
             auto j = *(clauses[i].begin());
-
             for(auto const& ji : clauses[i]) {
                 if(idx[j.get()].size() > idx[ji.get()].size()) {
                     j = ji;
                 }
             }
-            //for(auto const& j : clauses[i]) {
-            //auto const& j = *(clauses[i].begin());
-                auto ids = idx[j.get()];
+            auto ids = idx[j.get()];
 
-                for(auto const& id : ids) {
-                    if( active[id] && id != i && clauses[id].contains(clauses[i])) {
-                        active[id] = false;
-                        nb_active--;
-                        for(auto const& l : clauses[id]) {
-                            idx[l.get()].erase(id);
-                        }
+            //auto const& j = *(clauses[i].begin());
+            //auto ids = idx[j.get()];
+
+            // auto const& j = *(clauses[i].begin());
+            // std::set<std::size_t> ids = idx[j.get()];
+
+            // for(auto const& ji : clauses[i]) {
+            //     ids = intersection(ids, idx[ji.get()]);
+            // }
+
+            for(auto const& id : ids) {
+                if( active[id] && id != i && clauses[id].contains(clauses[i])) {
+                    active[id] = false;
+                    nb_active--;
+                    for(auto const& l : clauses[id]) {
+                        idx[l.get()].erase(id);
                     }
                 }
-            //}
+            }
         }
     }
 }
