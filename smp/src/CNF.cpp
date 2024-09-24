@@ -265,7 +265,15 @@ void CNF::simplify() {
 void CNF::subsumption() {
     for(std::size_t i = 0; i < clauses.size(); i++) {
         if(active[i]) {
-            for(auto const& j : clauses[i]) {
+            auto j = *(clauses[i].begin());
+
+            for(auto const& ji : clauses[i]) {
+                if(idx[j.get()].size() > idx[ji.get()].size()) {
+                    j = ji;
+                }
+            }
+            //for(auto const& j : clauses[i]) {
+            //auto const& j = *(clauses[i].begin());
                 auto ids = idx[j.get()];
 
                 for(auto const& id : ids) {
@@ -277,7 +285,7 @@ void CNF::subsumption() {
                         }
                     }
                 }
-            }
+            //}
         }
     }
 }
