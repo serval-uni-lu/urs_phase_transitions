@@ -58,9 +58,9 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
     print(f"### {s}")
     i = 4
-    ncls = pd.read_csv(f"data/r50k{i}_cls.csv", skipinitialspace = True, index_col = 'file')
-    sp = pd.read_csv(f"data/r50k{i}_{s}.csv", skipinitialspace = True, index_col = 'file')
-    mc = pd.read_csv(f"data/r50k{i}_mc.csv", skipinitialspace = True, index_col = 'file')
+    ncls = pd.read_csv(f"csv/r50k{i}_cls.csv", skipinitialspace = True, index_col = 'file')
+    sp = pd.read_csv(f"csv/r50k{i}_{s}.csv", skipinitialspace = True, index_col = 'file')
+    mc = pd.read_csv(f"csv/r50k{i}_mc.csv", skipinitialspace = True, index_col = 'file')
 
     d = ncls.join(sp, on = 'file').join(mc, on = 'file')
     d['ratio'] = d['#c'] / d['#v']
@@ -93,9 +93,9 @@ for s in ["d4", "spur", "sharpSAT", "ug3", "mcTw"]:
 
 
     i = 3
-    ncls = pd.read_csv(f"data/r50k{i}_cls.csv", skipinitialspace = True, index_col = 'file')
-    sp = pd.read_csv(f"data/r50k{i}_{s}.csv", skipinitialspace = True, index_col = 'file')
-    mc = pd.read_csv(f"data/r50k{i}_mc.csv", skipinitialspace = True, index_col = 'file')
+    ncls = pd.read_csv(f"csv/r50k{i}_cls.csv", skipinitialspace = True, index_col = 'file')
+    sp = pd.read_csv(f"csv/r50k{i}_{s}.csv", skipinitialspace = True, index_col = 'file')
+    mc = pd.read_csv(f"csv/r50k{i}_mc.csv", skipinitialspace = True, index_col = 'file')
 
     d = ncls.join(sp, on = 'file').join(mc, on = 'file')
     d['ratio'] = d['#c'] / d['#v']
