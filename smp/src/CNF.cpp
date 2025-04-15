@@ -83,6 +83,23 @@ bool Clause::contains(Clause const& cls) const {
     });
 }
 
+std::string mtrim(std::string const& s) {
+    auto b = s.begin();
+    auto e = s.end();
+
+    while(std::isspace(*b)) {
+        b++;
+    }
+
+    if(b != e) {
+        while(std::isspace(*(e - 1))) {
+            e--;
+        }
+    }
+
+    return std::string(b, e);
+}
+
 CNF::CNF(char const* path) {
     std::ifstream f(path);
 
@@ -92,8 +109,11 @@ CNF::CNF(char const* path) {
     }
 
     int nb_vars;
-    std::string line;
-    while(getline(f, line)) {
+    bool missing_trailing_zero = false;
+    std::string oline;
+    while(getline(f, oline)) {
+        std::string line = mtrim(oline);
+
         if(line.rfind("p cnf ", 0) == 0) {
             std::stringstream iss(line);
             std::string tmp;
@@ -123,9 +143,10 @@ CNF::CNF(char const* path) {
                 }
             }
         }
-        else if(line[0] != 'c' && line[0] != 'p') {
+        else if(line[0] != 'c' && line[0] != 'p' && line.size() != 0) {
             Clause clause;
             std::stringstream iss(line);
+            bool n_missing_trailing_zero = true;
 
             while(iss) {
                 int v;
@@ -136,10 +157,20 @@ CNF::CNF(char const* path) {
 
                     idx[tmp.get()].insert(clauses.size());
                 }
+                else {
+                    n_missing_trailing_zero = false;
+                }
             }
 
-            clauses.push_back(clause);
-            active.push_back(true);
+            if(clause.size() != 0 || !missing_trailing_zero) {
+                if(clause.size() == 0) {
+                    std::cerr << "empty clause in input: \"" << line << "\"\n";
+                }
+
+                clauses.push_back(clause);
+                active.push_back(true);
+            }
+            missing_trailing_zero = n_missing_trailing_zero;
         }
     }
 

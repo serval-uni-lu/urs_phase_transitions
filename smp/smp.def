@@ -11,7 +11,7 @@ From: ubuntu:22.04
 
     cd smp
     make clean
-    make -j8
+    make -j8 STATS=1
 
     ls
     echo "setup done"
