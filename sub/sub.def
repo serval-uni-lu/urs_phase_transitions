@@ -2,19 +2,19 @@ BootStrap: docker
 From: ubuntu:22.04
 
 %files
-    ./ /smp
+    ./ /sub
 
 %post
     echo "setup start"
     apt-get -y update
     apt-get -y install libz3-dev make g++
 
-    cd smp
+    cd sub
     make clean
-    make -j8 STATS=1
+    make -j8
 
     ls
     echo "setup done"
 
 %runscript
-    /smp/smp "$@"
+    /sub/sub "$@"

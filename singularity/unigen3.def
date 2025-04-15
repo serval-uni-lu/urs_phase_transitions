@@ -2,7 +2,8 @@ BootStrap: docker
 From: ubuntu:22.04
 
 %files
-    ./wrapper/wrap /wrap
+    # ./wrapper/wrap /wrap
+    ./wrapper /wrapper
 
 %post
     echo "setup start"
@@ -34,5 +35,9 @@ From: ubuntu:22.04
     make -j4
     make install
 
+    cd /wrapper
+    make clean
+    make
+
 %runscript
-    /wrap 64000 18000 /unigen/build/unigen "$@"
+    /wrapper/wrap 64000 18000 /unigen/build/unigen "$@"
