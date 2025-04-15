@@ -34,22 +34,20 @@ def correlations(data, idx, xkey, ykey, f, epsilon = 0.3):
     return (xs, ys, pv)
 
 
-# for dataset in ["c5", "c8", "c15"]:
-for dataset in ["c5"]:
+for dataset in ["c5", "c8", "c15"]:
     for s in ["d4", "ug3", "mcTw", "sharpSAT", "spur"]:
         datasets = None
 
         for i in range(3, 9):
-            cnf =  pd.read_csv(f"{dataset}/r75k3q0.{i}{dataset}_cls.csv", skipinitialspace = True, index_col = 'file')
-            # mc =  pd.read_csv(f"{dataset}/r75k3q0.{i}{dataset}_mc.csv", skipinitialspace = True, index_col = 'file')
-            mod =  pd.read_csv(f"{dataset}/r75k3q0.{i}{dataset}_mod.csv", skipinitialspace = True, index_col = 'file')
+            cnf =  pd.read_csv(f"csv/{dataset}/r75k3q0.{i}{dataset}_cls.csv", skipinitialspace = True, index_col = 'file')
+            mod =  pd.read_csv(f"csv/{dataset}/r75k3q0.{i}{dataset}_mod.csv", skipinitialspace = True, index_col = 'file')
 
             data = cnf
             # data = data.join(mc, on = 'file')
             data['ratio'] = data['#c'] / data['#v']
             # data['ratio_lmc'] = data['log2(#m)'] / data['#v']
 
-            sampler = pd.read_csv(f"{dataset}/r75k3q0.{i}{dataset}_{s}.csv", skipinitialspace = True, index_col = 'file')
+            sampler = pd.read_csv(f"csv/{dataset}/r75k3q0.{i}{dataset}_{s}.csv", skipinitialspace = True, index_col = 'file')
             sampler = sampler.join(data, on = 'file').join(mod, on = 'file')
             sampler = sampler[sampler.state == 'done']
 
@@ -64,6 +62,7 @@ for dataset in ["c5"]:
 
         xs, ys, pv = correlations(datasets, 'ratio', 'q', 'time', stats.kendalltau)
         tmp = pd.DataFrame({'x': xs, 'corr': ys, 'pval': pv})
+        print(min(ys))
 
         pv1 = tmp[tmp.pval >= 0.01]
         pvb = tmp[tmp.pval >= 0.05]
@@ -72,8 +71,8 @@ for dataset in ["c5"]:
         nb_fig += 1
         ax = fig.add_axes([0, 0, 1, 1])
         ax.scatter(tmp['x'], tmp['corr'], label = 'p-value $<$ 0.01', marker = '.')
-        ax.scatter(pv1['x'], pv1['corr'], label = 'p-value $\ge$ 0.01', marker = '.')
-        ax.scatter(pvb['x'], pvb['corr'], label = 'p-value $\ge$ 0.05', marker = '.')
+        ax.scatter(pv1['x'], pv1['corr'], label = 'p-value $\\ge$ 0.01', marker = '.')
+        ax.scatter(pvb['x'], pvb['corr'], label = 'p-value $\\ge$ 0.05', marker = '.')
         # mpl.scatter(xs, ys, label = 'correlations', marker = '.')
         # mpl.scatter(xs, pv, label = 'p-values', marker = '.')
 
@@ -89,8 +88,8 @@ for dataset in ["c5"]:
         ax.set_xlabel("$|F| / |Var(F)|$")
         ax.set_ylabel("Kendall's $\\tau$")
         ax.legend()
-        # ax.grid(alpha = 0.3, which = 'minor')
+        ax.grid(alpha = 1, which = 'major')
         # mpl.minorticks_on()
-        fig.savefig(f"corr_{s}_{dataset}.png", dpi = dpi, bbox_inches = 'tight')
+        fig.savefig(f"Figure 3 - correlation/corr_{s}_{dataset}.png", dpi = dpi, bbox_inches = 'tight')
 
 
