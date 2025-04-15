@@ -2,8 +2,8 @@
 
 ## RQk
 
-The `RQk_graphs` folders contain a `run.py` script used to create
-graphs from the data in the respective `data` folder.
+The `RQk_graphs` folders contain a python scripts used to create
+graphs from the data in the respective `csv` folders.
 
 ## Community
 
@@ -12,12 +12,13 @@ The `community` folder contains the community attachment model
 which generates random k-CNF formulas with a community structure.
 (https://www.ijcai.org/Abstract/15/277)
 
-The folder also contains `rsat` which generates random k-CNF formulas.
+The folder also contains `rsat` which generates random k-CNF formulas
+by using the classical model.
 
 ## SMP
 
 The `smp` folder contains the program used to simplify a DIMACS file
-and the program used to compute some structural metrics on a DIMACS fils.
+and the program used to compute some structural metrics on a DIMACS file.
 
 The simplifier program is build as follows:
 
