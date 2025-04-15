@@ -14,10 +14,10 @@ q_fig = nb_fig
 mpl.figure(nb_fig)
 nb_fig += 1
 
-ncls = pd.read_csv(f"data/ncls_smp_subsumtion.csv", skipinitialspace = True, index_col = 'file')
-mc = pd.read_csv(f"data/mc.csv", skipinitialspace = True, index_col = 'file')
-mod = pd.read_csv(f"data/mod.csv", skipinitialspace = True, index_col = 'file')
-d4 = pd.read_csv(f"data/d4.csv", skipinitialspace = True, index_col = 'file')
+ncls = pd.read_csv(f"csv/ncls_smp_subsumtion.csv", skipinitialspace = True, index_col = 'file')
+mc = pd.read_csv(f"csv/mc.csv", skipinitialspace = True, index_col = 'file')
+mod = pd.read_csv(f"csv/mod.csv", skipinitialspace = True, index_col = 'file')
+d4 = pd.read_csv(f"csv/d4.csv", skipinitialspace = True, index_col = 'file')
 
 mc = mc.join(ncls, on = 'file')
 mc = mc.join(mod, on = 'file')

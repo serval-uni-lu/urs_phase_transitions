@@ -25,10 +25,10 @@ total_time = dict()
 
 f_id = 0
 for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
-    # cnf =  pd.read_csv("data/ncls_smp.csv", skipinitialspace = True, index_col = 'file')
-    cnf =  pd.read_csv("data/ncls_smp_subsumtion.csv", skipinitialspace = True, index_col = 'file')
-    d4 =  pd.read_csv(f"data/{sampler}.csv", skipinitialspace = True, index_col = 'file')
-    mc =  pd.read_csv("data/mc.csv", skipinitialspace = True, index_col = 'file')
+    # cnf =  pd.read_csv("csv/ncls_smp.csv", skipinitialspace = True, index_col = 'file')
+    cnf =  pd.read_csv("csv/ncls_smp_subsumtion.csv", skipinitialspace = True, index_col = 'file')
+    d4 =  pd.read_csv(f"csv/{sampler}.csv", skipinitialspace = True, index_col = 'file')
+    mc =  pd.read_csv("csv/mc.csv", skipinitialspace = True, index_col = 'file')
 
     data = cnf.join(d4, on = 'file')
     data = data.join(mc, on = 'file')
@@ -48,7 +48,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     time = data[data['state'] == 'timeout']
     nb = len(data)
 
-    done['rlmc'] = done['log2(#m)'] / done['#vc']
+    # done['rlmc'] = done['log2(#m)'] / done['#vc']
 
 
     total_time[sampler] += done.time.sum()
@@ -89,22 +89,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     mpl.scatter(Xm, Ym, marker = '.', label = 'out of memory')
     mpl.scatter(Xt, Yt, marker = '.', label = 'timeout')
     mpl.legend()
-    f.savefig(f"{sampler}_complete.png", dpi = dpi, bbox_inches = 'tight')
-
-    f = mpl.figure(f_id)
-    f_id += 1
-
-    # mpl.ylabel("Number of formulae")
-    # mpl.xlabel(xlabel)
-    # mpl.hist(done.r, 100, color='grey', alpha = 0.5, label = "number of formulae")
-    # mpl.twinx()
-
-    mpl.ylabel(ylabel)
-    mpl.minorticks_on()
-    # mpl.title("nb points: " + str(nb))
-    mpl.scatter(done.rlmc, done.time, marker = '.', label = 'success')
-    mpl.legend()
-    f.savefig(f"{sampler}_success.png", dpi = dpi, bbox_inches = 'tight')
+    f.savefig(f"Figure 8 - base/{sampler}_complete.png", dpi = dpi, bbox_inches = 'tight')
 
 
 print("")
