@@ -5,7 +5,7 @@ import scipy.stats as stats
 import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
-mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams["figure.figsize"] = (6.4,4)
 mpl.rcParams['font.size'] = '14'
 nb_fig = 1
 dpi = 600

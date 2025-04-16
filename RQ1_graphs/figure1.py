@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as mpl
 
 mpl.rcParams['text.usetex'] = True
-mpl.rcParams["figure.figsize"] = (6.4,4.1)
+mpl.rcParams["figure.figsize"] = (6.4,4)
 mpl.rcParams['font.size'] = '14'
 dpi = 600
 
