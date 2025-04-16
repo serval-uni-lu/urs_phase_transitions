@@ -42,6 +42,7 @@ for sampler in ["unigen3", "spur", "d4", "sharpSAT", "mcTw"]:
     data = data[data['#vc'] > 0]
     data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'])
 
+    data = data[data['r'] <= 10]
 
     done = data[data['state'] == 'done']
     mem = data[data['state'] == 'mem']

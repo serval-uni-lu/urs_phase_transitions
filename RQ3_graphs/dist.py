@@ -16,13 +16,14 @@ nb_fig += 1
 
 ncls = pd.read_csv(f"csv/ncls_smp_subsumtion.csv", skipinitialspace = True, index_col = 'file')
 mc = pd.read_csv(f"csv/mc.csv", skipinitialspace = True, index_col = 'file')
-mod = pd.read_csv(f"csv/mod.csv", skipinitialspace = True, index_col = 'file')
+# mod = pd.read_csv(f"csv/mod.csv", skipinitialspace = True, index_col = 'file')
 d4 = pd.read_csv(f"csv/d4.csv", skipinitialspace = True, index_col = 'file')
 
 mc = mc.join(ncls, on = 'file')
-mc = mc.join(mod, on = 'file')
+# mc = mc.join(mod, on = 'file')
 
-data = d4.join(ncls, on = 'file').join(mod, on = 'file')
+# data = d4.join(ncls, on = 'file').join(mod, on = 'file')
+data = d4.join(ncls, on = 'file')
 
 mc['#vr'] = mc['#v'] - mc['#vf'] - mc['#vu']
 mc = mc[mc['#vr'] != 0]
@@ -60,17 +61,17 @@ mpl.minorticks_on()
 # mpl.xlim(right = 7)
 mpl.savefig(f"distributions/dist_lmc.png", dpi = dpi, bbox_inches = 'tight')
 
-mpl.figure(q_fig)
-# mpl.scatter(mc.ratio, mc['q'])
-mpl.scatter(done['#vc'], done.q, label = 'done', marker = '.')
-mpl.scatter(fail['#vc'], fail['q'], label = 'fail', marker = '.')
-
-mpl.figure(q_fig)
-# mpl.grid()
-mpl.xlabel("$|Var(F)|$")
-mpl.ylabel("Q")
-mpl.minorticks_on()
-mpl.legend()
-# mpl.xlim(right = 7)
-mpl.savefig(f"distributions/mod.png", dpi = dpi, bbox_inches = 'tight')
+# mpl.figure(q_fig)
+# # mpl.scatter(mc.ratio, mc['q'])
+# mpl.scatter(done['#vc'], done.q, label = 'done', marker = '.')
+# mpl.scatter(fail['#vc'], fail['q'], label = 'fail', marker = '.')
+# 
+# mpl.figure(q_fig)
+# # mpl.grid()
+# mpl.xlabel("$|Var(F)|$")
+# mpl.ylabel("Q")
+# mpl.minorticks_on()
+# mpl.legend()
+# # mpl.xlim(right = 7)
+# mpl.savefig(f"distributions/mod.png", dpi = dpi, bbox_inches = 'tight')
 

@@ -31,6 +31,8 @@ for sampler in ['d4', 'spur', 'unigen3', 'sharpSAT', 'mcTw']:
     data = data[data['#vc'] > 0]
     data['r'] = data['#c-u'] / (data['#v'] - data['#vu'] - data['#vf'])
 
+    data = data[data['r'] <= 10]
+
 
     done = data[data['state'] == 'done']
     fail = data[data['state'] != 'done']
