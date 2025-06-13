@@ -2,7 +2,7 @@
 
 ## RQk
 
-The `RQk_graphs` folders contain a python scripts used to create
+The `RQk_graphs` folders contain python scripts used to create the
 graphs from the data in the respective `csv` folders.
 
 ## Community
