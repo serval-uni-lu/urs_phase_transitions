@@ -27,6 +27,8 @@ The RQ1 dataset named `r75k3q0.3c15` indicates that the dataset was generated wi
 attachement (CA) model. Moreover, the dataset is composed of `k-CNF` formulae with 75 variables and `k = 3`.
 The target modularity given to the CA model was `q = 0.3` and the number of communities was set to `c = 15`.
 
+Each `csv` file contains a `file` column which can be used to join the files together depending on the needs.
+
 ## Community
 
 The `community` folder contains the community attachment model
