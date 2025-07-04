@@ -104,6 +104,16 @@ Note that this requires GNU parallel.
 The `singularity` folder contains the `.def` files used to create
 the containers.
 
+# LPA
+
+The `lpa` folder contains the program used to approximate the true
+modularity of a formula.
+
+# Scripts
+
+The `scripts` folder contains example scripts that were used during our
+experiments.
+
 # Datasets
 
 The Plazar dataset is available at `https://github.com/diverse-project/samplingfm`.
