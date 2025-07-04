@@ -1,5 +1,10 @@
 # URS and #SAT phase transitions
 
+This repository relies heavily on `Singularity` (now called `Apptainer`).
+It is therefore required to build the containers.
+The commands still use the old name `singularity`, therefore, it may be
+necessary to create an alias from for singularity.
+
 ## RQk
 
 The `RQk_graphs` folders contain python scripts used to create the
