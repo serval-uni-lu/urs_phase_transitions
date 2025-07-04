@@ -48,6 +48,7 @@ The simplifier program is build as follows:
 
 ```
 cd smp
+make clean
 make
 ```
 
@@ -59,6 +60,7 @@ Usage:
 The measuring program is build as follows:
 ```
 cd smp
+make clean
 make STATS=1
 ```
 
@@ -84,29 +86,14 @@ The output is in csv format with the following columns:
 
 `#vk` is the number of variables in the subset of the formula containing only clauses of size k
 
+An effective way of running it on multiple files:
+``find "dataset" -name "*.cnf" | parallel -n 1 -P 16 ./smp``
+
 
 ## Singularity
 
 The `singularity` folder contains the `.def` files used to create
 the containers.
-
-The containers depend on the `wrapper` program which needs to be build
-before building the containers.
-Building the `D4` container is done as follows:
-```
-cd singularity
-cd wrapper
-make
-cd ..
-
-cd d4
-make -j4
-cd ..
-
-singularity build --fakeroot "d4.sif" "d4.def"
-```
-
-The other containers are build similarily.
 
 # References
 
