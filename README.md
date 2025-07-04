@@ -1,9 +1,8 @@
 # URS and #SAT phase transitions
 
-This repository relies heavily on `Singularity` (now called `Apptainer`).
-It is therefore required to build the containers.
-The commands still use the old name `singularity`, therefore, it may be
-necessary to create an alias from for singularity.
+This repository gives supplementary material related to the paper.
+The main goal for the experimental results and raw data to be available
+to users as well as additional graphs related to the paper.
 
 ## RQk
 
@@ -57,6 +56,10 @@ make clean
 make
 ```
 
+The container version can be build with `make singularity`
+To install the dependencies on Ubuntu for the native version,
+please run `sudo apt-get -y install libz3-dev make g++`.
+
 Usage:
 ```
 ./smp input.cnf > output.cnf
@@ -93,12 +96,29 @@ The output is in csv format with the following columns:
 
 An effective way of running it on multiple files:
 ``find "dataset" -name "*.cnf" | parallel -n 1 -P 16 ./smp``
+Note that this requires GNU parallel.
 
 
 ## Singularity
 
 The `singularity` folder contains the `.def` files used to create
 the containers.
+
+# Datasets
+
+The Plazar dataset is available at `https://github.com/diverse-project/samplingfm`.
+The Soos dataset is available at `https://zenodo.org/records/10449477`.
+The Lagniez dataset is available at `https://www.cril.univ-artois.fr/KC/benchmarks.html`
+in the `CNF` section.
+The Sunderman dataset is available at `https://github.com/SoftVarE-Group/feature-model-benchmark`
+and was generated with the command `python scripts/extract_collection.py --variants last --versions last --output_format dimacs`.
+
+## Dependencies
+
+This repository relies heavily on `Singularity` (now called `Apptainer`).
+It is therefore required to build the containers.
+The commands still use the old name `singularity`, therefore, it may be
+necessary to create an alias from for singularity.
 
 # References
 
