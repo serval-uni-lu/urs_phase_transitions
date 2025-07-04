@@ -2,8 +2,8 @@ BootStrap: docker
 From: ubuntu:22.04
 
 %files
-    ./mcTw /mcTw
-    ./wrapper/wrap /wrap
+    ./mctw /mctw
+    ./wrapper /wrapper
 
 %post
     echo "setup start"
@@ -11,8 +11,10 @@ From: ubuntu:22.04
 
     apt-get -y install libgmp-dev cmake make gcc g++
 
+    cd /wrapper
+    make
     ls
     echo "setup done"
 
 %runscript
-    /wrap 64000 18000 /mcTw/swats "$@"
+    /wrapper/wrap 64000 18000 /mctw/swats "$@"

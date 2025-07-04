@@ -3,16 +3,18 @@ From: ubuntu:22.04
 
 %files
     ./sharpSAT /sharpSAT
-    ./wrapper/wrap /wrap
+    ./wrapper /wrapper
 
 %post
     echo "setup start"
     apt-get -y update
 
-    apt-get -y install libgmp-dev libgmpxx4ldbl libgomp1
+    apt-get -y install gcc g++ make libgmp-dev libgmpxx4ldbl libgomp1
 
+    cd /wrapper
+    make
     ls
     echo "setup done"
 
 %runscript
-    /wrap 64000 18000 /sharpSAT "$@"
+    /wrapper/wrap 64000 18000 /sharpSAT "$@"
