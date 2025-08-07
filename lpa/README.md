@@ -20,7 +20,7 @@ Dependencies are `g++` and `make`.
 
 To compile, just type `make`
 The command `make debug` is available to compile the debug version with
-the address sanitizer. This will create an executable calles
+the address sanitizer. This will create an executable called
 `modularity_d`.
 
 Program usage:
