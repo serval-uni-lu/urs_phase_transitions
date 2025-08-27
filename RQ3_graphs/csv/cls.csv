@@ -504,7 +504,7 @@ cnf/soos/s9234a_15_7.cnf.gz.no_w.cnf, 6382, 14839, 32397
 cnf/soos/75-21-3-q.cnf.gz.no_w.cnf, 2121, 3360, 9205
 cnf/plazar/V15/s38417_15_7.cnf, 25615, 57946, 126086
 cnf/soos/90-38-7-q.cnf.gz.no_w.cnf, 7068, 11248, 25813
-cnf/soos/leader_sync3_8.pm_4steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 21756, 11077, 51181
+cnf/soos/leader_sync3_8.pm_4steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 21756, 11077, 51181
 cnf/soos/blasted_case_2_b14_even.cnf.gz.no_w.cnf, 1304, 4057, 10778
 cnf/soos/tutorial2.sk_3_4.cnf.gz.no_w.cnf, 16726, 77653, 216939
 cnf/soos/s510_15_7.cnf.gz.no_w.cnf, 340, 948, 2274
@@ -515,7 +515,7 @@ cnf/soos/or-70-5-5-UC-10.cnf.gz.no_w.cnf, 140, 350, 917
 cnf/soos/15B-4.cnf.gz.no_w.cnf, 72441, 332986, 991522
 cnf/plazar/unsorted/tutorial3.sk_4_31.cnf, 486193, 2598178, 7592013
 cnf/soos/50-16-9-q.cnf.gz.no_w.cnf, 1216, 1920, 7075
-cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_under.dimacs.gz.no_w.cnf, 47341, 23469, 118579
+cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_under.dimacs.gz.no_w.cnf, 47341, 23469, 118579
 cnf/soos/modexp8-5-6.cnf.gz.no_w.cnf, 104913, 396014, 1151396
 cnf/soos/75-15-6-q.cnf.gz.no_w.cnf, 1065, 1680, 4493
 cnf/soos/or-70-10-9.cnf.gz.no_w.cnf, 140, 350, 910
@@ -526,7 +526,7 @@ cnf/soos/75-19-9-q.cnf.gz.no_w.cnf, 1729, 2736, 7387
 cnf/soos/or-50-5-3-UC-40.cnf.gz.no_w.cnf, 100, 250, 669
 cnf/soos/50-16-8-q.cnf.gz.no_w.cnf, 1216, 1920, 6547
 cnf/soos/log2.sk_72_391.cnf.gz.no_w.cnf, 185178, 716257, 1817811
-cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 61776, 31009, 177479
+cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 61776, 31009, 177479
 cnf/soos/90-42-3-q.cnf.gz.no_w.cnf, 8652, 13776, 31807
 cnf/soos/min-16.cnf.gz.no_w.cnf, 3065, 8526, 27332
 cnf/soos/13B-1.cnf.gz.no_w.cnf, 21070, 95654, 282946
@@ -549,7 +549,7 @@ cnf/soos/blasted_case_2_b12_even2.cnf.gz.no_w.cnf, 2669, 8460, 22055
 cnf/soos/or-70-5-2-UC-30.cnf.gz.no_w.cnf, 140, 350, 931
 cnf/soos/blasted_case_2_b12_1.cnf.gz.no_w.cnf, 427, 1385, 3707
 cnf/soos/75-18-6-q.cnf.gz.no_w.cnf, 1548, 2448, 6531
-cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_under.dimacs.gz.no_w.cnf, 80376, 42689, 240099
+cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_under.dimacs.gz.no_w.cnf, 80376, 42689, 240099
 cnf/soos/or-70-10-6.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/or-60-10-9-UC-40.cnf.gz.no_w.cnf, 120, 300, 806
 cnf/soos/blasted_case59_1.cnf.gz.no_w.cnf, 93, 285, 815
@@ -564,7 +564,7 @@ cnf/soos/blasted_case47.cnf.gz.no_w.cnf, 118, 328, 890
 cnf/soos/s838_3_2.cnf.gz.no_w.cnf, 598, 1414, 3178
 cnf/soos/hash-14.cnf.gz.no_w.cnf, 659161, 2645552, 7749274
 cnf/soos/75-21-6-q.cnf.gz.no_w.cnf, 2121, 3360, 9445
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=32_MAX=4over.dimacs.gz.no_w.cnf, 80448, 44943, 176875
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=32_MAX=4over.dimacs.gz.no_w.cnf, 80448, 44943, 176875
 cnf/soos/s526_15_7.cnf.gz.no_w.cnf, 452, 1303, 3203
 cnf/soos/75-26-3-q.cnf.gz.no_w.cnf, 3276, 5200, 14353
 cnf/soos/or-100-10-4-UC-30.cnf.gz.no_w.cnf, 200, 500, 1320
@@ -574,9 +574,9 @@ cnf/soos/or-100-20-2.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/18A-4.cnf.gz.no_w.cnf, 23686, 107219, 327957
 cnf/soos/or-50-5-3-UC-30.cnf.gz.no_w.cnf, 100, 250, 668
 cnf/soos/or-60-20-1-UC-10.cnf.gz.no_w.cnf, 120, 300, 784
-cnf/soos/egl.pm_31steps_6int_1fract_unfairA_N=5_L=2under.dimacs.gz.no_w.cnf, 2364209, 1776164, 7016852
+cnf/soos/egl.pm_31steps_6int_1fract_unfairA_N=5_L=2under.dimacs.gz.no_w.cnf, 2364209, 1776164, 7016852
 cnf/soos/blasted_TR_device_1_even_linear.cnf.gz.no_w.cnf, 2447, 7612, 20507
-cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_under.dimacs.gz.no_w.cnf, 183458, 114049, 626099
+cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_under.dimacs.gz.no_w.cnf, 183458, 114049, 626099
 cnf/soos/modexp8-6-8.cnf.gz.no_w.cnf, 121841, 483182, 1422468
 cnf/soos/or-60-20-4-UC-40.cnf.gz.no_w.cnf, 120, 300, 801
 cnf/soos/modexp8-7-6.cnf.gz.no_w.cnf, 146833, 554414, 1611940
@@ -591,7 +591,7 @@ cnf/soos/50-14-10-q.cnf.gz.no_w.cnf, 924, 1456, 5099
 cnf/soos/90-16-1-q.cnf.gz.no_w.cnf, 1216, 1920, 4445
 cnf/soos/50-20-4-q.cnf.gz.no_w.cnf, 1920, 3040, 10575
 cnf/soos/or-70-20-2-UC-20.cnf.gz.no_w.cnf, 140, 350, 929
-cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_over.dimacs.gz.no_w.cnf, 46798, 23209, 124474
+cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_over.dimacs.gz.no_w.cnf, 46798, 23209, 124474
 cnf/soos/or-100-5-6-UC-10.cnf.gz.no_w.cnf, 200, 500, 1310
 cnf/soos/13B-3.cnf.gz.no_w.cnf, 54756, 251932, 749260
 cnf/soos/or-50-5-5.cnf.gz.no_w.cnf, 100, 250, 650
@@ -599,7 +599,7 @@ cnf/soos/or-100-10-1-UC-50.cnf.gz.no_w.cnf, 200, 500, 1345
 cnf/soos/50-14-1-q.cnf.gz.no_w.cnf, 924, 1456, 5103
 cnf/soos/blasted_case3_b14_even3.cnf.gz.no_w.cnf, 1304, 4057, 10778
 cnf/soos/90-20-3-q.cnf.gz.no_w.cnf, 1920, 3040, 6889
-cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_under.dimacs.gz.no_w.cnf, 137358, 82069, 453499
+cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_under.dimacs.gz.no_w.cnf, 137358, 82069, 453499
 cnf/soos/blasted_case_0_b12_even2.cnf.gz.no_w.cnf, 2669, 8460, 22055
 cnf/soos/or-50-10-1.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/or-50-10-8-UC-20.cnf.gz.no_w.cnf, 100, 250, 660
@@ -623,8 +623,8 @@ cnf/soos/hash-11-7.cnf.gz.no_w.cnf, 524125, 2120847, 6220811
 cnf/soos/90-22-6-q.cnf.gz.no_w.cnf, 2332, 3696, 8491
 cnf/soos/03B-4.cnf.gz.no_w.cnf, 27966, 123568, 366466
 cnf/soos/blasted_case43.cnf.gz.no_w.cnf, 116, 421, 1205
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=4under.dimacs.gz.no_w.cnf, 7696370, 5729735, 22662911
-cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=2over.dimacs.gz.no_w.cnf, 5217940, 3049321, 18027161
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=4under.dimacs.gz.no_w.cnf, 7696370, 5729735, 22662911
+cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=2over.dimacs.gz.no_w.cnf, 5217940, 3049321, 18027161
 cnf/soos/75-12-5-q.cnf.gz.no_w.cnf, 672, 1056, 3023
 cnf/soos/or-100-20-2-UC-30.cnf.gz.no_w.cnf, 200, 500, 1335
 cnf/soos/50-12-2-q.cnf.gz.no_w.cnf, 672, 1056, 3601
@@ -650,15 +650,15 @@ cnf/soos/s420_7_4.cnf.gz.no_w.cnf, 312, 770, 1782
 cnf/soos/or-70-5-8-UC-20.cnf.gz.no_w.cnf, 140, 350, 923
 cnf/soos/blasted_case_2_b12_even3.cnf.gz.no_w.cnf, 4157, 13049, 33992
 cnf/soos/min-28.cnf.gz.no_w.cnf, 5309, 14910, 47804
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=6_CrowdSize=10under.dimacs.gz.no_w.cnf, 472794, 360199, 2866907
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=6_CrowdSize=10under.dimacs.gz.no_w.cnf, 472794, 360199, 2866907
 cnf/soos/90-21-10-q.cnf.gz.no_w.cnf, 2121, 3360, 7727
 cnf/soos/53.sk_4_32.cnf.gz.no_w.cnf, 2586, 10747, 25847
 cnf/soos/17.sk_3_45.cnf.gz.no_w.cnf, 10090, 27056, 63324
-cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_over.dimacs.gz.no_w.cnf, 87881, 47569, 267439
+cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_over.dimacs.gz.no_w.cnf, 87881, 47569, 267439
 cnf/soos/90-30-4-q.cnf.gz.no_w.cnf, 4380, 6960, 15879
 cnf/soos/blasted_case36.cnf.gz.no_w.cnf, 64, 208, 600
 cnf/soos/or-50-10-9-UC-20.cnf.gz.no_w.cnf, 100, 250, 656
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=32_MAX=4under.dimacs.gz.no_w.cnf, 80112, 44677, 176161
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=32_MAX=4under.dimacs.gz.no_w.cnf, 80112, 44677, 176161
 cnf/soos/or-60-10-8-UC-10.cnf.gz.no_w.cnf, 120, 300, 788
 cnf/soos/blasted_squaring8.cnf.gz.no_w.cnf, 1101, 3642, 9830
 cnf/soos/90-34-9-q.cnf.gz.no_w.cnf, 5644, 8976, 20275
@@ -679,14 +679,14 @@ cnf/soos/or-70-10-1-UC-30.cnf.gz.no_w.cnf, 140, 350, 930
 cnf/soos/90-34-3-q.cnf.gz.no_w.cnf, 5644, 8976, 20333
 cnf/soos/75-20-6-q.cnf.gz.no_w.cnf, 1920, 3040, 8313
 cnf/soos/or-100-20-8-UC-60.cnf.gz.no_w.cnf, 200, 500, 1359
-cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=40under.dimacs.gz.no_w.cnf, 2, 1, 2
+cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=40under.dimacs.gz.no_w.cnf, 2, 1, 2
 cnf/soos/or-70-5-6-UC-30.cnf.gz.no_w.cnf, 140, 350, 929
 cnf/soos/or-50-10-2-UC-40.cnf.gz.no_w.cnf, 100, 250, 673
 cnf/soos/or-70-10-9-UC-30.cnf.gz.no_w.cnf, 140, 350, 930
 cnf/soos/90-22-5-q.cnf.gz.no_w.cnf, 2332, 3696, 8469
 cnf/soos/50-12-10-q.cnf.gz.no_w.cnf, 672, 1056, 3767
 cnf/soos/or-60-10-7-UC-10.cnf.gz.no_w.cnf, 120, 300, 786
-cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_over.dimacs.gz.no_w.cnf, 179582, 110989, 606099
+cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_over.dimacs.gz.no_w.cnf, 179582, 110989, 606099
 cnf/soos/or-100-5-8.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/12A-4.cnf.gz.no_w.cnf, 8307, 31742, 92158
 cnf/soos/blasted_case14.cnf.gz.no_w.cnf, 247, 649, 1785
@@ -704,7 +704,7 @@ cnf/soos/blasted_case103.cnf.gz.no_w.cnf, 32, 86, 242
 cnf/soos/s420_new1_3_2.cnf.gz.no_w.cnf, 294, 694, 1562
 cnf/soos/or-50-5-8-UC-10.cnf.gz.no_w.cnf, 100, 250, 654
 cnf/soos/or-50-5-5-UC-40.cnf.gz.no_w.cnf, 100, 250, 669
-cnf/soos/herman3.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 24040, 11421, 43248
+cnf/soos/herman3.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 24040, 11421, 43248
 cnf/soos/90-21-7-q.cnf.gz.no_w.cnf, 2121, 3360, 7573
 cnf/soos/75-17-6-q.cnf.gz.no_w.cnf, 1377, 2176, 5799
 cnf/soos/blasted_case4.cnf.gz.no_w.cnf, 103, 316, 881
@@ -719,11 +719,11 @@ cnf/soos/or-100-10-3-UC-60.cnf.gz.no_w.cnf, 200, 500, 1362
 cnf/soos/90-34-7-q.cnf.gz.no_w.cnf, 5644, 8976, 20401
 cnf/soos/90-38-3-q.cnf.gz.no_w.cnf, 7068, 11248, 25573
 cnf/soos/or-100-10-7-UC-50.cnf.gz.no_w.cnf, 200, 500, 1350
-cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_under.dimacs.gz.no_w.cnf, 90237, 49429, 278719
+cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_under.dimacs.gz.no_w.cnf, 90237, 49429, 278719
 cnf/soos/or-100-5-8-UC-50.cnf.gz.no_w.cnf, 200, 500, 1344
 cnf/soos/19.sk_3_48.cnf.gz.no_w.cnf, 6993, 23867, 57608
 cnf/soos/blasted_case117.cnf.gz.no_w.cnf, 309, 1367, 4031
-cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_neg_over.dimacs.gz.no_w.cnf, 145867, 87566, 480400
+cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_neg_over.dimacs.gz.no_w.cnf, 145867, 87566, 480400
 cnf/soos/08B-1.cnf.gz.no_w.cnf, 12836, 56964, 167853
 cnf/soos/or-100-5-3-UC-10.cnf.gz.no_w.cnf, 200, 500, 1313
 cnf/soos/90-19-1-q.cnf.gz.no_w.cnf, 1729, 2736, 6271
@@ -734,7 +734,7 @@ cnf/soos/s38584_7_4.cnf.gz.no_w.cnf, 23423, 57470, 128520
 cnf/soos/blasted_case57.cnf.gz.no_w.cnf, 288, 1158, 3382
 cnf/soos/blasted_case_1_b14_1.cnf.gz.no_w.cnf, 238, 681, 1810
 cnf/soos/or-100-5-7-UC-50.cnf.gz.no_w.cnf, 200, 500, 1356
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=3_CrowdSize=5under.dimacs.gz.no_w.cnf, 475001, 364351, 2888387
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=3_CrowdSize=5under.dimacs.gz.no_w.cnf, 475001, 364351, 2888387
 cnf/soos/90-17-9-q.cnf.gz.no_w.cnf, 1377, 2176, 5105
 cnf/soos/50-20-1-q.cnf.gz.no_w.cnf, 1920, 3040, 10237
 cnf/soos/90-21-2-q.cnf.gz.no_w.cnf, 2121, 3360, 7871
@@ -748,7 +748,7 @@ cnf/soos/75-16-7-q.cnf.gz.no_w.cnf, 1216, 1920, 5415
 cnf/soos/75-22-8-q.cnf.gz.no_w.cnf, 2332, 3696, 10093
 cnf/soos/blasted_TR_b14_even2_linear.cnf.gz.no_w.cnf, 10329, 33008, 87059
 cnf/soos/or-60-5-3.cnf.gz.no_w.cnf, 120, 300, 780
-cnf/soos/leader_sync3_32.pm_4steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 52715, 26809, 187533
+cnf/soos/leader_sync3_32.pm_4steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 52715, 26809, 187533
 cnf/soos/or-100-20-1-UC-50.cnf.gz.no_w.cnf, 200, 500, 1354
 cnf/soos/15A-1.cnf.gz.no_w.cnf, 6713, 28524, 83940
 cnf/soos/lss.sk_6_7.cnf.gz.no_w.cnf, 82362, 259552, 689328
@@ -764,13 +764,13 @@ cnf/soos/75-17-9-q.cnf.gz.no_w.cnf, 1377, 2176, 5929
 cnf/soos/modexp8-8-5.cnf.gz.no_w.cnf, 169073, 665230, 1950628
 cnf/soos/or-60-5-8-UC-40.cnf.gz.no_w.cnf, 120, 300, 802
 cnf/soos/90-12-5-q.cnf.gz.no_w.cnf, 672, 1056, 2281
-cnf/soos/brp.pm_14steps_30int_8fract_p1_N=100000000_MAX=4under.dimacs.gz.no_w.cnf, 277476, 203548, 911819
+cnf/soos/brp.pm_14steps_30int_8fract_p1_N=100000000_MAX=4under.dimacs.gz.no_w.cnf, 277476, 203548, 911819
 cnf/soos/09B-5.cnf.gz.no_w.cnf, 67995, 311285, 926963
 cnf/soos/or-100-5-10-UC-10.cnf.gz.no_w.cnf, 200, 500, 1308
 cnf/soos/or-70-10-7-UC-40.cnf.gz.no_w.cnf, 140, 350, 943
 cnf/soos/29.sk_3_45.cnf.gz.no_w.cnf, 8866, 31557, 77038
 cnf/soos/or-50-10-9-UC-40.cnf.gz.no_w.cnf, 100, 250, 664
-cnf/soos/brp.pm_14steps_26int_8fract_p1_N=10000000_MAX=4over.dimacs.gz.no_w.cnf, 234427, 167688, 735156
+cnf/soos/brp.pm_14steps_26int_8fract_p1_N=10000000_MAX=4over.dimacs.gz.no_w.cnf, 234427, 167688, 735156
 cnf/soos/s713_3_2.cnf.gz.no_w.cnf, 509, 1117, 2441
 cnf/soos/90-18-6-q.cnf.gz.no_w.cnf, 1548, 2448, 5517
 cnf/soos/or-70-20-4-UC-30.cnf.gz.no_w.cnf, 140, 350, 935
@@ -786,15 +786,15 @@ cnf/soos/05B-3.cnf.gz.no_w.cnf, 28104, 125494, 371869
 cnf/soos/7.sk_4_50.cnf.gz.no_w.cnf, 6683, 24816, 59104
 cnf/soos/75-21-10-q.cnf.gz.no_w.cnf, 2121, 3360, 9199
 cnf/soos/or-70-5-6-UC-40.cnf.gz.no_w.cnf, 140, 350, 939
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=5000_MAX=4over.dimacs.gz.no_w.cnf, 116874, 71444, 296784
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=5000_MAX=4over.dimacs.gz.no_w.cnf, 116874, 71444, 296784
 cnf/soos/75-10-4-q.cnf.gz.no_w.cnf, 460, 720, 1911
 cnf/soos/hash-16.cnf.gz.no_w.cnf, 753321, 3023486, 8856308
 cnf/soos/or-70-10-3-UC-30.cnf.gz.no_w.cnf, 140, 350, 934
-cnf/soos/leader_sync6_32.pm_7steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 169874, 90154, 639425
+cnf/soos/leader_sync6_32.pm_7steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 169874, 90154, 639425
 cnf/soos/08A-3.cnf.gz.no_w.cnf, 7889, 31974, 93795
 cnf/soos/s526a_15_7.cnf.gz.no_w.cnf, 453, 1304, 3204
 cnf/soos/blasted_case45.cnf.gz.no_w.cnf, 116, 421, 1205
-cnf/soos/brp.pm_14steps_10int_8fract_p1_N=200_MAX=4under.dimacs.gz.no_w.cnf, 91722, 52828, 208902
+cnf/soos/brp.pm_14steps_10int_8fract_p1_N=200_MAX=4under.dimacs.gz.no_w.cnf, 91722, 52828, 208902
 cnf/soos/or-50-20-3-UC-40.cnf.gz.no_w.cnf, 100, 250, 672
 cnf/soos/blasted_case44.cnf.gz.no_w.cnf, 173, 651, 1871
 cnf/soos/75-22-3-q.cnf.gz.no_w.cnf, 2332, 3696, 10043
@@ -802,7 +802,7 @@ cnf/soos/blasted_case_1_b12_even2.cnf.gz.no_w.cnf, 2669, 8460, 22055
 cnf/soos/or-50-5-6-UC-10.cnf.gz.no_w.cnf, 100, 250, 656
 cnf/soos/or-100-5-10-UC-50.cnf.gz.no_w.cnf, 200, 500, 1349
 cnf/soos/90-23-4-q.cnf.gz.no_w.cnf, 2553, 4048, 9081
-cnf/soos/egl.pm_31steps_6int_1fract_unfairA_N=5_L=2over.dimacs.gz.no_w.cnf, 2364209, 1776164, 7016852
+cnf/soos/egl.pm_31steps_6int_1fract_unfairA_N=5_L=2over.dimacs.gz.no_w.cnf, 2364209, 1776164, 7016852
 cnf/soos/or-70-5-4.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/05A-2.cnf.gz.no_w.cnf, 3977, 15486, 45154
 cnf/soos/or-60-20-9-UC-20.cnf.gz.no_w.cnf, 120, 300, 793
@@ -812,10 +812,10 @@ cnf/soos/09B-6.cnf.gz.no_w.cnf, 80920, 370746, 1104362
 cnf/soos/or-60-5-4.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-50-10-6-UC-20.cnf.gz.no_w.cnf, 100, 250, 659
 cnf/soos/or-100-10-2.cnf.gz.no_w.cnf, 200, 500, 1300
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=20under.dimacs.gz.no_w.cnf, 464703, 354019, 2846795
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=20under.dimacs.gz.no_w.cnf, 464703, 354019, 2846795
 cnf/soos/09B-1.cnf.gz.no_w.cnf, 16295, 73441, 217367
 cnf/soos/or-100-5-7-UC-60.cnf.gz.no_w.cnf, 200, 500, 1356
-cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=40over.dimacs.gz.no_w.cnf, 2, 1, 2
+cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=40over.dimacs.gz.no_w.cnf, 2, 1, 2
 cnf/soos/ActivityService.sk_11_27.cnf.gz.no_w.cnf, 1837, 5968, 14113
 cnf/soos/diagStencilClean.sk_41_36.cnf.gz.no_w.cnf, 378131, 2110471, 5808831
 cnf/soos/or-50-5-2-UC-10.cnf.gz.no_w.cnf, 100, 250, 654
@@ -824,8 +824,8 @@ cnf/soos/75-20-4-q.cnf.gz.no_w.cnf, 1920, 3040, 8173
 cnf/soos/or-100-5-4-UC-30.cnf.gz.no_w.cnf, 200, 500, 1335
 cnf/soos/blasted_case119.cnf.gz.no_w.cnf, 267, 787, 2173
 cnf/soos/90-19-7-q.cnf.gz.no_w.cnf, 1729, 2736, 6189
-cnf/soos/egl.pm_60steps_6int_1fract_unfairA_N=5_L=4over.dimacs.gz.no_w.cnf, 4623417, 3438371, 13600261
-cnf/soos/brp.pm_14steps_10int_8fract_p1_N=200_MAX=4over.dimacs.gz.no_w.cnf, 92058, 53094, 209616
+cnf/soos/egl.pm_60steps_6int_1fract_unfairA_N=5_L=4over.dimacs.gz.no_w.cnf, 4623417, 3438371, 13600261
+cnf/soos/brp.pm_14steps_10int_8fract_p1_N=200_MAX=4over.dimacs.gz.no_w.cnf, 92058, 53094, 209616
 cnf/soos/50-10-4-q.cnf.gz.no_w.cnf, 460, 720, 2469
 cnf/soos/50-16-3-q.cnf.gz.no_w.cnf, 1216, 1920, 6355
 cnf/soos/08B-3.cnf.gz.no_w.cnf, 33058, 148668, 440711
@@ -850,7 +850,7 @@ cnf/soos/or-60-20-10-UC-40.cnf.gz.no_w.cnf, 120, 300, 805
 cnf/soos/75-14-1-q.cnf.gz.no_w.cnf, 924, 1456, 3627
 cnf/soos/10B-5.cnf.gz.no_w.cnf, 61510, 277569, 824516
 cnf/soos/or-50-20-2-UC-20.cnf.gz.no_w.cnf, 100, 250, 655
-cnf/soos/egl.pm_60steps_6int_1fract_unfairA_N=5_L=4under.dimacs.gz.no_w.cnf, 4623417, 3438371, 13600261
+cnf/soos/egl.pm_60steps_6int_1fract_unfairA_N=5_L=4under.dimacs.gz.no_w.cnf, 4623417, 3438371, 13600261
 cnf/soos/min-28s.cnf.gz.no_w.cnf, 3933, 13118, 42428
 cnf/soos/90-25-2-q.cnf.gz.no_w.cnf, 3025, 4800, 10803
 cnf/soos/75-17-1-q.cnf.gz.no_w.cnf, 1377, 2176, 5907
@@ -881,7 +881,7 @@ cnf/soos/or-100-10-2-UC-10.cnf.gz.no_w.cnf, 200, 500, 1308
 cnf/soos/or-60-5-1-UC-30.cnf.gz.no_w.cnf, 120, 300, 796
 cnf/soos/75-14-9-q.cnf.gz.no_w.cnf, 924, 1456, 4323
 cnf/soos/blasted_case22.cnf.gz.no_w.cnf, 126, 411, 1122
-cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_neg_under.dimacs.gz.no_w.cnf, 194923, 121966, 668940
+cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_neg_under.dimacs.gz.no_w.cnf, 194923, 121966, 668940
 cnf/soos/blasted_case213.cnf.gz.no_w.cnf, 648, 1891, 4808
 cnf/soos/15B-2.cnf.gz.no_w.cnf, 38497, 176064, 523410
 cnf/soos/or-100-5-4-UC-60.cnf.gz.no_w.cnf, 200, 500, 1362
@@ -902,28 +902,28 @@ cnf/soos/or-50-5-2.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/90-19-4-q.cnf.gz.no_w.cnf, 1729, 2736, 5997
 cnf/soos/s27_new_15_7.cnf.gz.no_w.cnf, 17, 43, 79
 cnf/soos/90-17-8-q.cnf.gz.no_w.cnf, 1377, 2176, 5011
-cnf/soos/nand.pm_100steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=4under.dimacs.gz.no_w.cnf, 6489412, 3786166, 22409921
+cnf/soos/nand.pm_100steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=4under.dimacs.gz.no_w.cnf, 6489412, 3786166, 22409921
 cnf/soos/or-60-10-7-UC-20.cnf.gz.no_w.cnf, 120, 300, 790
 cnf/soos/or-100-10-9-UC-40.cnf.gz.no_w.cnf, 200, 500, 1338
 cnf/soos/or-100-5-5-UC-10.cnf.gz.no_w.cnf, 200, 500, 1308
 cnf/soos/or-70-20-2-UC-40.cnf.gz.no_w.cnf, 140, 350, 940
 cnf/soos/or-100-20-4-UC-10.cnf.gz.no_w.cnf, 200, 500, 1313
 cnf/soos/or-70-5-9-UC-40.cnf.gz.no_w.cnf, 140, 350, 941
-cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_neg_over.dimacs.gz.no_w.cnf, 77925, 41066, 232420
+cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_neg_over.dimacs.gz.no_w.cnf, 77925, 41066, 232420
 cnf/soos/or-100-20-8-UC-50.cnf.gz.no_w.cnf, 200, 500, 1345
 cnf/soos/90-15-9-q.cnf.gz.no_w.cnf, 1065, 1680, 3589
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=3_CrowdSize=5over.dimacs.gz.no_w.cnf, 472587, 362146, 2712257
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=3_CrowdSize=5over.dimacs.gz.no_w.cnf, 472587, 362146, 2712257
 cnf/soos/90-46-7-q.cnf.gz.no_w.cnf, 10396, 16560, 37807
 cnf/soos/90-46-10-q.cnf.gz.no_w.cnf, 10396, 16560, 38273
 cnf/soos/or-50-10-3-UC-40.cnf.gz.no_w.cnf, 100, 250, 671
 cnf/soos/04A-1.cnf.gz.no_w.cnf, 2223, 8758, 25697
-cnf/soos/leader_sync6_2.pm_7steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 48831, 26364, 93402
+cnf/soos/leader_sync6_2.pm_7steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 48831, 26364, 93402
 cnf/soos/blasted_case_1_ptb_2.cnf.gz.no_w.cnf, 2851, 9506, 25264
 cnf/soos/blasted_squaring6.cnf.gz.no_w.cnf, 885, 2809, 7513
 cnf/soos/or-70-10-3-UC-10.cnf.gz.no_w.cnf, 140, 350, 921
 cnf/soos/or-70-5-5-UC-40.cnf.gz.no_w.cnf, 140, 350, 939
 cnf/soos/or-60-10-1-UC-10.cnf.gz.no_w.cnf, 120, 300, 785
-cnf/soos/leader_sync4_2.pm_5steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 24962, 13391, 47906
+cnf/soos/leader_sync4_2.pm_5steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 24962, 13391, 47906
 cnf/soos/blasted_case49.cnf.gz.no_w.cnf, 1510, 6505, 18951
 cnf/soos/90-16-7-q.cnf.gz.no_w.cnf, 1216, 1920, 4305
 cnf/soos/75-22-10-q.cnf.gz.no_w.cnf, 2332, 3696, 9787
@@ -931,7 +931,7 @@ cnf/soos/90-18-4-q.cnf.gz.no_w.cnf, 1548, 2448, 5469
 cnf/soos/50-14-3-q.cnf.gz.no_w.cnf, 924, 1456, 5085
 cnf/soos/75-17-10-q.cnf.gz.no_w.cnf, 1377, 2176, 5639
 cnf/soos/or-60-20-5-UC-30.cnf.gz.no_w.cnf, 120, 300, 797
-cnf/soos/herman31.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 309496, 159495, 634824
+cnf/soos/herman31.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 309496, 159495, 634824
 cnf/soos/blasted_case132.cnf.gz.no_w.cnf, 236, 708, 1956
 cnf/soos/LoginService2.sk_23_36.cnf.gz.no_w.cnf, 11511, 41411, 100652
 cnf/soos/blasted_case210.cnf.gz.no_w.cnf, 872, 2937, 7914
@@ -951,7 +951,7 @@ cnf/soos/blasted_case203.cnf.gz.no_w.cnf, 214, 580, 1526
 cnf/soos/50-20-9-q.cnf.gz.no_w.cnf, 1920, 3040, 10241
 cnf/soos/90-30-10-q.cnf.gz.no_w.cnf, 4380, 6960, 16071
 cnf/soos/90-19-5-q.cnf.gz.no_w.cnf, 1729, 2736, 6363
-cnf/soos/log-5.cnf.gz.no_w.cnf, 2701, 29534, 89431
+cnf/soos/log-5.cnf.gz.no_w.cnf, 2701, 29534, 89431
 cnf/soos/hash-10-7.cnf.gz.no_w.cnf, 476481, 1928044, 5655286
 cnf/soos/90-12-3-q.cnf.gz.no_w.cnf, 672, 1056, 2507
 cnf/soos/or-70-10-9-UC-20.cnf.gz.no_w.cnf, 140, 350, 923
@@ -1016,7 +1016,7 @@ cnf/soos/or-100-5-6-UC-50.cnf.gz.no_w.cnf, 200, 500, 1345
 cnf/soos/hash-12-2.cnf.gz.no_w.cnf, 566489, 2277362, 6672576
 cnf/soos/s1423a_15_7.cnf.gz.no_w.cnf, 864, 2248, 5348
 cnf/soos/or-70-20-8-UC-10.cnf.gz.no_w.cnf, 140, 350, 915
-cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=3under.dimacs.gz.no_w.cnf, 5211280, 3044030, 17986377
+cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=3under.dimacs.gz.no_w.cnf, 5211280, 3044030, 17986377
 cnf/soos/02A-1.cnf.gz.no_w.cnf, 2226, 8579, 24838
 cnf/soos/min-32.cnf.gz.no_w.cnf, 6153, 17198, 55108
 cnf/soos/or-50-20-2-UC-40.cnf.gz.no_w.cnf, 100, 250, 668
@@ -1031,9 +1031,9 @@ cnf/soos/05B-1.cnf.gz.no_w.cnf, 10978, 48366, 142347
 cnf/soos/or-70-20-2.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/or-50-20-8.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/s13207a_3_2.cnf.gz.no_w.cnf, 9368, 20559, 44341
-cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=20_CrowdSize=40over.dimacs.gz.no_w.cnf, 2, 1, 2
+cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=20_CrowdSize=40over.dimacs.gz.no_w.cnf, 2, 1, 2
 cnf/soos/or-60-20-2-UC-10.cnf.gz.no_w.cnf, 120, 300, 785
-cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_over.dimacs.gz.no_w.cnf, 191142, 119069, 649319
+cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_over.dimacs.gz.no_w.cnf, 191142, 119069, 649319
 cnf/soos/75-26-5-q.cnf.gz.no_w.cnf, 3276, 5200, 14175
 cnf/soos/50-20-3-q.cnf.gz.no_w.cnf, 1920, 3040, 10539
 cnf/soos/or-70-5-6-UC-20.cnf.gz.no_w.cnf, 140, 350, 921
@@ -1108,13 +1108,13 @@ cnf/soos/90-46-2-q.cnf.gz.no_w.cnf, 10396, 16560, 38517
 cnf/soos/s953a_15_7.cnf.gz.no_w.cnf, 602, 1657, 4007
 cnf/soos/50-18-10-q.cnf.gz.no_w.cnf, 1548, 2448, 8819
 cnf/soos/prod-24.cnf.gz.no_w.cnf, 44777, 224078, 663204
-cnf/soos/brp.pm_14steps_13int_8fract_p1_N=2000_MAX=4over.dimacs.gz.no_w.cnf, 112192, 68867, 276887
+cnf/soos/brp.pm_14steps_13int_8fract_p1_N=2000_MAX=4over.dimacs.gz.no_w.cnf, 112192, 68867, 276887
 cnf/soos/10B-9.cnf.gz.no_w.cnf, 107630, 486801, 1447720
 cnf/soos/hash-12.cnf.gz.no_w.cnf, 565001, 2267618, 6642240
 cnf/soos/or-70-20-3.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/or-50-5-10-UC-10.cnf.gz.no_w.cnf, 100, 250, 656
 cnf/soos/90-16-2-q.cnf.gz.no_w.cnf, 1216, 1920, 4103
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=600_MAX=4under.dimacs.gz.no_w.cnf, 104634, 62548, 247204
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=600_MAX=4under.dimacs.gz.no_w.cnf, 104634, 62548, 247204
 cnf/soos/90-18-5-q.cnf.gz.no_w.cnf, 1548, 2448, 5729
 cnf/soos/or-50-5-4-UC-20.cnf.gz.no_w.cnf, 100, 250, 657
 cnf/soos/hash-12-6.cnf.gz.no_w.cnf, 566297, 2276354, 6669552
@@ -1147,7 +1147,7 @@ cnf/soos/50-10-3-q.cnf.gz.no_w.cnf, 460, 720, 2565
 cnf/soos/blasted_case1_b14_even3.cnf.gz.no_w.cnf, 1318, 4093, 10878
 cnf/soos/90-16-4-q.cnf.gz.no_w.cnf, 1216, 1920, 4311
 cnf/soos/or-100-5-1-UC-40.cnf.gz.no_w.cnf, 200, 500, 1344
-cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_neg_over.dimacs.gz.no_w.cnf, 179587, 110966, 606080
+cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_neg_over.dimacs.gz.no_w.cnf, 179587, 110966, 606080
 cnf/soos/s35932_15_7.cnf.gz.no_w.cnf, 17918, 44709, 101967
 cnf/soos/or-60-5-1-UC-20.cnf.gz.no_w.cnf, 120, 300, 792
 cnf/soos/or-100-20-9-UC-30.cnf.gz.no_w.cnf, 200, 500, 1328
@@ -1163,7 +1163,7 @@ cnf/soos/or-60-10-2.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/90-38-10-q.cnf.gz.no_w.cnf, 7068, 11248, 25775
 cnf/soos/or-60-5-8-UC-20.cnf.gz.no_w.cnf, 120, 300, 796
 cnf/soos/or-60-10-4.cnf.gz.no_w.cnf, 120, 300, 780
-cnf/soos/leader_sync3_8.pm_4steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 21756, 11077, 51181
+cnf/soos/leader_sync3_8.pm_4steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 21756, 11077, 51181
 cnf/soos/15B-3.cnf.gz.no_w.cnf, 55469, 254525, 757466
 cnf/soos/75-10-10-q.cnf.gz.no_w.cnf, 460, 720, 1867
 cnf/soos/90-20-6-q.cnf.gz.no_w.cnf, 1920, 3040, 6889
@@ -1172,10 +1172,10 @@ cnf/soos/11B-3.cnf.gz.no_w.cnf, 46999, 213475, 633126
 cnf/soos/or-50-20-5-UC-30.cnf.gz.no_w.cnf, 100, 250, 665
 cnf/soos/or-100-5-4-UC-20.cnf.gz.no_w.cnf, 200, 500, 1317
 cnf/soos/or-50-5-6-UC-40.cnf.gz.no_w.cnf, 100, 250, 672
-cnf/soos/herman41.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 412127, 212705, 861484
+cnf/soos/herman41.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 412127, 212705, 861484
 cnf/soos/or-60-20-3-UC-40.cnf.gz.no_w.cnf, 120, 300, 809
 cnf/soos/blasted_case1.cnf.gz.no_w.cnf, 187, 681, 1937
-cnf/soos/herman31.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 309496, 159495, 634824
+cnf/soos/herman31.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 309496, 159495, 634824
 cnf/soos/hash-10-1.cnf.gz.no_w.cnf, 471201, 1892064, 5542626
 cnf/soos/17A-3.cnf.gz.no_w.cnf, 13793, 58831, 173893
 cnf/soos/15A-4.cnf.gz.no_w.cnf, 21521, 92274, 272952
@@ -1187,26 +1187,26 @@ cnf/soos/s713_15_7.cnf.gz.no_w.cnf, 596, 1477, 3497
 cnf/soos/90-38-6-q.cnf.gz.no_w.cnf, 7068, 11248, 25731
 cnf/soos/blasted_case_1_b14_2.cnf.gz.no_w.cnf, 270, 805, 2158
 cnf/soos/blasted_case116.cnf.gz.no_w.cnf, 438, 1881, 5513
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=2under.dimacs.gz.no_w.cnf, 7593934, 5722907, 22612077
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=4over.dimacs.gz.no_w.cnf, 7696370, 5729735, 22662911
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=2under.dimacs.gz.no_w.cnf, 7593934, 5722907, 22612077
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=4over.dimacs.gz.no_w.cnf, 7696370, 5729735, 22662911
 cnf/soos/hash-13-5.cnf.gz.no_w.cnf, 610573, 2445847, 7161931
 cnf/soos/90-21-8-q.cnf.gz.no_w.cnf, 2121, 3360, 7353
 cnf/soos/or-60-5-4-UC-30.cnf.gz.no_w.cnf, 120, 300, 802
 cnf/soos/90-25-6-q.cnf.gz.no_w.cnf, 3025, 4800, 10865
 cnf/soos/90-20-2-q.cnf.gz.no_w.cnf, 1920, 3040, 7011
-cnf/soos/leader_sync4_8.pm_5steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 34889, 17573, 81585
+cnf/soos/leader_sync4_8.pm_5steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 34889, 17573, 81585
 cnf/soos/or-100-10-9-UC-10.cnf.gz.no_w.cnf, 200, 500, 1309
 cnf/soos/Pollard.sk_1_10.cnf.gz.no_w.cnf, 7815, 41258, 118388
 cnf/soos/or-50-20-8-UC-30.cnf.gz.no_w.cnf, 100, 250, 665
 cnf/soos/90-19-10-q.cnf.gz.no_w.cnf, 1729, 2736, 6263
 cnf/soos/or-70-5-7-UC-20.cnf.gz.no_w.cnf, 140, 350, 921
-cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_under.dimacs.gz.no_w.cnf, 205198, 129149, 709119
-cnf/soos/herman15.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 145367, 74583, 294600
+cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_under.dimacs.gz.no_w.cnf, 205198, 129149, 709119
+cnf/soos/herman15.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 145367, 74583, 294600
 cnf/soos/s838_7_4.cnf.gz.no_w.cnf, 616, 1490, 3398
 cnf/soos/75-18-4-q.cnf.gz.no_w.cnf, 1548, 2448, 6527
 cnf/soos/blasted_TR_b12_2_linear.cnf.gz.no_w.cnf, 2426, 8373, 22684
 cnf/soos/or-50-10-5-UC-20.cnf.gz.no_w.cnf, 100, 250, 659
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=4under.dimacs.gz.no_w.cnf, 7695558, 5729026, 22661982
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=4under.dimacs.gz.no_w.cnf, 7695558, 5729026, 22661982
 cnf/soos/or-100-10-3-UC-30.cnf.gz.no_w.cnf, 200, 500, 1329
 cnf/soos/30.sk_5_76.cnf.gz.no_w.cnf, 29621, 112297, 274633
 cnf/soos/or-70-10-2-UC-40.cnf.gz.no_w.cnf, 140, 350, 936
@@ -1222,7 +1222,7 @@ cnf/soos/or-100-10-1-UC-10.cnf.gz.no_w.cnf, 200, 500, 1310
 cnf/soos/or-100-10-10.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/blasted_case204.cnf.gz.no_w.cnf, 214, 580, 1526
 cnf/soos/75-25-10-q.cnf.gz.no_w.cnf, 3025, 4800, 13077
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=3000_MAX=4under.dimacs.gz.no_w.cnf, 115530, 70083, 289405
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=3000_MAX=4under.dimacs.gz.no_w.cnf, 115530, 70083, 289405
 cnf/soos/12A-3.cnf.gz.no_w.cnf, 6442, 24589, 71268
 cnf/soos/or-50-5-3-UC-20.cnf.gz.no_w.cnf, 100, 250, 663
 cnf/soos/or-50-20-1-UC-10.cnf.gz.no_w.cnf, 100, 250, 654
@@ -1244,9 +1244,9 @@ cnf/soos/50-10-8-q.cnf.gz.no_w.cnf, 460, 720, 2397
 cnf/soos/s526_3_2.cnf.gz.no_w.cnf, 365, 943, 2147
 cnf/soos/50-14-8-q.cnf.gz.no_w.cnf, 924, 1456, 4853
 cnf/soos/or-50-10-6-UC-30.cnf.gz.no_w.cnf, 100, 250, 662
-cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_neg_under.dimacs.gz.no_w.cnf, 54283, 26786, 141495
+cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_neg_under.dimacs.gz.no_w.cnf, 54283, 26786, 141495
 cnf/soos/modexp8-8-3.cnf.gz.no_w.cnf, 167025, 630158, 1831844
-cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 53866, 26449, 148574
+cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 53866, 26449, 148574
 cnf/soos/or-60-20-8.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-60-5-3-UC-20.cnf.gz.no_w.cnf, 120, 300, 787
 cnf/soos/s9234a_7_4.cnf.gz.no_w.cnf, 6313, 14555, 31561
@@ -1259,7 +1259,7 @@ cnf/soos/or-60-10-9-UC-20.cnf.gz.no_w.cnf, 120, 300, 792
 cnf/soos/s35932_3_2.cnf.gz.no_w.cnf, 17831, 44349, 100911
 cnf/soos/75-21-4-q.cnf.gz.no_w.cnf, 2121, 3360, 9045
 cnf/soos/or-70-5-6-UC-10.cnf.gz.no_w.cnf, 140, 350, 914
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=5000_MAX=4under.dimacs.gz.no_w.cnf, 116538, 71178, 296070
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=5000_MAX=4under.dimacs.gz.no_w.cnf, 116538, 71178, 296070
 cnf/soos/or-70-10-2-UC-20.cnf.gz.no_w.cnf, 140, 350, 922
 cnf/soos/or-70-10-8.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/90-25-4-q.cnf.gz.no_w.cnf, 3025, 4800, 11023
@@ -1280,11 +1280,11 @@ cnf/soos/10B-6.cnf.gz.no_w.cnf, 73040, 329877, 980317
 cnf/soos/or-50-5-5-UC-30.cnf.gz.no_w.cnf, 100, 250, 662
 cnf/soos/or-100-20-10-UC-40.cnf.gz.no_w.cnf, 200, 500, 1339
 cnf/soos/75-17-8-q.cnf.gz.no_w.cnf, 1377, 2176, 6001
-cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_neg_under.dimacs.gz.no_w.cnf, 217363, 137646, 754760
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=2over.dimacs.gz.no_w.cnf, 7593934, 5722907, 22612077
+cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_neg_under.dimacs.gz.no_w.cnf, 217363, 137646, 754760
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=2over.dimacs.gz.no_w.cnf, 7593934, 5722907, 22612077
 cnf/soos/s13207a_15_7.cnf.gz.no_w.cnf, 9455, 20919, 45397
 cnf/soos/75-15-5-q.cnf.gz.no_w.cnf, 1065, 1680, 4573
-cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 54278, 26809, 141514
+cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 54278, 26809, 141514
 cnf/soos/blasted_squaring5.cnf.gz.no_w.cnf, 885, 2809, 7513
 cnf/soos/or-70-10-6-UC-20.cnf.gz.no_w.cnf, 140, 350, 921
 cnf/soos/32.sk_4_38.cnf.gz.no_w.cnf, 3834, 13594, 29194
@@ -1310,19 +1310,19 @@ cnf/soos/77.sk_3_44.cnf.gz.no_w.cnf, 14535, 27573, 55773
 cnf/soos/or-70-10-8-UC-30.cnf.gz.no_w.cnf, 140, 350, 934
 cnf/soos/or-100-5-4-UC-40.cnf.gz.no_w.cnf, 200, 500, 1343
 cnf/soos/50-16-5-q.cnf.gz.no_w.cnf, 1216, 1920, 6691
-cnf/soos/4step.cnf.gz.no_w.cnf, 165, 418, 1248
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=1000_MAX=4under.dimacs.gz.no_w.cnf, 105265, 63340, 255089
+cnf/soos/4step.cnf.gz.no_w.cnf, 165, 418, 1248
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=1000_MAX=4under.dimacs.gz.no_w.cnf, 105265, 63340, 255089
 cnf/soos/12B-2.cnf.gz.no_w.cnf, 30710, 138634, 410426
 cnf/soos/07B-3.cnf.gz.no_w.cnf, 33058, 148638, 440621
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=2over.dimacs.gz.no_w.cnf, 7594746, 5723616, 22613006
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=2over.dimacs.gz.no_w.cnf, 7594746, 5723616, 22613006
 cnf/soos/s953a_3_2.cnf.gz.no_w.cnf, 515, 1297, 2951
 cnf/soos/blasted_case58.cnf.gz.no_w.cnf, 96, 299, 857
 cnf/soos/or-50-10-4-UC-30.cnf.gz.no_w.cnf, 100, 250, 663
-cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_neg_over.dimacs.gz.no_w.cnf, 60805, 30386, 174040
+cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_neg_over.dimacs.gz.no_w.cnf, 60805, 30386, 174040
 cnf/soos/or-60-5-1.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-70-20-8-UC-20.cnf.gz.no_w.cnf, 140, 350, 920
-cnf/soos/leader_sync6_64.pm_7steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 325393, 180554, 1432972
-cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_over.dimacs.gz.no_w.cnf, 133982, 79349, 436859
+cnf/soos/leader_sync6_64.pm_7steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 325393, 180554, 1432972
+cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_over.dimacs.gz.no_w.cnf, 133982, 79349, 436859
 cnf/soos/50-16-6-q.cnf.gz.no_w.cnf, 1216, 1920, 6603
 cnf/soos/s420_new_7_4.cnf.gz.no_w.cnf, 312, 770, 1782
 cnf/soos/or-60-10-1-UC-40.cnf.gz.no_w.cnf, 120, 300, 803
@@ -1330,9 +1330,9 @@ cnf/soos/50-10-9-q.cnf.gz.no_w.cnf, 460, 720, 2459
 cnf/soos/partition.sk_22_155.cnf.gz.no_w.cnf, 151795, 689327, 1935035
 cnf/soos/07A-1.cnf.gz.no_w.cnf, 3067, 12252, 35623
 cnf/soos/17B-4.cnf.gz.no_w.cnf, 43258, 194844, 578020
-cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_neg_under.dimacs.gz.no_w.cnf, 205203, 129126, 709100
+cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_neg_under.dimacs.gz.no_w.cnf, 205203, 129126, 709100
 cnf/soos/hash-11.cnf.gz.no_w.cnf, 517921, 2078651, 6088723
-cnf/soos/leader_sync3_2.pm_4steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 16659, 8581, 30989
+cnf/soos/leader_sync3_2.pm_4steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 16659, 8581, 30989
 cnf/soos/or-50-20-10-UC-40.cnf.gz.no_w.cnf, 100, 250, 674
 cnf/soos/75-19-2-q.cnf.gz.no_w.cnf, 1729, 2736, 7905
 cnf/soos/or-60-20-5.cnf.gz.no_w.cnf, 120, 300, 780
@@ -1354,23 +1354,23 @@ cnf/soos/or-70-10-3.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/90-23-7-q.cnf.gz.no_w.cnf, 2553, 4048, 9177
 cnf/soos/or-60-20-4-UC-30.cnf.gz.no_w.cnf, 120, 300, 796
 cnf/soos/blasted_case127.cnf.gz.no_w.cnf, 36, 104, 282
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=4000_MAX=4under.dimacs.gz.no_w.cnf, 115553, 70576, 293889
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=4000_MAX=4under.dimacs.gz.no_w.cnf, 115553, 70576, 293889
 cnf/soos/90-22-4-q.cnf.gz.no_w.cnf, 2332, 3696, 8305
 cnf/soos/or-100-5-10-UC-60.cnf.gz.no_w.cnf, 200, 500, 1362
 cnf/soos/s713_7_4.cnf.gz.no_w.cnf, 527, 1193, 2661
 cnf/soos/prod-20.cnf.gz.no_w.cnf, 37321, 186734, 552676
 cnf/soos/or-70-10-1-UC-40.cnf.gz.no_w.cnf, 140, 350, 938
 cnf/soos/or-100-5-6.cnf.gz.no_w.cnf, 200, 500, 1300
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=2under.dimacs.gz.no_w.cnf, 7594746, 5723616, 22613006
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=7_L=2under.dimacs.gz.no_w.cnf, 7594746, 5723616, 22613006
 cnf/soos/s38584_3_2.cnf.gz.no_w.cnf, 23405, 57394, 128300
 cnf/soos/or-50-20-9-UC-40.cnf.gz.no_w.cnf, 100, 250, 672
 cnf/soos/s641_15_7.cnf.gz.no_w.cnf, 576, 1399, 3303
-cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_neg_over.dimacs.gz.no_w.cnf, 68660, 35086, 199240
+cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_neg_over.dimacs.gz.no_w.cnf, 68660, 35086, 199240
 cnf/soos/06A-3.cnf.gz.no_w.cnf, 5488, 21477, 62930
 cnf/soos/90-17-3-q.cnf.gz.no_w.cnf, 1377, 2176, 4995
 cnf/soos/blasted_case38.cnf.gz.no_w.cnf, 143, 568, 1646
 cnf/soos/or-60-5-5-UC-30.cnf.gz.no_w.cnf, 120, 300, 795
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=400_MAX=4over.dimacs.gz.no_w.cnf, 104695, 62931, 248859
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=400_MAX=4over.dimacs.gz.no_w.cnf, 104695, 62931, 248859
 cnf/soos/or-100-10-2-UC-20.cnf.gz.no_w.cnf, 200, 500, 1319
 cnf/soos/tire-1.cnf.gz.no_w.cnf, 352, 1038, 2133
 cnf/soos/s526a_7_4.cnf.gz.no_w.cnf, 384, 1020, 2368
@@ -1391,7 +1391,7 @@ cnf/soos/or-50-20-7-UC-30.cnf.gz.no_w.cnf, 100, 250, 664
 cnf/soos/or-70-10-4-UC-30.cnf.gz.no_w.cnf, 140, 350, 928
 cnf/soos/or-50-10-5-UC-30.cnf.gz.no_w.cnf, 100, 250, 660
 cnf/soos/75-19-3-q.cnf.gz.no_w.cnf, 1729, 2736, 7555
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=1000_MAX=4over.dimacs.gz.no_w.cnf, 105601, 63606, 255803
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=1000_MAX=4over.dimacs.gz.no_w.cnf, 105601, 63606, 255803
 cnf/soos/blasted_squaring9.cnf.gz.no_w.cnf, 1434, 5028, 13756
 cnf/soos/50-18-1-q.cnf.gz.no_w.cnf, 1548, 2448, 8417
 cnf/soos/s510_7_4.cnf.gz.no_w.cnf, 316, 844, 1978
@@ -1402,7 +1402,7 @@ cnf/soos/blasted_case205.cnf.gz.no_w.cnf, 214, 580, 1526
 cnf/soos/90-50-3-q.cnf.gz.no_w.cnf, 12300, 19600, 44645
 cnf/soos/or-70-20-1-UC-30.cnf.gz.no_w.cnf, 140, 350, 932
 cnf/soos/90-12-8-q.cnf.gz.no_w.cnf, 672, 1056, 2483
-cnf/soos/log-4.cnf.gz.no_w.cnf, 2303, 20963, 63544
+cnf/soos/log-4.cnf.gz.no_w.cnf, 2303, 20963, 63544
 cnf/soos/or-100-10-10-UC-60.cnf.gz.no_w.cnf, 200, 500, 1356
 cnf/soos/50-16-7-q.cnf.gz.no_w.cnf, 1216, 1920, 6485
 cnf/soos/75-21-8-q.cnf.gz.no_w.cnf, 2121, 3360, 8877
@@ -1445,7 +1445,7 @@ cnf/soos/prod-28.cnf.gz.no_w.cnf, 52233, 261422, 773732
 cnf/soos/90-17-4-q.cnf.gz.no_w.cnf, 1377, 2176, 4991
 cnf/soos/or-100-5-9-UC-50.cnf.gz.no_w.cnf, 200, 500, 1349
 cnf/soos/or-100-20-1-UC-60.cnf.gz.no_w.cnf, 200, 500, 1366
-cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=40_CrowdSize=128over.dimacs.gz.no_w.cnf, 8115036, 7541354, 70506000
+cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=40_CrowdSize=128over.dimacs.gz.no_w.cnf, 8115036, 7541354, 70506000
 cnf/soos/modexp8-7-4.cnf.gz.no_w.cnf, 141681, 560798, 1649908
 cnf/soos/or-60-10-5-UC-10.cnf.gz.no_w.cnf, 120, 300, 788
 cnf/soos/or-100-20-5-UC-20.cnf.gz.no_w.cnf, 200, 500, 1319
@@ -1457,7 +1457,7 @@ cnf/soos/s349_15_7.cnf.gz.no_w.cnf, 285, 829, 2115
 cnf/soos/or-50-5-10-UC-40.cnf.gz.no_w.cnf, 100, 250, 668
 cnf/soos/90-18-1-q.cnf.gz.no_w.cnf, 1548, 2448, 5613
 cnf/soos/or-100-20-7-UC-50.cnf.gz.no_w.cnf, 200, 500, 1349
-cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_neg_over.dimacs.gz.no_w.cnf, 191147, 119046, 649300
+cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_neg_over.dimacs.gz.no_w.cnf, 191147, 119046, 649300
 cnf/soos/75-19-10-q.cnf.gz.no_w.cnf, 1729, 2736, 7681
 cnf/soos/blasted_case214.cnf.gz.no_w.cnf, 645, 1883, 4789
 cnf/soos/blasted_case11.cnf.gz.no_w.cnf, 105, 371, 1061
@@ -1472,8 +1472,8 @@ cnf/soos/75-17-4-q.cnf.gz.no_w.cnf, 1377, 2176, 6039
 cnf/soos/or-50-20-4-UC-40.cnf.gz.no_w.cnf, 100, 250, 667
 cnf/soos/or-70-20-4-UC-20.cnf.gz.no_w.cnf, 140, 350, 921
 cnf/soos/min-20s.cnf.gz.no_w.cnf, 2821, 9374, 30316
-cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_neg_over.dimacs.gz.no_w.cnf, 168487, 103266, 564480
-cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_under.dimacs.gz.no_w.cnf, 70811, 36609, 207679
+cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_neg_over.dimacs.gz.no_w.cnf, 168487, 103266, 564480
+cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_under.dimacs.gz.no_w.cnf, 70811, 36609, 207679
 cnf/soos/90-23-2-q.cnf.gz.no_w.cnf, 2553, 4048, 9587
 cnf/soos/or-70-20-3-UC-20.cnf.gz.no_w.cnf, 140, 350, 925
 cnf/soos/modexp8-6-2.cnf.gz.no_w.cnf, 122033, 503630, 1494180
@@ -1505,20 +1505,20 @@ cnf/soos/or-70-10-8-UC-10.cnf.gz.no_w.cnf, 140, 350, 917
 cnf/soos/or-50-20-9-UC-30.cnf.gz.no_w.cnf, 100, 250, 668
 cnf/soos/or-70-20-5-UC-40.cnf.gz.no_w.cnf, 140, 350, 931
 cnf/soos/or-100-10-8.cnf.gz.no_w.cnf, 200, 500, 1300
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=400_MAX=4under.dimacs.gz.no_w.cnf, 104359, 62665, 248145
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=400_MAX=4under.dimacs.gz.no_w.cnf, 104359, 62665, 248145
 cnf/soos/or-100-5-3-UC-20.cnf.gz.no_w.cnf, 200, 500, 1322
 cnf/soos/blasted_case_0_b14_1.cnf.gz.no_w.cnf, 812, 3000, 8537
 cnf/soos/blasted_case_1_b14_even.cnf.gz.no_w.cnf, 1304, 4057, 10778
 cnf/soos/or-50-10-4.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/09A-1.cnf.gz.no_w.cnf, 3697, 15521, 46162
 cnf/soos/s298_3_2.cnf.gz.no_w.cnf, 205, 510, 1154
-cnf/soos/nand.pm_100steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=4over.dimacs.gz.no_w.cnf, 6500012, 3794066, 22457821
+cnf/soos/nand.pm_100steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=4over.dimacs.gz.no_w.cnf, 6500012, 3794066, 22457821
 cnf/soos/or-60-10-2-UC-30.cnf.gz.no_w.cnf, 120, 300, 805
 cnf/soos/or-100-20-5-UC-40.cnf.gz.no_w.cnf, 200, 500, 1334
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=600_MAX=4over.dimacs.gz.no_w.cnf, 104970, 62814, 247918
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=600_MAX=4over.dimacs.gz.no_w.cnf, 104970, 62814, 247918
 cnf/soos/or-100-10-5-UC-60.cnf.gz.no_w.cnf, 200, 500, 1356
 cnf/soos/s27_new_3_2.cnf.gz.no_w.cnf, 17, 31, 67
-cnf/soos/leader_sync4_8.pm_5steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 34889, 17573, 81585
+cnf/soos/leader_sync4_8.pm_5steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 34889, 17573, 81585
 cnf/soos/or-60-5-2-UC-20.cnf.gz.no_w.cnf, 120, 300, 791
 cnf/soos/90-46-5-q.cnf.gz.no_w.cnf, 10396, 16560, 37921
 cnf/soos/blasted_case37.cnf.gz.no_w.cnf, 1084, 3159, 8485
@@ -1536,7 +1536,7 @@ cnf/soos/or-70-20-3-UC-30.cnf.gz.no_w.cnf, 140, 350, 932
 cnf/soos/75-18-1-q.cnf.gz.no_w.cnf, 1548, 2448, 6425
 cnf/soos/90-30-1-q.cnf.gz.no_w.cnf, 4380, 6960, 15657
 cnf/soos/or-60-5-5-UC-40.cnf.gz.no_w.cnf, 120, 300, 803
-cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=60_CrowdSize=128over.dimacs.gz.no_w.cnf, 8284993, 7688330, 71671200
+cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=60_CrowdSize=128over.dimacs.gz.no_w.cnf, 8284993, 7688330, 71671200
 cnf/soos/90-20-8-q.cnf.gz.no_w.cnf, 1920, 3040, 6807
 cnf/soos/or-100-10-6-UC-60.cnf.gz.no_w.cnf, 200, 500, 1360
 cnf/soos/or-100-20-2-UC-40.cnf.gz.no_w.cnf, 200, 500, 1349
@@ -1557,7 +1557,7 @@ cnf/soos/or-60-5-3-UC-10.cnf.gz.no_w.cnf, 120, 300, 783
 cnf/soos/hash-13-4.cnf.gz.no_w.cnf, 612705, 2460589, 7208185
 cnf/soos/blasted_squaring24.cnf.gz.no_w.cnf, 695, 2193, 5903
 cnf/soos/or-50-20-8-UC-20.cnf.gz.no_w.cnf, 100, 250, 660
-cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_neg_under.dimacs.gz.no_w.cnf, 80381, 42666, 240080
+cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_neg_under.dimacs.gz.no_w.cnf, 80381, 42666, 240080
 cnf/soos/04B-3.cnf.gz.no_w.cnf, 28073, 125525, 372272
 cnf/soos/hash-12-3.cnf.gz.no_w.cnf, 570041, 2301386, 6747720
 cnf/soos/or-100-20-9-UC-40.cnf.gz.no_w.cnf, 200, 500, 1344
@@ -1570,7 +1570,7 @@ cnf/soos/or-50-20-4-UC-20.cnf.gz.no_w.cnf, 100, 250, 661
 cnf/soos/blasted_case42.cnf.gz.no_w.cnf, 903, 2735, 7517
 cnf/soos/or-100-5-7-UC-40.cnf.gz.no_w.cnf, 200, 500, 1345
 cnf/soos/06A-1.cnf.gz.no_w.cnf, 2226, 8579, 24838
-cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=20_CrowdSize=40under.dimacs.gz.no_w.cnf, 2, 1, 2
+cnf/soos/crowds_big.pm_15steps_8int_7fract_PCTL_TotalRuns=20_CrowdSize=40under.dimacs.gz.no_w.cnf, 2, 1, 2
 cnf/soos/or-70-20-4.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/parity.sk_11_11.cnf.gz.no_w.cnf, 13116, 47506, 120220
 cnf/soos/s1488_15_7.cnf.gz.no_w.cnf, 941, 2783, 6645
@@ -1581,7 +1581,7 @@ cnf/soos/17A-4.cnf.gz.no_w.cnf, 17979, 76871, 227519
 cnf/soos/hash-8-1.cnf.gz.no_w.cnf, 376969, 1513654, 4434108
 cnf/soos/hash-12-5.cnf.gz.no_w.cnf, 563609, 2257706, 6611016
 cnf/soos/blasted_case_1_b12_even1.cnf.gz.no_w.cnf, 2681, 8492, 22143
-cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_neg_under.dimacs.gz.no_w.cnf, 137363, 82046, 453480
+cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_neg_under.dimacs.gz.no_w.cnf, 137363, 82046, 453480
 cnf/soos/s1196a_3_2.cnf.gz.no_w.cnf, 690, 1805, 4099
 cnf/soos/90-15-3-q.cnf.gz.no_w.cnf, 1065, 1680, 3993
 cnf/soos/modexp8-6-4.cnf.gz.no_w.cnf, 121457, 480686, 1414212
@@ -1607,14 +1607,14 @@ cnf/soos/90-19-3-q.cnf.gz.no_w.cnf, 1729, 2736, 6089
 cnf/soos/or-50-5-7-UC-40.cnf.gz.no_w.cnf, 100, 250, 668
 cnf/soos/blasted_case_1_b12_even3.cnf.gz.no_w.cnf, 4157, 13049, 33992
 cnf/soos/75-18-10-q.cnf.gz.no_w.cnf, 1548, 2448, 6719
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=100000_MAX=4under.dimacs.gz.no_w.cnf, 191800, 132471, 572920
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=100000_MAX=4under.dimacs.gz.no_w.cnf, 191800, 132471, 572920
 cnf/soos/blasted_case144.cnf.gz.no_w.cnf, 765, 2340, 6460
 cnf/soos/50-12-4-q.cnf.gz.no_w.cnf, 672, 1056, 3623
 cnf/soos/or-100-10-1-UC-30.cnf.gz.no_w.cnf, 200, 500, 1328
 cnf/soos/or-70-5-1.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/blasted_squaring21.cnf.gz.no_w.cnf, 697, 2203, 5933
 cnf/soos/or-50-5-8.cnf.gz.no_w.cnf, 100, 250, 650
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=1000000_MAX=4over.dimacs.gz.no_w.cnf, 190121, 131051, 563665
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=1000000_MAX=4over.dimacs.gz.no_w.cnf, 190121, 131051, 563665
 cnf/soos/or-100-10-5-UC-40.cnf.gz.no_w.cnf, 200, 500, 1334
 cnf/soos/or-100-5-8-UC-20.cnf.gz.no_w.cnf, 200, 500, 1316
 cnf/soos/or-50-10-6.cnf.gz.no_w.cnf, 100, 250, 650
@@ -1627,10 +1627,10 @@ cnf/soos/blasted_case60.cnf.gz.no_w.cnf, 15, 35, 97
 cnf/soos/s526a_3_2.cnf.gz.no_w.cnf, 366, 944, 2148
 cnf/soos/75-25-1-q.cnf.gz.no_w.cnf, 3025, 4800, 12757
 cnf/soos/05B-2.cnf.gz.no_w.cnf, 19541, 86930, 257108
-cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_over.dimacs.gz.no_w.cnf, 122742, 71629, 395539
+cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_over.dimacs.gz.no_w.cnf, 122742, 71629, 395539
 cnf/soos/hash-8-2.cnf.gz.no_w.cnf, 377673, 1518246, 4448396
 cnf/soos/s838_15_7.cnf.gz.no_w.cnf, 685, 1774, 4234
-cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_under.dimacs.gz.no_w.cnf, 148878, 90029, 496379
+cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_under.dimacs.gz.no_w.cnf, 148878, 90029, 496379
 cnf/soos/or-70-10-7-UC-10.cnf.gz.no_w.cnf, 140, 350, 915
 cnf/soos/min-1s.cnf.gz.no_w.cnf, 168, 462, 1490
 cnf/soos/or-60-20-2-UC-20.cnf.gz.no_w.cnf, 120, 300, 794
@@ -1640,7 +1640,7 @@ cnf/soos/75-12-10-q.cnf.gz.no_w.cnf, 672, 1056, 2801
 cnf/soos/90-38-5-q.cnf.gz.no_w.cnf, 7068, 11248, 25669
 cnf/soos/90-18-8-q.cnf.gz.no_w.cnf, 1548, 2448, 5579
 cnf/soos/blasted_case_2_b14_1.cnf.gz.no_w.cnf, 238, 681, 1810
-cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_neg_over.dimacs.gz.no_w.cnf, 122747, 71606, 395520
+cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_neg_over.dimacs.gz.no_w.cnf, 122747, 71606, 395520
 cnf/soos/75-21-9-q.cnf.gz.no_w.cnf, 2121, 3360, 9147
 cnf/soos/75-22-1-q.cnf.gz.no_w.cnf, 2332, 3696, 10089
 cnf/soos/blasted_squaring30.cnf.gz.no_w.cnf, 1031, 3693, 10223
@@ -1664,7 +1664,7 @@ cnf/soos/50-18-5-q.cnf.gz.no_w.cnf, 1548, 2448, 8657
 cnf/soos/75-24-6-q.cnf.gz.no_w.cnf, 2784, 4416, 11803
 cnf/soos/08A-4.cnf.gz.no_w.cnf, 10270, 41713, 122541
 cnf/soos/or-70-10-4-UC-20.cnf.gz.no_w.cnf, 140, 350, 923
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=10000_MAX=4over.dimacs.gz.no_w.cnf, 194193, 134360, 580725
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=10000_MAX=4over.dimacs.gz.no_w.cnf, 194193, 134360, 580725
 cnf/soos/01A-1.cnf.gz.no_w.cnf, 2286, 8823, 25518
 cnf/soos/or-70-20-6-UC-40.cnf.gz.no_w.cnf, 140, 350, 935
 cnf/soos/90-30-7-q.cnf.gz.no_w.cnf, 4380, 6960, 15925
@@ -1673,7 +1673,7 @@ cnf/soos/blasted_squaring12.cnf.gz.no_w.cnf, 1507, 5210, 14168
 cnf/soos/min-2s.cnf.gz.no_w.cnf, 301, 920, 2974
 cnf/soos/50-16-1-q.cnf.gz.no_w.cnf, 1216, 1920, 6537
 cnf/soos/blasted_case28.cnf.gz.no_w.cnf, 51, 143, 391
-cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 60800, 30409, 174059
+cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 60800, 30409, 174059
 cnf/soos/or-60-20-9.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/s820a_15_7.cnf.gz.no_w.cnf, 685, 1987, 4787
 cnf/soos/11A-1.cnf.gz.no_w.cnf, 2712, 10283, 29488
@@ -1686,11 +1686,11 @@ cnf/soos/07A-4.cnf.gz.no_w.cnf, 10030, 40827, 120091
 cnf/soos/01B-2.cnf.gz.no_w.cnf, 16276, 71669, 211583
 cnf/soos/90-38-2-q.cnf.gz.no_w.cnf, 7068, 11248, 25673
 cnf/soos/or-50-5-7-UC-20.cnf.gz.no_w.cnf, 100, 250, 660
-cnf/soos/herman15.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 145367, 74583, 294600
+cnf/soos/herman15.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 145367, 74583, 294600
 cnf/soos/or-70-5-8-UC-40.cnf.gz.no_w.cnf, 140, 350, 942
 cnf/soos/20.sk_1_51.cnf.gz.no_w.cnf, 15475, 60994, 145935
 cnf/soos/blasted_case107.cnf.gz.no_w.cnf, 618, 1661, 4547
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=100000_MAX=4over.dimacs.gz.no_w.cnf, 192136, 132737, 573634
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=100000_MAX=4over.dimacs.gz.no_w.cnf, 192136, 132737, 573634
 cnf/soos/or-70-5-10-UC-30.cnf.gz.no_w.cnf, 140, 350, 927
 cnf/soos/75-25-7-q.cnf.gz.no_w.cnf, 3025, 4800, 13043
 cnf/soos/blasted_case7.cnf.gz.no_w.cnf, 116, 365, 1023
@@ -1699,11 +1699,11 @@ cnf/soos/08B-4.cnf.gz.no_w.cnf, 43169, 194520, 577140
 cnf/soos/or-50-10-3-UC-10.cnf.gz.no_w.cnf, 100, 250, 657
 cnf/soos/or-50-20-1-UC-20.cnf.gz.no_w.cnf, 100, 250, 661
 cnf/soos/or-60-20-9-UC-40.cnf.gz.no_w.cnf, 120, 300, 805
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=3000_MAX=4over.dimacs.gz.no_w.cnf, 115866, 70349, 290119
-cnf/soos/herman3.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 24040, 11421, 43248
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=3000_MAX=4over.dimacs.gz.no_w.cnf, 115866, 70349, 290119
+cnf/soos/herman3.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 24040, 11421, 43248
 cnf/soos/or-70-20-5.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/modexp8-4-5.cnf.gz.no_w.cnf, 84593, 332622, 975332
-cnf/soos/leader_sync6_8.pm_7steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 68117, 35202, 164219
+cnf/soos/leader_sync6_8.pm_7steps_7int_3fract_elected_under.dimacs.gz.no_w.cnf, 68117, 35202, 164219
 cnf/soos/15B-5.cnf.gz.no_w.cnf, 89413, 411447, 1225578
 cnf/soos/blasted_TR_b14_2_linear.cnf.gz.no_w.cnf, 1570, 4963, 13517
 cnf/soos/or-60-20-4.cnf.gz.no_w.cnf, 120, 300, 780
@@ -1721,7 +1721,7 @@ cnf/soos/or-60-5-1-UC-40.cnf.gz.no_w.cnf, 120, 300, 805
 cnf/soos/hash-13-2.cnf.gz.no_w.cnf, 613693, 2467141, 7228621
 cnf/soos/75-21-5-q.cnf.gz.no_w.cnf, 2121, 3360, 9075
 cnf/soos/51.sk_4_38.cnf.gz.no_w.cnf, 3708, 14594, 33247
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=10000_MAX=4under.dimacs.gz.no_w.cnf, 193857, 134094, 580011
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=10000_MAX=4under.dimacs.gz.no_w.cnf, 193857, 134094, 580011
 cnf/soos/or-60-5-5-UC-10.cnf.gz.no_w.cnf, 120, 300, 785
 cnf/soos/or-100-10-8-UC-20.cnf.gz.no_w.cnf, 200, 500, 1318
 cnf/soos/or-70-10-10-UC-10.cnf.gz.no_w.cnf, 140, 350, 915
@@ -1734,12 +1734,12 @@ cnf/soos/listReverse.sk_11_43.cnf.gz.no_w.cnf, 53008, 204957, 530275
 cnf/soos/90-14-2-q.cnf.gz.no_w.cnf, 924, 1456, 3299
 cnf/soos/blasted_squaring2.cnf.gz.no_w.cnf, 885, 2809, 7513
 cnf/soos/blasted_TR_b14_1_linear.cnf.gz.no_w.cnf, 1287, 3950, 10711
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=20over.dimacs.gz.no_w.cnf, 462289, 351814, 2670665
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=10_CrowdSize=20over.dimacs.gz.no_w.cnf, 462289, 351814, 2670665
 cnf/soos/or-60-10-2-UC-20.cnf.gz.no_w.cnf, 120, 300, 794
 cnf/soos/hash-13-7.cnf.gz.no_w.cnf, 619413, 2506453, 7351861
-cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_under.dimacs.gz.no_w.cnf, 217358, 137669, 754779
-cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=40_CrowdSize=128under.dimacs.gz.no_w.cnf, 8116476, 7542704, 71491725
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=64_MAX=5under.dimacs.gz.no_w.cnf, 80147, 44635, 175707
+cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_under.dimacs.gz.no_w.cnf, 217358, 137669, 754779
+cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=40_CrowdSize=128under.dimacs.gz.no_w.cnf, 8116476, 7542704, 71491725
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=64_MAX=5under.dimacs.gz.no_w.cnf, 80147, 44635, 175707
 cnf/soos/blasted_case61.cnf.gz.no_w.cnf, 282, 753, 2019
 cnf/soos/modexp8-8-2.cnf.gz.no_w.cnf, 162673, 671502, 1992228
 cnf/soos/07B-2.cnf.gz.no_w.cnf, 22947, 102786, 304192
@@ -1767,23 +1767,23 @@ cnf/soos/or-100-10-9-UC-60.cnf.gz.no_w.cnf, 200, 500, 1361
 cnf/soos/blasted_case100.cnf.gz.no_w.cnf, 72, 178, 490
 cnf/soos/blasted_TR_device_1_linear.cnf.gz.no_w.cnf, 1249, 3927, 10576
 cnf/soos/or-60-10-3-UC-30.cnf.gz.no_w.cnf, 120, 300, 797
-cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_neg_over.dimacs.gz.no_w.cnf, 46803, 23186, 124455
+cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_neg_over.dimacs.gz.no_w.cnf, 46803, 23186, 124455
 cnf/soos/75-17-3-q.cnf.gz.no_w.cnf, 1377, 2176, 5993
 cnf/soos/hash16-12.cnf.gz.no_w.cnf, 1370369, 5798978, 16935528
 cnf/soos/or-60-5-6-UC-10.cnf.gz.no_w.cnf, 120, 300, 786
 cnf/soos/blasted_case26.cnf.gz.no_w.cnf, 53, 148, 403
-cnf/soos/brp.pm_14steps_14int_8fract_p1_N=4000_MAX=4over.dimacs.gz.no_w.cnf, 115889, 70842, 294603
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=16_MAX=2under.dimacs.gz.no_w.cnf, 80710, 44900, 177011
+cnf/soos/brp.pm_14steps_14int_8fract_p1_N=4000_MAX=4over.dimacs.gz.no_w.cnf, 115889, 70842, 294603
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=16_MAX=2under.dimacs.gz.no_w.cnf, 80710, 44900, 177011
 cnf/soos/10B-7.cnf.gz.no_w.cnf, 84570, 382185, 1136118
-cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_neg_under.dimacs.gz.no_w.cnf, 124983, 73426, 407760
+cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_neg_under.dimacs.gz.no_w.cnf, 124983, 73426, 407760
 cnf/soos/or-60-10-5-UC-40.cnf.gz.no_w.cnf, 120, 300, 805
-cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_under.dimacs.gz.no_w.cnf, 172178, 106249, 583799
+cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_under.dimacs.gz.no_w.cnf, 172178, 106249, 583799
 cnf/soos/90-46-9-q.cnf.gz.no_w.cnf, 10396, 16560, 37451
 cnf/soos/or-100-20-1.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/or-100-20-3-UC-50.cnf.gz.no_w.cnf, 200, 500, 1355
 cnf/soos/75-23-5-q.cnf.gz.no_w.cnf, 2553, 4048, 10825
 cnf/soos/90-24-10-q.cnf.gz.no_w.cnf, 2784, 4416, 9961
-cnf/soos/leader_sync4_64.pm_5steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 159847, 86861, 687006
+cnf/soos/leader_sync4_64.pm_5steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 159847, 86861, 687006
 cnf/soos/or-60-5-2-UC-40.cnf.gz.no_w.cnf, 120, 300, 803
 cnf/soos/s832a_7_4.cnf.gz.no_w.cnf, 624, 1733, 4025
 cnf/soos/09A-2.cnf.gz.no_w.cnf, 6559, 27796, 83058
@@ -1793,7 +1793,7 @@ cnf/soos/or-70-10-7-UC-20.cnf.gz.no_w.cnf, 140, 350, 922
 cnf/soos/or-100-10-1-UC-40.cnf.gz.no_w.cnf, 200, 500, 1339
 cnf/soos/90-25-10-q.cnf.gz.no_w.cnf, 3025, 4800, 10799
 cnf/soos/or-60-10-9-UC-30.cnf.gz.no_w.cnf, 120, 300, 801
-cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_under.dimacs.gz.no_w.cnf, 124978, 73449, 407779
+cnf/soos/leader_sync4_11.pm_5steps_7int_12fract_elected_under.dimacs.gz.no_w.cnf, 124978, 73449, 407779
 cnf/soos/or-50-20-10-UC-30.cnf.gz.no_w.cnf, 100, 250, 667
 cnf/soos/17B-3.cnf.gz.no_w.cnf, 33147, 148992, 441591
 cnf/soos/hash16-8.cnf.gz.no_w.cnf, 913593, 3865990, 11290364
@@ -1804,11 +1804,11 @@ cnf/soos/90-46-4-q.cnf.gz.no_w.cnf, 10396, 16560, 37445
 cnf/soos/polynomial.sk_7_25.cnf.gz.no_w.cnf, 313, 1027, 2702
 cnf/soos/90-23-1-q.cnf.gz.no_w.cnf, 2553, 4048, 9283
 cnf/soos/or-100-10-5.cnf.gz.no_w.cnf, 200, 500, 1300
-cnf/soos/herman41.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 412127, 212705, 861484
+cnf/soos/herman41.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 412127, 212705, 861484
 cnf/soos/12B-3.cnf.gz.no_w.cnf, 43987, 199300, 590956
 cnf/soos/or-60-20-5-UC-20.cnf.gz.no_w.cnf, 120, 300, 791
 cnf/soos/or-50-10-1-UC-30.cnf.gz.no_w.cnf, 100, 250, 666
-cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_neg_under.dimacs.gz.no_w.cnf, 161023, 98466, 541360
+cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_neg_under.dimacs.gz.no_w.cnf, 161023, 98466, 541360
 cnf/soos/90-16-8-q.cnf.gz.no_w.cnf, 1216, 1920, 4287
 cnf/soos/or-50-20-6-UC-30.cnf.gz.no_w.cnf, 100, 250, 669
 cnf/soos/50-10-6-q.cnf.gz.no_w.cnf, 460, 720, 2527
@@ -1819,7 +1819,7 @@ cnf/soos/12A-1.cnf.gz.no_w.cnf, 2712, 10283, 29488
 cnf/soos/11A-3.cnf.gz.no_w.cnf, 6442, 24589, 71268
 cnf/soos/or-60-20-8-UC-10.cnf.gz.no_w.cnf, 120, 300, 787
 cnf/soos/90-20-4-q.cnf.gz.no_w.cnf, 1920, 3040, 6857
-cnf/soos/herman9.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 83825, 42741, 167016
+cnf/soos/herman9.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 83825, 42741, 167016
 cnf/soos/GuidanceService2.sk_2_27.cnf.gz.no_w.cnf, 715, 2181, 5092
 cnf/soos/90-18-9-q.cnf.gz.no_w.cnf, 1548, 2448, 5483
 cnf/soos/blasted_squaring1.cnf.gz.no_w.cnf, 891, 2839, 7603
@@ -1834,7 +1834,7 @@ cnf/soos/blasted_squaring20.cnf.gz.no_w.cnf, 696, 2198, 5918
 cnf/soos/90-42-10-q.cnf.gz.no_w.cnf, 8652, 13776, 31807
 cnf/soos/s349_7_4.cnf.gz.no_w.cnf, 216, 545, 1279
 cnf/soos/or-70-5-2.cnf.gz.no_w.cnf, 140, 350, 910
-cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_under.dimacs.gz.no_w.cnf, 102057, 57609, 322459
+cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_under.dimacs.gz.no_w.cnf, 102057, 57609, 322459
 cnf/soos/blasted_case59.cnf.gz.no_w.cnf, 93, 285, 815
 cnf/soos/or-50-20-7-UC-10.cnf.gz.no_w.cnf, 100, 250, 655
 cnf/soos/blasted_case104.cnf.gz.no_w.cnf, 3666, 11589, 31657
@@ -1843,14 +1843,14 @@ cnf/soos/or-100-5-2-UC-30.cnf.gz.no_w.cnf, 200, 500, 1325
 cnf/soos/hash-11-2.cnf.gz.no_w.cnf, 519285, 2087583, 6116531
 cnf/soos/modexp8-4-1.cnf.gz.no_w.cnf, 79409, 288110, 832900
 cnf/soos/90-25-8-q.cnf.gz.no_w.cnf, 3025, 4800, 10905
-cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_neg_over.dimacs.gz.no_w.cnf, 214207, 135066, 734640
+cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_neg_over.dimacs.gz.no_w.cnf, 214207, 135066, 734640
 cnf/soos/blasted_case39.cnf.gz.no_w.cnf, 245, 650, 1782
 cnf/soos/or-60-10-7-UC-30.cnf.gz.no_w.cnf, 120, 300, 797
-cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_neg_under.dimacs.gz.no_w.cnf, 113303, 65306, 364100
+cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_neg_under.dimacs.gz.no_w.cnf, 113303, 65306, 364100
 cnf/soos/or-50-10-1-UC-10.cnf.gz.no_w.cnf, 100, 250, 655
 cnf/soos/or-100-5-7-UC-30.cnf.gz.no_w.cnf, 200, 500, 1331
 cnf/soos/blasted_case34.cnf.gz.no_w.cnf, 409, 1597, 4601
-cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_neg_under.dimacs.gz.no_w.cnf, 61781, 30986, 177460
+cnf/soos/leader_sync4_11.pm_5steps_7int_6fract_elected_neg_under.dimacs.gz.no_w.cnf, 61781, 30986, 177460
 cnf/soos/blasted_case56.cnf.gz.no_w.cnf, 202, 722, 2052
 cnf/soos/blasted_case2.cnf.gz.no_w.cnf, 296, 1116, 3188
 cnf/soos/log-1.cnf.gz.no_w.cnf, 939, 3785, 7730
@@ -1860,17 +1860,17 @@ cnf/soos/blasted_squaring60.cnf.gz.no_w.cnf, 5186, 16134, 42366
 cnf/soos/18A-3.cnf.gz.no_w.cnf, 18720, 84538, 259946
 cnf/soos/or-50-20-2-UC-10.cnf.gz.no_w.cnf, 100, 250, 652
 cnf/soos/90-19-8-q.cnf.gz.no_w.cnf, 1729, 2736, 6113
-cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_over.dimacs.gz.no_w.cnf, 145862, 87589, 480419
+cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_over.dimacs.gz.no_w.cnf, 145862, 87589, 480419
 cnf/soos/or-70-10-2.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/or-50-10-9-UC-10.cnf.gz.no_w.cnf, 100, 250, 653
-cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_over.dimacs.gz.no_w.cnf, 110822, 63429, 352339
-cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_neg_under.dimacs.gz.no_w.cnf, 90242, 49406, 278700
-cnf/soos/leader_sync3_2.pm_4steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 16659, 8581, 30989
+cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_over.dimacs.gz.no_w.cnf, 110822, 63429, 352339
+cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_neg_under.dimacs.gz.no_w.cnf, 90242, 49406, 278700
+cnf/soos/leader_sync3_2.pm_4steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 16659, 8581, 30989
 cnf/soos/blasted_case101.cnf.gz.no_w.cnf, 72, 178, 490
 cnf/soos/or-70-10-5-UC-10.cnf.gz.no_w.cnf, 140, 350, 914
 cnf/soos/s38417_7_4.cnf.gz.no_w.cnf, 25546, 57662, 125250
 cnf/soos/75-25-2-q.cnf.gz.no_w.cnf, 3025, 4800, 13313
-cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_neg_over.dimacs.gz.no_w.cnf, 202587, 127006, 691740
+cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_neg_over.dimacs.gz.no_w.cnf, 202587, 127006, 691740
 cnf/soos/17A-5.cnf.gz.no_w.cnf, 22165, 94911, 281145
 cnf/soos/or-100-20-7-UC-20.cnf.gz.no_w.cnf, 200, 500, 1323
 cnf/soos/compress.sk_17_291.cnf.gz.no_w.cnf, 44901, 166948, 407965
@@ -1888,7 +1888,7 @@ cnf/soos/90-24-9-q.cnf.gz.no_w.cnf, 2784, 4416, 9809
 cnf/soos/15A-2.cnf.gz.no_w.cnf, 11649, 49774, 146944
 cnf/soos/or-100-10-3-UC-50.cnf.gz.no_w.cnf, 200, 500, 1349
 cnf/soos/or-50-5-10.cnf.gz.no_w.cnf, 100, 250, 650
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=800_MAX=4over.dimacs.gz.no_w.cnf, 104358, 62790, 248358
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=800_MAX=4over.dimacs.gz.no_w.cnf, 104358, 62790, 248358
 cnf/soos/75-21-1-q.cnf.gz.no_w.cnf, 2121, 3360, 9083
 cnf/soos/or-60-20-9-UC-30.cnf.gz.no_w.cnf, 120, 300, 799
 cnf/soos/or-100-10-3-UC-40.cnf.gz.no_w.cnf, 200, 500, 1339
@@ -1912,7 +1912,7 @@ cnf/soos/or-60-20-10-UC-30.cnf.gz.no_w.cnf, 120, 300, 795
 cnf/soos/or-70-20-10-UC-40.cnf.gz.no_w.cnf, 140, 350, 937
 cnf/soos/or-60-10-7.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-70-10-2-UC-30.cnf.gz.no_w.cnf, 140, 350, 928
-cnf/soos/leader_sync6_32.pm_7steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 169874, 90154, 639425
+cnf/soos/leader_sync6_32.pm_7steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 169874, 90154, 639425
 cnf/soos/50-12-6-q.cnf.gz.no_w.cnf, 672, 1056, 3299
 cnf/soos/blasted_case12.cnf.gz.no_w.cnf, 737, 2310, 6229
 cnf/soos/03B-1.cnf.gz.no_w.cnf, 8403, 36544, 107473
@@ -1924,14 +1924,14 @@ cnf/soos/or-60-10-6-UC-20.cnf.gz.no_w.cnf, 120, 300, 792
 cnf/soos/or-60-10-7-UC-40.cnf.gz.no_w.cnf, 120, 300, 804
 cnf/soos/09B-4.cnf.gz.no_w.cnf, 55070, 251824, 749564
 cnf/soos/90-17-6-q.cnf.gz.no_w.cnf, 1377, 2176, 4981
-cnf/soos/leader_sync3_32.pm_4steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 52715, 26809, 187533
+cnf/soos/leader_sync3_32.pm_4steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 52715, 26809, 187533
 cnf/soos/blasted_case208.cnf.gz.no_w.cnf, 824, 2128, 5314
 cnf/soos/75-14-6-q.cnf.gz.no_w.cnf, 924, 1456, 4043
 cnf/soos/75-26-1-q.cnf.gz.no_w.cnf, 3276, 5200, 13675
 cnf/soos/or-100-10-8-UC-60.cnf.gz.no_w.cnf, 200, 500, 1353
 cnf/soos/or-100-10-4-UC-40.cnf.gz.no_w.cnf, 200, 500, 1332
 cnf/soos/90-38-8-q.cnf.gz.no_w.cnf, 7068, 11248, 25679
-cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=60_CrowdSize=128under.dimacs.gz.no_w.cnf, 8286433, 7689680, 72656925
+cnf/soos/crowds_big.pm_15steps_9int_7fract_PCTL_TotalRuns=60_CrowdSize=128under.dimacs.gz.no_w.cnf, 8286433, 7689680, 72656925
 cnf/soos/or-100-20-1-UC-30.cnf.gz.no_w.cnf, 200, 500, 1323
 cnf/soos/blasted_squaring70.cnf.gz.no_w.cnf, 882, 2663, 7075
 cnf/soos/50-12-9-q.cnf.gz.no_w.cnf, 672, 1056, 3725
@@ -1940,20 +1940,20 @@ cnf/soos/75-12-7-q.cnf.gz.no_w.cnf, 672, 1056, 2877
 cnf/soos/17B-5.cnf.gz.no_w.cnf, 53369, 240696, 714449
 cnf/soos/109.sk_4_36.cnf.gz.no_w.cnf, 3565, 14012, 31901
 cnf/soos/75-26-9-q.cnf.gz.no_w.cnf, 3276, 5200, 14511
-cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_neg_under.dimacs.gz.no_w.cnf, 102062, 57586, 322440
+cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_neg_under.dimacs.gz.no_w.cnf, 102062, 57586, 322440
 cnf/soos/or-60-20-10-UC-20.cnf.gz.no_w.cnf, 120, 300, 790
 cnf/soos/IterationService.sk_12_27.cnf.gz.no_w.cnf, 1896, 6732, 16208
 cnf/soos/or-100-10-6-UC-30.cnf.gz.no_w.cnf, 200, 500, 1332
 cnf/soos/blasted_case68.cnf.gz.no_w.cnf, 178, 553, 1541
 cnf/soos/or-50-5-6-UC-20.cnf.gz.no_w.cnf, 100, 250, 660
 cnf/soos/s38417_15_7.cnf.gz.no_w.cnf, 25615, 57946, 126086
-cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_over.dimacs.gz.no_w.cnf, 77920, 41089, 232439
-cnf/soos/log-2.cnf.gz.no_w.cnf, 1337, 24777, 74794
+cnf/soos/leader_sync4_11.pm_5steps_7int_8fract_elected_over.dimacs.gz.no_w.cnf, 77920, 41089, 232439
+cnf/soos/log-2.cnf.gz.no_w.cnf, 1337, 24777, 74794
 cnf/soos/blasted_case141.cnf.gz.no_w.cnf, 4155, 11758, 31790
 cnf/soos/75-17-7-q.cnf.gz.no_w.cnf, 1377, 2176, 5771
 cnf/soos/90-30-6-q.cnf.gz.no_w.cnf, 4380, 6960, 15953
 cnf/soos/or-100-10-7-UC-10.cnf.gz.no_w.cnf, 200, 500, 1311
-cnf/soos/leader_sync6_8.pm_7steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 68117, 35202, 164219
+cnf/soos/leader_sync6_8.pm_7steps_7int_3fract_elected_over.dimacs.gz.no_w.cnf, 68117, 35202, 164219
 cnf/soos/or-50-20-10-UC-10.cnf.gz.no_w.cnf, 100, 250, 658
 cnf/soos/90-26-7-q.cnf.gz.no_w.cnf, 3276, 5200, 11761
 cnf/soos/blasted_case124.cnf.gz.no_w.cnf, 133, 386, 1070
@@ -1965,9 +1965,9 @@ cnf/soos/75-12-8-q.cnf.gz.no_w.cnf, 672, 1056, 2777
 cnf/soos/or-70-10-9-UC-40.cnf.gz.no_w.cnf, 140, 350, 935
 cnf/soos/75-16-3-q.cnf.gz.no_w.cnf, 1216, 1920, 5205
 cnf/soos/90-23-6-q.cnf.gz.no_w.cnf, 2553, 4048, 9163
-cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_under.dimacs.gz.no_w.cnf, 113298, 65329, 364119
+cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_under.dimacs.gz.no_w.cnf, 113298, 65329, 364119
 cnf/soos/or-70-20-6.cnf.gz.no_w.cnf, 140, 350, 910
-cnf/soos/brp.pm_14steps_30int_8fract_p1_N=100000000_MAX=4over.dimacs.gz.no_w.cnf, 277812, 203814, 912533
+cnf/soos/brp.pm_14steps_30int_8fract_p1_N=100000000_MAX=4over.dimacs.gz.no_w.cnf, 277812, 203814, 912533
 cnf/soos/10B-11.cnf.gz.no_w.cnf, 130690, 591417, 1759322
 cnf/soos/signedAvg.sk_8_1020.cnf.gz.no_w.cnf, 30335, 91854, 225830
 cnf/soos/s420_3_2.cnf.gz.no_w.cnf, 294, 694, 1562
@@ -1975,7 +1975,7 @@ cnf/soos/11B-4.cnf.gz.no_w.cnf, 61199, 278515, 826697
 cnf/soos/blasted_case_1_b12_2.cnf.gz.no_w.cnf, 827, 2725, 7268
 cnf/soos/blasted_case53.cnf.gz.no_w.cnf, 132, 395, 1041
 cnf/soos/50-18-3-q.cnf.gz.no_w.cnf, 1548, 2448, 8305
-cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_under.dimacs.gz.no_w.cnf, 161018, 98489, 541379
+cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_under.dimacs.gz.no_w.cnf, 161018, 98489, 541379
 cnf/soos/or-60-20-7-UC-30.cnf.gz.no_w.cnf, 120, 300, 794
 cnf/soos/blasted_case52.cnf.gz.no_w.cnf, 132, 395, 1041
 cnf/soos/or-50-20-2.cnf.gz.no_w.cnf, 100, 250, 650
@@ -2010,10 +2010,10 @@ cnf/soos/or-50-10-4-UC-20.cnf.gz.no_w.cnf, 100, 250, 659
 cnf/soos/50-18-7-q.cnf.gz.no_w.cnf, 1548, 2448, 8679
 cnf/soos/hash-10-4.cnf.gz.no_w.cnf, 471321, 1892764, 5544766
 cnf/soos/or-100-10-2-UC-50.cnf.gz.no_w.cnf, 200, 500, 1347
-cnf/soos/leader_sync3_64.pm_4steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 98746, 52695, 415191
+cnf/soos/leader_sync3_64.pm_4steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 98746, 52695, 415191
 cnf/soos/blasted_case131.cnf.gz.no_w.cnf, 432, 1830, 5398
 cnf/soos/or-100-20-7-UC-10.cnf.gz.no_w.cnf, 200, 500, 1313
-cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_over.dimacs.gz.no_w.cnf, 202582, 127029, 691759
+cnf/soos/leader_sync4_11.pm_5steps_7int_19fract_elected_over.dimacs.gz.no_w.cnf, 202582, 127029, 691759
 cnf/soos/or-60-20-5-UC-40.cnf.gz.no_w.cnf, 120, 300, 801
 cnf/soos/blasted_case29.cnf.gz.no_w.cnf, 65, 190, 526
 cnf/soos/or-70-20-9-UC-40.cnf.gz.no_w.cnf, 140, 350, 943
@@ -2025,29 +2025,29 @@ cnf/soos/s820a_7_4.cnf.gz.no_w.cnf, 616, 1703, 3951
 cnf/soos/or-70-5-10-UC-20.cnf.gz.no_w.cnf, 140, 350, 921
 cnf/soos/hash-11-1.cnf.gz.no_w.cnf, 518317, 2081269, 6096885
 cnf/soos/blasted_case25.cnf.gz.no_w.cnf, 68, 195, 529
-cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_neg_under.dimacs.gz.no_w.cnf, 183463, 114026, 626080
+cnf/soos/leader_sync4_11.pm_5steps_7int_17fract_elected_neg_under.dimacs.gz.no_w.cnf, 183463, 114026, 626080
 cnf/soos/90-50-9-q.cnf.gz.no_w.cnf, 12300, 19600, 44941
 cnf/soos/karatsuba.sk_7_41.cnf.gz.no_w.cnf, 19594, 82417, 224925
 cnf/soos/or-100-5-4-UC-50.cnf.gz.no_w.cnf, 200, 500, 1355
-cnf/soos/leader_sync4_2.pm_5steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 24962, 13391, 47906
+cnf/soos/leader_sync4_2.pm_5steps_7int_1fract_elected_over.dimacs.gz.no_w.cnf, 24962, 13391, 47906
 cnf/soos/12A-2.cnf.gz.no_w.cnf, 4577, 17436, 50378
-cnf/soos/herman21.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 206909, 106425, 422184
-cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_neg_under.dimacs.gz.no_w.cnf, 148883, 90006, 496360
+cnf/soos/herman21.pm_20steps_6int_1fract_stable_over.dimacs.gz.no_w.cnf, 206909, 106425, 422184
+cnf/soos/leader_sync4_11.pm_5steps_7int_14fract_elected_neg_under.dimacs.gz.no_w.cnf, 148883, 90006, 496360
 cnf/soos/or-50-10-4-UC-40.cnf.gz.no_w.cnf, 100, 250, 665
 cnf/soos/or-100-20-10-UC-20.cnf.gz.no_w.cnf, 200, 500, 1320
 cnf/soos/or-70-20-7-UC-10.cnf.gz.no_w.cnf, 140, 350, 916
 cnf/soos/or-100-20-1-UC-10.cnf.gz.no_w.cnf, 200, 500, 1311
 cnf/soos/or-100-5-9-UC-40.cnf.gz.no_w.cnf, 200, 500, 1343
 cnf/soos/xpose.sk_6_134.cnf.gz.no_w.cnf, 35519, 159328, 433265
-cnf/soos/leader_sync3_64.pm_4steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 98746, 52695, 415191
+cnf/soos/leader_sync3_64.pm_4steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 98746, 52695, 415191
 cnf/soos/or-60-5-2.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/hash-13-6.cnf.gz.no_w.cnf, 613485, 2466049, 7225345
-cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_neg_under.dimacs.gz.no_w.cnf, 70816, 36586, 207660
+cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_neg_under.dimacs.gz.no_w.cnf, 70816, 36586, 207660
 cnf/soos/blasted_TR_ptb_2_linear.cnf.gz.no_w.cnf, 3857, 12774, 34135
 cnf/soos/90-25-9-q.cnf.gz.no_w.cnf, 3025, 4800, 11259
-cnf/soos/brp.pm_14steps_12int_8fract_p1_N=800_MAX=4under.dimacs.gz.no_w.cnf, 104022, 62524, 247644
+cnf/soos/brp.pm_14steps_12int_8fract_p1_N=800_MAX=4under.dimacs.gz.no_w.cnf, 104022, 62524, 247644
 cnf/soos/or-60-5-6-UC-20.cnf.gz.no_w.cnf, 120, 300, 794
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=16_MAX=2over.dimacs.gz.no_w.cnf, 81046, 45166, 177725
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=16_MAX=2over.dimacs.gz.no_w.cnf, 81046, 45166, 177725
 cnf/soos/modexp8-6-5.cnf.gz.no_w.cnf, 126833, 498926, 1462980
 cnf/soos/or-100-20-8-UC-30.cnf.gz.no_w.cnf, 200, 500, 1331
 cnf/soos/or-50-20-5-UC-40.cnf.gz.no_w.cnf, 100, 250, 672
@@ -2065,7 +2065,7 @@ cnf/soos/or-70-5-5-UC-20.cnf.gz.no_w.cnf, 140, 350, 920
 cnf/soos/75-16-8-q.cnf.gz.no_w.cnf, 1216, 1920, 5195
 cnf/soos/50-20-10-q.cnf.gz.no_w.cnf, 1920, 3040, 10635
 cnf/soos/04B-2.cnf.gz.no_w.cnf, 19510, 86961, 257511
-cnf/soos/herman21.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 206909, 106425, 422184
+cnf/soos/herman21.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 206909, 106425, 422184
 cnf/soos/or-50-20-8-UC-40.cnf.gz.no_w.cnf, 100, 250, 668
 cnf/soos/90-12-6-q.cnf.gz.no_w.cnf, 672, 1056, 2463
 cnf/soos/modexp8-4-7.cnf.gz.no_w.cnf, 84721, 345870, 1021604
@@ -2073,7 +2073,7 @@ cnf/soos/or-50-10-3.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/blasted_case109.cnf.gz.no_w.cnf, 241, 915, 2647
 cnf/soos/or-100-5-2.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/s15850a_7_4.cnf.gz.no_w.cnf, 10926, 24552, 53054
-cnf/soos/leader_sync6_64.pm_7steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 325393, 180554, 1432972
+cnf/soos/leader_sync6_64.pm_7steps_7int_6fract_elected_under.dimacs.gz.no_w.cnf, 325393, 180554, 1432972
 cnf/soos/s1238a_15_7.cnf.gz.no_w.cnf, 773, 2210, 5298
 cnf/soos/or-70-10-9-UC-10.cnf.gz.no_w.cnf, 140, 350, 919
 cnf/soos/or-60-5-10-UC-40.cnf.gz.no_w.cnf, 120, 300, 811
@@ -2088,7 +2088,7 @@ cnf/soos/90-23-10-q.cnf.gz.no_w.cnf, 2553, 4048, 9159
 cnf/soos/ActivityService2.sk_10_27.cnf.gz.no_w.cnf, 1952, 6867, 16500
 cnf/soos/75-18-7-q.cnf.gz.no_w.cnf, 1548, 2448, 6631
 cnf/soos/or-70-10-7-UC-30.cnf.gz.no_w.cnf, 140, 350, 935
-cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_over.dimacs.gz.no_w.cnf, 214202, 135089, 734659
+cnf/soos/leader_sync4_11.pm_5steps_7int_20fract_elected_over.dimacs.gz.no_w.cnf, 214202, 135089, 734659
 cnf/soos/blasted_case206.cnf.gz.no_w.cnf, 14, 42, 120
 cnf/soos/or-100-5-9-UC-30.cnf.gz.no_w.cnf, 200, 500, 1330
 cnf/soos/or-100-20-5.cnf.gz.no_w.cnf, 200, 500, 1300
@@ -2121,7 +2121,7 @@ cnf/soos/90-46-6-q.cnf.gz.no_w.cnf, 10396, 16560, 38053
 cnf/soos/or-50-10-4-UC-10.cnf.gz.no_w.cnf, 100, 250, 655
 cnf/soos/or-70-10-6-UC-10.cnf.gz.no_w.cnf, 140, 350, 915
 cnf/soos/75-10-5-q.cnf.gz.no_w.cnf, 460, 720, 1931
-cnf/soos/brp.pm_14steps_13int_8fract_p1_N=2000_MAX=4under.dimacs.gz.no_w.cnf, 111856, 68601, 276173
+cnf/soos/brp.pm_14steps_13int_8fract_p1_N=2000_MAX=4under.dimacs.gz.no_w.cnf, 111856, 68601, 276173
 cnf/soos/or-70-5-7.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/90-20-5-q.cnf.gz.no_w.cnf, 1920, 3040, 6953
 cnf/soos/50-20-2-q.cnf.gz.no_w.cnf, 1920, 3040, 10351
@@ -2133,7 +2133,7 @@ cnf/soos/s444_15_7.cnf.gz.no_w.cnf, 377, 1072, 2660
 cnf/soos/or-100-10-6.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/blasted_squaring16.cnf.gz.no_w.cnf, 1627, 5835, 16057
 cnf/soos/90-14-3-q.cnf.gz.no_w.cnf, 924, 1456, 3241
-cnf/soos/log-3.cnf.gz.no_w.cnf, 1413, 29487, 88968
+cnf/soos/log-3.cnf.gz.no_w.cnf, 1413, 29487, 88968
 cnf/soos/or-70-5-10-UC-40.cnf.gz.no_w.cnf, 140, 350, 932
 cnf/soos/90-16-6-q.cnf.gz.no_w.cnf, 1216, 1920, 4387
 cnf/soos/90-24-8-q.cnf.gz.no_w.cnf, 2784, 4416, 10071
@@ -2150,31 +2150,31 @@ cnf/soos/90-10-1-q.cnf.gz.no_w.cnf, 460, 720, 1699
 cnf/soos/s1488_7_4.cnf.gz.no_w.cnf, 872, 2499, 5809
 cnf/soos/blasted_case_0_b11_1.cnf.gz.no_w.cnf, 340, 1026, 2784
 cnf/soos/or-100-20-4-UC-50.cnf.gz.no_w.cnf, 200, 500, 1351
-cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_over.dimacs.gz.no_w.cnf, 168482, 103289, 564499
+cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_over.dimacs.gz.no_w.cnf, 168482, 103289, 564499
 cnf/soos/ProjectService3.sk_12_55.cnf.gz.no_w.cnf, 3175, 11019, 26573
 cnf/soos/or-100-20-7-UC-60.cnf.gz.no_w.cnf, 200, 500, 1359
 cnf/soos/or-60-5-6.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/s1423a_3_2.cnf.gz.no_w.cnf, 777, 1888, 4292
 cnf/soos/prod-8s.cnf.gz.no_w.cnf, 4377, 19854, 58084
 cnf/soos/50-20-8-q.cnf.gz.no_w.cnf, 1920, 3040, 10643
-cnf/soos/herman9.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 83825, 42741, 167016
+cnf/soos/herman9.pm_20steps_6int_1fract_stable_under.dimacs.gz.no_w.cnf, 83825, 42741, 167016
 cnf/soos/55.sk_3_46.cnf.gz.no_w.cnf, 3128, 12145, 26856
 cnf/soos/blasted_case202.cnf.gz.no_w.cnf, 200, 544, 1426
 cnf/soos/or-70-5-9.cnf.gz.no_w.cnf, 140, 350, 910
 cnf/soos/75-20-8-q.cnf.gz.no_w.cnf, 1920, 3040, 8471
-cnf/soos/brp.pm_14steps_26int_8fract_p1_N=10000000_MAX=4under.dimacs.gz.no_w.cnf, 234091, 167422, 734442
-cnf/soos/brp.pm_14steps_22int_8fract_p1_N=1000000_MAX=4under.dimacs.gz.no_w.cnf, 189785, 130785, 562951
+cnf/soos/brp.pm_14steps_26int_8fract_p1_N=10000000_MAX=4under.dimacs.gz.no_w.cnf, 234091, 167422, 734442
+cnf/soos/brp.pm_14steps_22int_8fract_p1_N=1000000_MAX=4under.dimacs.gz.no_w.cnf, 189785, 130785, 562951
 cnf/soos/blasted_case_0_b12_1.cnf.gz.no_w.cnf, 427, 1385, 3707
 cnf/soos/75-16-2-q.cnf.gz.no_w.cnf, 1216, 1920, 5397
 cnf/soos/or-70-20-1.cnf.gz.no_w.cnf, 140, 350, 910
-cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=6_CrowdSize=10over.dimacs.gz.no_w.cnf, 470380, 357994, 2690777
+cnf/soos/crowds.pm_15steps_8int_7fract_PCTL_TotalRuns=6_CrowdSize=10over.dimacs.gz.no_w.cnf, 470380, 357994, 2690777
 cnf/soos/or-100-5-3.cnf.gz.no_w.cnf, 200, 500, 1300
 cnf/soos/or-70-10-6-UC-40.cnf.gz.no_w.cnf, 140, 350, 951
 cnf/soos/or-50-20-3-UC-10.cnf.gz.no_w.cnf, 100, 250, 657
 cnf/soos/09B-3.cnf.gz.no_w.cnf, 42145, 192363, 572165
 cnf/soos/or-100-10-8-UC-30.cnf.gz.no_w.cnf, 200, 500, 1324
 cnf/soos/75-12-2-q.cnf.gz.no_w.cnf, 672, 1056, 2839
-cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_neg_over.dimacs.gz.no_w.cnf, 157627, 95726, 523720
+cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_neg_over.dimacs.gz.no_w.cnf, 157627, 95726, 523720
 cnf/soos/90-42-2-q.cnf.gz.no_w.cnf, 8652, 13776, 30593
 cnf/soos/or-60-5-2-UC-10.cnf.gz.no_w.cnf, 120, 300, 785
 cnf/soos/75-23-8-q.cnf.gz.no_w.cnf, 2553, 4048, 10457
@@ -2190,7 +2190,7 @@ cnf/soos/90-17-1-q.cnf.gz.no_w.cnf, 1377, 2176, 4713
 cnf/soos/75-26-8-q.cnf.gz.no_w.cnf, 3276, 5200, 14161
 cnf/soos/or-70-5-9-UC-20.cnf.gz.no_w.cnf, 140, 350, 927
 cnf/soos/75-21-2-q.cnf.gz.no_w.cnf, 2121, 3360, 8915
-cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_over.dimacs.gz.no_w.cnf, 99301, 55429, 309539
+cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_over.dimacs.gz.no_w.cnf, 99301, 55429, 309539
 cnf/soos/s420_15_7.cnf.gz.no_w.cnf, 366, 994, 2438
 cnf/soos/or-50-10-5.cnf.gz.no_w.cnf, 100, 250, 650
 cnf/soos/50-10-5-q.cnf.gz.no_w.cnf, 460, 720, 2253
@@ -2203,7 +2203,7 @@ cnf/soos/75-23-1-q.cnf.gz.no_w.cnf, 2553, 4048, 11067
 cnf/soos/50-18-4-q.cnf.gz.no_w.cnf, 1548, 2448, 8317
 cnf/soos/09A-3.cnf.gz.no_w.cnf, 9421, 40071, 119954
 cnf/soos/03A-1.cnf.gz.no_w.cnf, 1466, 5236, 15081
-cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_neg_over.dimacs.gz.no_w.cnf, 133987, 79326, 436840
+cnf/soos/leader_sync4_11.pm_5steps_7int_13fract_elected_neg_over.dimacs.gz.no_w.cnf, 133987, 79326, 436840
 cnf/soos/registerlesSwap.sk_3_10.cnf.gz.no_w.cnf, 372, 1493, 3618
 cnf/soos/or-70-5-1-UC-40.cnf.gz.no_w.cnf, 140, 350, 942
 cnf/soos/or-70-20-8.cnf.gz.no_w.cnf, 140, 350, 910
@@ -2248,14 +2248,14 @@ cnf/soos/or-50-5-5-UC-20.cnf.gz.no_w.cnf, 100, 250, 658
 cnf/soos/or-100-10-7-UC-30.cnf.gz.no_w.cnf, 200, 500, 1328
 cnf/soos/18A-2.cnf.gz.no_w.cnf, 13754, 61857, 191935
 cnf/soos/or-70-20-5-UC-30.cnf.gz.no_w.cnf, 140, 350, 924
-cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_neg_under.dimacs.gz.no_w.cnf, 47346, 23446, 118560
+cnf/soos/leader_sync4_11.pm_5steps_7int_4fract_elected_neg_under.dimacs.gz.no_w.cnf, 47346, 23446, 118560
 cnf/soos/or-60-5-10.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-100-5-9-UC-20.cnf.gz.no_w.cnf, 200, 500, 1321
 cnf/soos/or-50-5-1-UC-10.cnf.gz.no_w.cnf, 100, 250, 653
 cnf/soos/75-18-8-q.cnf.gz.no_w.cnf, 1548, 2448, 6643
 cnf/soos/90-25-5-q.cnf.gz.no_w.cnf, 3025, 4800, 11125
 cnf/soos/75-16-4-q.cnf.gz.no_w.cnf, 1216, 1920, 5465
-cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_neg_over.dimacs.gz.no_w.cnf, 87886, 47546, 267420
+cnf/soos/leader_sync4_11.pm_5steps_7int_9fract_elected_neg_over.dimacs.gz.no_w.cnf, 87886, 47546, 267420
 cnf/soos/or-100-5-1-UC-10.cnf.gz.no_w.cnf, 200, 500, 1312
 cnf/soos/or-60-10-6-UC-40.cnf.gz.no_w.cnf, 120, 300, 803
 cnf/soos/s9234a_3_2.cnf.gz.no_w.cnf, 6295, 14479, 31341
@@ -2270,7 +2270,7 @@ cnf/soos/or-70-5-8-UC-10.cnf.gz.no_w.cnf, 140, 350, 919
 cnf/soos/s526_7_4.cnf.gz.no_w.cnf, 383, 1019, 2367
 cnf/soos/min-24.cnf.gz.no_w.cnf, 4561, 12782, 40980
 cnf/soos/blasted_squaring3.cnf.gz.no_w.cnf, 885, 2809, 7513
-cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_over.dimacs.gz.no_w.cnf, 68655, 35109, 199259
+cnf/soos/leader_sync4_11.pm_5steps_7int_7fract_elected_over.dimacs.gz.no_w.cnf, 68655, 35109, 199259
 cnf/soos/blasted_case_3_b14_3.cnf.gz.no_w.cnf, 304, 941, 2544
 cnf/soos/or-60-5-9-UC-20.cnf.gz.no_w.cnf, 120, 300, 794
 cnf/soos/or-60-10-6-UC-10.cnf.gz.no_w.cnf, 120, 300, 785
@@ -2284,7 +2284,7 @@ cnf/soos/hash-11-6.cnf.gz.no_w.cnf, 519109, 2086659, 6113759
 cnf/soos/or-70-20-4-UC-10.cnf.gz.no_w.cnf, 140, 350, 916
 cnf/soos/hash-11-5.cnf.gz.no_w.cnf, 516645, 2069565, 6060101
 cnf/soos/tire-3.cnf.gz.no_w.cnf, 577, 2004, 4118
-cnf/soos/brp.pm_14steps_8int_8fract_p1_N=64_MAX=5over.dimacs.gz.no_w.cnf, 80483, 44901, 176421
+cnf/soos/brp.pm_14steps_8int_8fract_p1_N=64_MAX=5over.dimacs.gz.no_w.cnf, 80483, 44901, 176421
 cnf/soos/or-60-5-8-UC-10.cnf.gz.no_w.cnf, 120, 300, 784
 cnf/soos/90-14-8-q.cnf.gz.no_w.cnf, 924, 1456, 3351
 cnf/soos/blasted_case41.cnf.gz.no_w.cnf, 245, 650, 1782
@@ -2304,14 +2304,14 @@ cnf/soos/75-14-5-q.cnf.gz.no_w.cnf, 924, 1456, 3833
 cnf/soos/or-70-5-1-UC-30.cnf.gz.no_w.cnf, 140, 350, 936
 cnf/soos/prod-4.cnf.gz.no_w.cnf, 7497, 37358, 110564
 cnf/soos/or-60-10-3.cnf.gz.no_w.cnf, 120, 300, 780
-cnf/soos/leader_sync4_32.pm_5steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 84398, 43769, 308365
+cnf/soos/leader_sync4_32.pm_5steps_7int_5fract_elected_under.dimacs.gz.no_w.cnf, 84398, 43769, 308365
 cnf/soos/or-100-20-5-UC-10.cnf.gz.no_w.cnf, 200, 500, 1309
 cnf/soos/06B-4.cnf.gz.no_w.cnf, 36667, 164028, 486540
 cnf/soos/50-10-1-q.cnf.gz.no_w.cnf, 460, 720, 2585
 cnf/soos/s349_3_2.cnf.gz.no_w.cnf, 198, 469, 1059
 cnf/soos/54.sk_12_97.cnf.gz.no_w.cnf, 21726, 73499, 177587
 cnf/soos/or-60-20-2-UC-40.cnf.gz.no_w.cnf, 120, 300, 810
-cnf/soos/leader_sync4_64.pm_5steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 159847, 86861, 687006
+cnf/soos/leader_sync4_64.pm_5steps_7int_6fract_elected_over.dimacs.gz.no_w.cnf, 159847, 86861, 687006
 cnf/soos/90-19-2-q.cnf.gz.no_w.cnf, 1729, 2736, 6421
 cnf/soos/modexp8-7-7.cnf.gz.no_w.cnf, 148177, 605262, 1787780
 cnf/soos/or-70-20-2-UC-10.cnf.gz.no_w.cnf, 140, 350, 918
@@ -2340,13 +2340,13 @@ cnf/soos/blasted_case_1_b11_1.cnf.gz.no_w.cnf, 340, 1026, 2784
 cnf/soos/17B-2.cnf.gz.no_w.cnf, 23036, 103140, 305162
 cnf/soos/blasted_case120.cnf.gz.no_w.cnf, 284, 851, 2357
 cnf/soos/blasted_case121.cnf.gz.no_w.cnf, 291, 975, 2745
-cnf/soos/leader_sync4_32.pm_5steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 84398, 43769, 308365
+cnf/soos/leader_sync4_32.pm_5steps_7int_5fract_elected_over.dimacs.gz.no_w.cnf, 84398, 43769, 308365
 cnf/soos/90-26-4-q.cnf.gz.no_w.cnf, 3276, 5200, 11911
-cnf/soos/leader_sync6_2.pm_7steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 48831, 26364, 93402
+cnf/soos/leader_sync6_2.pm_7steps_7int_1fract_elected_under.dimacs.gz.no_w.cnf, 48831, 26364, 93402
 cnf/soos/90-34-2-q.cnf.gz.no_w.cnf, 5644, 8976, 20493
 cnf/soos/75-26-6-q.cnf.gz.no_w.cnf, 3276, 5200, 13959
 cnf/soos/90-30-5-q.cnf.gz.no_w.cnf, 4380, 6960, 16303
-cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_neg_over.dimacs.gz.no_w.cnf, 99306, 55406, 309520
+cnf/soos/leader_sync4_11.pm_5steps_7int_10fract_elected_neg_over.dimacs.gz.no_w.cnf, 99306, 55406, 309520
 cnf/soos/or-100-10-9-UC-20.cnf.gz.no_w.cnf, 200, 500, 1319
 cnf/soos/or-100-20-2-UC-10.cnf.gz.no_w.cnf, 200, 500, 1312
 cnf/soos/07A-5.cnf.gz.no_w.cnf, 12351, 50352, 148247
@@ -2356,7 +2356,7 @@ cnf/soos/90-24-3-q.cnf.gz.no_w.cnf, 2784, 4416, 10087
 cnf/soos/or-50-10-6-UC-40.cnf.gz.no_w.cnf, 100, 250, 671
 cnf/soos/or-60-20-3.cnf.gz.no_w.cnf, 120, 300, 780
 cnf/soos/or-70-10-1-UC-10.cnf.gz.no_w.cnf, 140, 350, 918
-cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_over.dimacs.gz.no_w.cnf, 157622, 95749, 523739
+cnf/soos/leader_sync4_11.pm_5steps_7int_15fract_elected_over.dimacs.gz.no_w.cnf, 157622, 95749, 523739
 cnf/soos/or-70-5-7-UC-10.cnf.gz.no_w.cnf, 140, 350, 916
 cnf/soos/75-21-7-q.cnf.gz.no_w.cnf, 2121, 3360, 9227
 cnf/soos/90-24-6-q.cnf.gz.no_w.cnf, 2784, 4416, 10035
@@ -2368,29 +2368,29 @@ cnf/soos/or-60-10-1-UC-30.cnf.gz.no_w.cnf, 120, 300, 798
 cnf/soos/90-34-10-q.cnf.gz.no_w.cnf, 5644, 8976, 20401
 cnf/soos/90-14-7-q.cnf.gz.no_w.cnf, 924, 1456, 3269
 cnf/soos/90-20-7-q.cnf.gz.no_w.cnf, 1920, 3040, 7043
-cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_under.dimacs.gz.no_w.cnf, 194918, 121989, 668959
+cnf/soos/leader_sync4_11.pm_5steps_7int_18fract_elected_under.dimacs.gz.no_w.cnf, 194918, 121989, 668959
 cnf/soos/or-70-5-3-UC-30.cnf.gz.no_w.cnf, 140, 350, 931
 cnf/soos/blasted_case140.cnf.gz.no_w.cnf, 488, 1222, 3278
 cnf/soos/90-23-5-q.cnf.gz.no_w.cnf, 2553, 4048, 9323
 cnf/soos/min-8s.cnf.gz.no_w.cnf, 1129, 3718, 12028
 cnf/soos/modexp8-5-4.cnf.gz.no_w.cnf, 101233, 400574, 1178516
 cnf/soos/or-50-20-1-UC-30.cnf.gz.no_w.cnf, 100, 250, 665
-cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_neg_over.dimacs.gz.no_w.cnf, 53871, 26426, 148555
+cnf/soos/leader_sync4_11.pm_5steps_7int_5fract_elected_neg_over.dimacs.gz.no_w.cnf, 53871, 26426, 148555
 cnf/soos/75-20-3-q.cnf.gz.no_w.cnf, 1920, 3040, 8547
 cnf/soos/35.sk_3_52.cnf.gz.no_w.cnf, 4915, 10547, 20508
 cnf/soos/13B-5.cnf.gz.no_w.cnf, 88442, 408210, 1215574
-cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_neg_under.dimacs.gz.no_w.cnf, 172183, 106226, 583780
+cnf/soos/leader_sync4_11.pm_5steps_7int_16fract_elected_neg_under.dimacs.gz.no_w.cnf, 172183, 106226, 583780
 cnf/soos/75-20-2-q.cnf.gz.no_w.cnf, 1920, 3040, 8415
 cnf/soos/75-10-3-q.cnf.gz.no_w.cnf, 460, 720, 1983
 cnf/soos/90-14-4-q.cnf.gz.no_w.cnf, 924, 1456, 3375
 cnf/soos/or-70-5-1-UC-20.cnf.gz.no_w.cnf, 140, 350, 928
 cnf/soos/90-12-9-q.cnf.gz.no_w.cnf, 672, 1056, 2449
 cnf/soos/11B-2.cnf.gz.no_w.cnf, 32799, 148435, 439555
-cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=3over.dimacs.gz.no_w.cnf, 5219760, 3050350, 18024697
+cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=3over.dimacs.gz.no_w.cnf, 5219760, 3050350, 18024697
 cnf/soos/modexp8-6-3.cnf.gz.no_w.cnf, 125297, 472622, 1373892
 cnf/soos/75-23-4-q.cnf.gz.no_w.cnf, 2553, 4048, 11643
 cnf/soos/or-50-5-5-UC-10.cnf.gz.no_w.cnf, 100, 250, 653
-cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_neg_over.dimacs.gz.no_w.cnf, 110827, 63406, 352320
+cnf/soos/leader_sync4_11.pm_5steps_7int_11fract_elected_neg_over.dimacs.gz.no_w.cnf, 110827, 63406, 352320
 cnf/soos/blasted_case_3_b14_2.cnf.gz.no_w.cnf, 270, 805, 2158
 cnf/soos/s5378a_15_7.cnf.gz.no_w.cnf, 3766, 8732, 19242
 cnf/soos/tableBasedAddition.sk_240_1024.cnf.gz.no_w.cnf, 1026, 961, 961
@@ -2568,13 +2568,13 @@ cnf/lagniez/Handmade/parity/par32-2.cnf, 3176, 10253, 27405
 cnf/lagniez/Handmade/parity/par16-3-c.cnf, 334, 1332, 3874
 cnf/lagniez/Handmade/parity/par32-3-c.cnf, 1325, 5294, 15510
 cnf/lagniez/Handmade/parity/par32-1-c.cnf, 1315, 5254, 15390
-cnf/lagniez/circuit/iscas/iscas85/c2670.isc.cnf, 1230, 2876, 9510
-cnf/lagniez/circuit/iscas/iscas85/c1908.isc.cnf, 751, 2053, 6776
-cnf/lagniez/circuit/iscas/iscas85/c7552.isc.cnf, 3185, 8588, 28396
-cnf/lagniez/circuit/iscas/iscas85/c880.isc.cnf, 417, 1060, 3526
-cnf/lagniez/circuit/iscas/iscas85/c499.isc.cnf, 243, 714, 2660
-cnf/lagniez/circuit/iscas/iscas85/c432.isc.cnf, 196, 514, 1772
-cnf/lagniez/circuit/iscas/iscas85/c1355.isc.cnf, 555, 1546, 5156
+cnf/lagniez/circuit/iscas/iscas85/c2670.isc.cnf, 1230, 2876, 9510
+cnf/lagniez/circuit/iscas/iscas85/c1908.isc.cnf, 751, 2053, 6776
+cnf/lagniez/circuit/iscas/iscas85/c7552.isc.cnf, 3185, 8588, 28396
+cnf/lagniez/circuit/iscas/iscas85/c880.isc.cnf, 417, 1060, 3526
+cnf/lagniez/circuit/iscas/iscas85/c499.isc.cnf, 243, 714, 2660
+cnf/lagniez/circuit/iscas/iscas85/c432.isc.cnf, 196, 514, 1772
+cnf/lagniez/circuit/iscas/iscas85/c1355.isc.cnf, 555, 1546, 5156
 cnf/lagniez/circuit/iscas/iscas93/s991.bench.cnf, 603, 1337, 4310
 cnf/lagniez/circuit/iscas/iscas93/s344.bench.cnf, 184, 429, 1396
 cnf/lagniez/circuit/iscas/iscas93/s967.bench.cnf, 416, 1157, 3840
@@ -2625,11 +2625,11 @@ cnf/lagniez/circuit/bit/2bitadd_12.cnf, 708, 1702, 4560
 cnf/lagniez/circuit/bit/3bitadd_32.cnf, 8704, 32316, 89472
 cnf/lagniez/circuit/bit/2bitcomp_5.cnf, 125, 310, 740
 cnf/lagniez/circuit/bit/3bitadd_31.cnf, 8432, 31310, 86676
-cnf/lagniez/circuit/rInst/ra.cnf, 1236, 11416, 34247
-cnf/lagniez/circuit/rInst/rb.cnf, 1854, 11324, 38971
+cnf/lagniez/circuit/rInst/ra.cnf, 1236, 11416, 34247
+cnf/lagniez/circuit/rInst/rb.cnf, 1854, 11324, 38971
 cnf/lagniez/circuit/2bitmax_6.cnf, 252, 766, 1800
 cnf/lagniez/circuit/ssa/ssa7552-038.cnf, 1501, 3575, 11823
-cnf/lagniez/circuit/rInst/rc.cnf, 2472, 17942, 58405
+cnf/lagniez/circuit/rInst/rc.cnf, 2472, 17942, 58405
 cnf/lagniez/circuit/ssa/ssa7552-160.cnf, 1391, 3126, 10151
 cnf/lagniez/circuit/ssa/ssa7552-159.cnf, 1363, 3032, 9854
 cnf/lagniez/circuit/ssa/ssa7552-158.cnf, 1363, 3034, 9861
@@ -2798,14 +2798,14 @@ cnf/lagniez/BayesianNetwork/Ratio_75/75-25-2-q.cnf, 3025, 4800, 13313
 cnf/lagniez/BayesianNetwork/Ratio_75/75-22-3-q.cnf, 2332, 3696, 10043
 cnf/lagniez/BayesianNetwork/Ratio_75/75-12-9-q.cnf, 672, 1056, 2829
 cnf/lagniez/BayesianNetwork/Ratio_75/75-21-9-q.cnf, 2121, 3360, 9147
-cnf/lagniez/BayesianNetwork/sat-grid-pbl-0025.cnf, 650, 1226, 6073
+cnf/lagniez/BayesianNetwork/sat-grid-pbl-0025.cnf, 650, 1226, 6073
 cnf/lagniez/BayesianNetwork/Ratio_75/75-22-4-q.cnf, 2332, 3696, 10083
-cnf/lagniez/BayesianNetwork/sat-grid-pbl-0030.cnf, 930, 1771, 8788
+cnf/lagniez/BayesianNetwork/sat-grid-pbl-0030.cnf, 930, 1771, 8788
 cnf/lagniez/BayesianNetwork/Ace/fs-25.net.cnf, 147800, 257150, 589850
 cnf/lagniez/BayesianNetwork/Ace/mastermind_06_08_03.net.cnf, 3979, 8833, 19324
 cnf/lagniez/BayesianNetwork/Ace/blockmap_10_03.net.cnf, 13786, 28826, 59113
 cnf/lagniez/BayesianNetwork/Ace/fs-28.net.cnf, 206528, 360164, 826868
-cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=4over.dimacs.gz.no_w.cnf, 7695558, 5729026, 22661982
+cnf/soos/egl.pm_100steps_6int_1fract_unfairA_N=10_L=4over.dimacs.gz.no_w.cnf, 7695558, 5729026, 22661982
 cnf/lagniez/BayesianNetwork/Ace/blockmap_20_01.net.cnf, 78650, 160055, 322994
 cnf/lagniez/BayesianNetwork/Ace/fs-22.net.cnf, 101420, 175934, 403106
 cnf/lagniez/BayesianNetwork/Ace/blockmap_22_03.net.cnf, 119003, 247486, 504902
@@ -3043,7 +3043,7 @@ cnf/lagniez/BayesianNetwork/Ratio_90/90-24-8-q.cnf, 2784, 4416, 10071
 cnf/lagniez/BayesianNetwork/Ratio_90/90-19-5-q.cnf, 1729, 2736, 6363
 cnf/lagniez/BayesianNetwork/Ratio_90/90-12-6-q.cnf, 672, 1056, 2463
 cnf/lagniez/BayesianNetwork/Ratio_90/90-38-8-q.cnf, 7068, 11248, 25679
-cnf/lagniez/BayesianNetwork/sat-grid-pbl-0015.cnf, 240, 436, 2143
+cnf/lagniez/BayesianNetwork/sat-grid-pbl-0015.cnf, 240, 436, 2143
 cnf/lagniez/BayesianNetwork/Ratio_50/50-10-3-q.cnf, 460, 720, 2565
 cnf/lagniez/BayesianNetwork/Ratio_50/50-12-6-q.cnf, 672, 1056, 3299
 cnf/lagniez/BayesianNetwork/Ratio_50/50-20-3-q.cnf, 1920, 3040, 10539
@@ -3103,9 +3103,9 @@ cnf/lagniez/BayesianNetwork/Ratio_50/50-14-10-q.cnf, 924, 1456, 5099
 cnf/lagniez/BayesianNetwork/Ratio_50/50-12-4-q.cnf, 672, 1056, 3623
 cnf/lagniez/BayesianNetwork/Ratio_50/50-16-3-q.cnf, 1216, 1920, 6355
 cnf/lagniez/BayesianNetwork/Ratio_50/50-14-4-q.cnf, 924, 1456, 4761
-cnf/lagniez/BayesianNetwork/sat-grid-pbl-0010.cnf, 110, 191, 928
+cnf/lagniez/BayesianNetwork/sat-grid-pbl-0010.cnf, 110, 191, 928
 cnf/lagniez/BayesianNetwork/Ratio_50/50-16-5-q.cnf, 1216, 1920, 6691
-cnf/lagniez/BayesianNetwork/sat-grid-pbl-0020.cnf, 420, 781, 3858
+cnf/lagniez/BayesianNetwork/sat-grid-pbl-0020.cnf, 420, 781, 3858
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-20-6.cnf, 140, 350, 910
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-5-10-UC-20.cnf, 140, 350, 921
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-5-7-UC-30.cnf, 140, 350, 930
@@ -3243,7 +3243,7 @@ cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-10-4-UC-20.cnf, 140, 350, 923
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-20-9-UC-40.cnf, 140, 350, 943
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-5-5.cnf, 140, 350, 910
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-10-8-UC-40.cnf, 140, 350, 942
-cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=2under.dimacs.gz.no_w.cnf, 5209460, 3043001, 17988841
+cnf/soos/nand.pm_80steps_15int_8fract_lessThan10PercentAreErroneous_N=20_K=2under.dimacs.gz.no_w.cnf, 5209460, 3043001, 17988841
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-20-5-UC-30.cnf, 140, 350, 924
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-10-4-UC-10.cnf, 140, 350, 916
 cnf/lagniez/BayesianNetwork/DQMR/qmr-70/or-70-20-5-UC-10.cnf, 140, 350, 917
@@ -3803,18 +3803,18 @@ cnf/lagniez/Configuration/mercedes/C638_FKB.cnf, 1784, 3774, 7581
 cnf/lagniez/Configuration/mercedes/C208_FC.cnf, 1922, 7518, 33439
 cnf/lagniez/Configuration/mercedes/C171_FR.cnf, 1758, 4005, 9705
 cnf/lagniez/Planning/logistics.b.cnf, 843, 7301, 19024
-cnf/lagniez/Planning/log-4.cnf, 2303, 20963, 63544
-cnf/lagniez/Planning/log-5.cnf, 2701, 29534, 89431
+cnf/lagniez/Planning/log-4.cnf, 2303, 20963, 63544
+cnf/lagniez/Planning/log-5.cnf, 2701, 29534, 89431
 cnf/lagniez/Planning/4blocks.cnf, 758, 47820, 133940
-cnf/lagniez/Planning/log-2.cnf, 1337, 24777, 74794
-cnf/lagniez/Planning/prob012.pddl.cnf, 2324, 31857, 96332
+cnf/lagniez/Planning/log-2.cnf, 1337, 24777, 74794
+cnf/lagniez/Planning/prob012.pddl.cnf, 2324, 31857, 96332
 cnf/lagniez/Planning/tire-4.cnf, 812, 3222, 9851
-cnf/lagniez/Planning/prob001.pddl.cnf, 939, 3785, 11511
+cnf/lagniez/Planning/prob001.pddl.cnf, 939, 3785, 11511
 cnf/lagniez/Planning/bw_large.c.cnf, 3016, 50457, 114314
-cnf/lagniez/Planning/log-3.cnf, 1413, 29487, 88968
+cnf/lagniez/Planning/log-3.cnf, 1413, 29487, 88968
 cnf/lagniez/Planning/hanoi5.cnf, 1931, 14468, 35856
 cnf/lagniez/Planning/medium.cnf, 116, 953, 2133
-cnf/lagniez/Planning/prob002.pddl.cnf, 1337, 24777, 74793
+cnf/lagniez/Planning/prob002.pddl.cnf, 1337, 24777, 74793
 cnf/lagniez/Planning/bw_large.d.cnf, 6325, 131973, 294118
 cnf/lagniez/Planning/huge.cnf, 459, 7054, 15567
 cnf/lagniez/Planning/log-1.cnf, 939, 3785, 11515
@@ -3822,7 +3822,7 @@ cnf/lagniez/Planning/tire-2.cnf, 550, 2001, 6116
 cnf/lagniez/Planning/pddlXpSym/safe_safe_5_p_t5.cnf, 86, 171, 420
 cnf/lagniez/Planning/logistics.d.cnf, 4713, 21991, 51347
 cnf/lagniez/Planning/pddlXpSym/bomb_b20_t5_p_t3.cnf, 4300, 8425, 22675
-cnf/lagniez/Planning/prob003.pddl.cnf, 1413, 29487, 88967
+cnf/lagniez/Planning/prob003.pddl.cnf, 1413, 29487, 88967
 cnf/lagniez/Planning/4blocksb.cnf, 410, 24758, 69182
 cnf/lagniez/Planning/pddlXpSym/blocks_right_3_p_t5.cnf, 804, 4343, 12006
 cnf/lagniez/Planning/pddlXpSym/coins_p05_p_t9.cnf, 1544, 4225, 10605
@@ -4351,16 +4351,16 @@ cnf/lagniez/Planning/hanoi4.cnf, 718, 4934, 12200
 cnf/lagniez/Planning/logistics.c.cnf, 1141, 10719, 27978
 cnf/lagniez/Planning/tire-3.cnf, 577, 2004, 6122
 cnf/lagniez/Planning/tire-1.cnf, 352, 1038, 3171
-cnf/lagniez/Planning/prob005.pddl.cnf, 2701, 29534, 89430
-cnf/lagniez/Planning/prob004.pddl.cnf, 2303, 20963, 63543
+cnf/lagniez/Planning/prob005.pddl.cnf, 2701, 29534, 89430
+cnf/lagniez/Planning/prob004.pddl.cnf, 2303, 20963, 63543
 cnf/lagniez/Planning/prob004-log-a.cnf, 1790, 18026, 36732
 cnf/lagniez/Planning/logistics.a.cnf, 828, 6718, 17915
-cnf/lagniez/Planning/4step.cnf, 165, 418, 1249
+cnf/lagniez/Planning/4step.cnf, 165, 418, 1249
 cnf/lagniez/Planning/5step.cnf, 177, 475, 1434
 cnf/lagniez/Planning/3blocks.cnf, 283, 9690, 26810
 cnf/lagniez/Planning/bw_large.b.cnf, 1087, 13772, 31767
-cnf/lagniez/bmc/cnt06.shuffled.cnf, 762, 2469, 9222
-cnf/lagniez/bmc/cnt08.shuffled.cnf, 4089, 13531, 50522
+cnf/lagniez/bmc/cnt06.shuffled.cnf, 762, 2469, 9222
+cnf/lagniez/bmc/cnt08.shuffled.cnf, 4089, 13531, 50522
 cnf/lagniez/bmc/bmc-ibm-3.cnf, 14930, 72106, 189182
 cnf/lagniez/bmc/bmc-ibm-1.cnf, 9685, 55870, 149914
 cnf/lagniez/bmc/bmc-ibm-2.cnf, 2810, 11683, 29407
@@ -4368,9 +4368,9 @@ cnf/lagniez/bmc/bmc-ibm-7.cnf, 8710, 39774, 101779
 cnf/lagniez/bmc/bmc-ibm-13.cnf, 13215, 65728, 174164
 cnf/lagniez/bmc/bmc-ibm-4.cnf, 28161, 139716, 366895
 cnf/lagniez/bmc/bmc-galileo-8.cnf, 58074, 294821, 767187
-cnf/lagniez/bmc/cnt09.shuffled.cnf, 9207, 30678, 114500
-cnf/lagniez/bmc/cnt10.shuffled.cnf, 20470, 68561, 255790
-cnf/lagniez/bmc/cnt07.shuffled.cnf, 1786, 5856, 21872
+cnf/lagniez/bmc/cnt09.shuffled.cnf, 9207, 30678, 114500
+cnf/lagniez/bmc/cnt10.shuffled.cnf, 20470, 68561, 255790
+cnf/lagniez/bmc/cnt07.shuffled.cnf, 1786, 5856, 21872
 cnf/lagniez/bmc/bmc-ibm-5.cnf, 9396, 41207, 105281
 cnf/lagniez/bmc/bmc-ibm-6.cnf, 51639, 368352, 1007089
 cnf/lagniez/bmc/bmc-ibm-11.cnf, 32109, 150027, 394770
@@ -4402,8 +4402,8 @@ cnf/sundermann/systems_software/cme555/Knüppel2017.cnf, 1279, 2515, 5176
 cnf/sundermann/systems_software/cme555/Berger2013.cnf, 1266, 3167, 8447
 cnf/sundermann/systems_software/at91sam7xek/Berger2013.cnf, 1319, 3963, 15279
 cnf/sundermann/systems_software/at91sam7xek/Knüppel2017.cnf, 1332, 2660, 5508
-cnf/sundermann/systems_software/ToyBox/Berger2013.cnf, 544, 1020, 2950
-cnf/sundermann/systems_software/ToyBox/Oh2020-0_7_5.cnf, 316, 108, 318
+cnf/sundermann/systems_software/ToyBox/Berger2013.cnf, 544, 1020, 2950
+cnf/sundermann/systems_software/ToyBox/Oh2020-0_7_5.cnf, 316, 108, 318
 cnf/sundermann/systems_software/tx39_sim/Berger2013.cnf, 1179, 2988, 8030
 cnf/sundermann/systems_software/tx39_sim/Knüppel2017.cnf, 1192, 2365, 4866
 cnf/sundermann/systems_software/gps4020/Knüppel2017.cnf, 1226, 2466, 5110
@@ -4439,7 +4439,7 @@ cnf/sundermann/systems_software/aaed2000/Knüppel2017.cnf, 1298, 2611, 5425
 cnf/sundermann/systems_software/FreeBSD/AlHajjaji2019-8.0.0.cnf, 1397, 15692, 110527
 cnf/sundermann/systems_software/olpce2294/Berger2013.cnf, 1274, 3881, 15115
 cnf/sundermann/systems_software/olpce2294/Knüppel2017.cnf, 1287, 2579, 5345
-cnf/sundermann/systems_software/axTLS/Berger2013.cnf, 684, 2155, 8075
+cnf/sundermann/systems_software/axTLS/Berger2013.cnf, 684, 2155, 8075
 cnf/sundermann/systems_software/aeb/Berger2013.cnf, 1213, 3767, 14876
 cnf/sundermann/systems_software/aeb/Knüppel2017.cnf, 1226, 2470, 5122
 cnf/sundermann/systems_software/asb/Berger2013.cnf, 1231, 3081, 8223
@@ -4471,9 +4471,9 @@ cnf/sundermann/systems_software/ts6/Berger2013.cnf, 1240, 3235, 8773
 cnf/sundermann/systems_software/Linux/Knüppel2017-2.6.33.3.cnf, 6467, 40121, 279994
 cnf/sundermann/systems_software/stm3210e_eval/Knüppel2017.cnf, 1283, 2559, 5271
 cnf/sundermann/systems_software/stm3210e_eval/Berger2013.cnf, 1269, 3200, 8518
-cnf/sundermann/systems_software/Fiasco/Oh2020-17_10.cnf, 234, 1178, 4357
+cnf/sundermann/systems_software/Fiasco/Oh2020-17_10.cnf, 234, 1178, 4357
 cnf/sundermann/systems_software/Fiasco/Pett2023-2020-12-01_14-09-14.cnf, 253, 1542, 4574
-cnf/sundermann/systems_software/Fiasco/Berger2013.cnf, 1638, 5228, 17975
+cnf/sundermann/systems_software/Fiasco/Berger2013.cnf, 1638, 5228, 17975
 cnf/sundermann/systems_software/mac7100evb/Berger2013.cnf, 1234, 3770, 14829
 cnf/sundermann/systems_software/mac7100evb/Knüppel2017.cnf, 1247, 2498, 5175
 cnf/sundermann/systems_software/m5272c3/Knüppel2017.cnf, 1336, 2661, 5483
@@ -4495,10 +4495,10 @@ cnf/sundermann/systems_software/vads/Berger2013.cnf, 1240, 3235, 8773
 cnf/sundermann/systems_software/vads/Knüppel2017.cnf, 1253, 2500, 5159
 cnf/sundermann/systems_software/viper/Berger2013.cnf, 1301, 3230, 8531
 cnf/sundermann/systems_software/viper/Knüppel2017.cnf, 1314, 2597, 5341
-cnf/sundermann/systems_software/FreeBSD/Berger2013-icse11.cnf, 1396, 62183, 970574
+cnf/sundermann/systems_software/FreeBSD/Berger2013-icse11.cnf, 1396, 62183, 970574
 cnf/sundermann/systems_software/cerfpda/Knüppel2017.cnf, 1304, 2634, 5462
 cnf/sundermann/systems_software/cerfpda/Berger2013.cnf, 1291, 3940, 15248
-cnf/sundermann/systems_software/uCLinux/Berger2013.cnf, 1850, 2468, 6169
+cnf/sundermann/systems_software/uCLinux/Berger2013.cnf, 1850, 2468, 6169
 cnf/sundermann/systems_software/prpmc1100/Berger2013.cnf, 1223, 3754, 14801
 cnf/sundermann/systems_software/prpmc1100/Knüppel2017.cnf, 1236, 2479, 5135
 cnf/sundermann/systems_software/smdk2410/Knüppel2017.cnf, 1279, 2568, 5338
@@ -4509,18 +4509,18 @@ cnf/sundermann/systems_software/pc_vmWare/Berger2013.cnf, 1255, 3174, 8459
 cnf/sundermann/systems_software/pc_vmWare/Knüppel2017.cnf, 1268, 2526, 5196
 cnf/sundermann/systems_software/pati/Berger2013.cnf, 1248, 3266, 8877
 cnf/sundermann/systems_software/pati/Knüppel2017.cnf, 1261, 2510, 5178
-cnf/sundermann/systems_software/Buildroot/Berger2013.cnf, 14910, 45603, 164037
+cnf/sundermann/systems_software/Buildroot/Berger2013.cnf, 14910, 45603, 164037
 cnf/sundermann/systems_software/phycore229x/Berger2013.cnf, 1360, 4026, 15416
 cnf/sundermann/systems_software/phycore229x/Knüppel2017.cnf, 1373, 2722, 5636
-cnf/sundermann/systems_software/BusyBox/Oh2020-1_28_0.cnf, 998, 962, 3417
+cnf/sundermann/systems_software/BusyBox/Oh2020-1_28_0.cnf, 998, 962, 3417
 cnf/sundermann/systems_software/BusyBox/Knüppel2017-1.18.0.cnf, 854, 1163, 2457
 cnf/sundermann/systems_software/BusyBox/Pett2021-2010-05-09_00-13-40.cnf, 631, 681, 1501
 cnf/sundermann/systems_software/fads/Berger2013.cnf, 1187, 3008, 8075
-cnf/sundermann/systems_software/BusyBox/Berger2013-1.18.0.cnf, 6796, 17836, 62967
+cnf/sundermann/systems_software/BusyBox/Berger2013-1.18.0.cnf, 6796, 17836, 62967
 cnf/sundermann/systems_software/fads/Knüppel2017.cnf, 1200, 2382, 4905
 cnf/sundermann/systems_software/smdk2410/Berger2013.cnf, 1265, 50468, 341506
 cnf/sundermann/systems_software/pc_rltk8139/Berger2013.cnf, 1257, 3179, 8476
-cnf/sundermann/systems_software/Freetz/Berger2013.cnf, 31012, 102705, 397493
+cnf/sundermann/systems_software/Freetz/Berger2013.cnf, 31012, 102705, 397493
 cnf/sundermann/systems_software/pc_rltk8139/Knüppel2017.cnf, 1270, 2530, 5208
 cnf/sundermann/systems_software/sh4_202_md/Berger2013.cnf, 1258, 3196, 8524
 cnf/sundermann/systems_software/sh4_202_md/Knüppel2017.cnf, 1272, 2548, 5248
@@ -4543,7 +4543,7 @@ cnf/sundermann/systems_software/malta_mips64_5kc/Berger2013.cnf, 1232, 3212, 872
 cnf/sundermann/systems_software/malta_mips64_5kc/Knüppel2017.cnf, 1245, 2480, 5114
 cnf/sundermann/systems_software/eb55/Berger2013.cnf, 1270, 3882, 15115
 cnf/sundermann/systems_software/eb55/Knüppel2017.cnf, 1283, 2580, 5344
-cnf/sundermann/systems_software/uCLinux_Config/Berger2013.cnf, 11254, 31637, 114622
+cnf/sundermann/systems_software/uCLinux_Config/Berger2013.cnf, 11254, 31637, 114622
 cnf/sundermann/systems_software/ec555/Berger2013.cnf, 1267, 3169, 8451
 cnf/sundermann/systems_software/ec555/Knüppel2017.cnf, 1280, 2517, 5180
 cnf/sundermann/systems_software/h8300h_sim/Berger2013.cnf, 1182, 3001, 8056
@@ -4600,11 +4600,11 @@ cnf/sundermann/systems_software/mcb2100/Knüppel2017.cnf, 1262, 2528, 5238
 cnf/sundermann/systems_software/mcb2100/Berger2013.cnf, 1249, 3824, 14990
 cnf/sundermann/systems_software/integrator_arm7/Berger2013.cnf, 1259, 3939, 15406
 cnf/sundermann/systems_software/integrator_arm7/Knüppel2017.cnf, 1272, 2554, 5298
-cnf/sundermann/systems_software/eCos/Berger2013-icse11.cnf, 1244, 3146, 11549
+cnf/sundermann/systems_software/eCos/Berger2013-icse11.cnf, 1244, 3146, 11549
 cnf/sundermann/systems_software/eCos/AlHajjaji2019-i386pc.cnf, 1245, 3723, 7760
 cnf/sundermann/systems_software/pc_i82544/Knüppel2017.cnf, 1272, 2531, 5206
 cnf/sundermann/systems_software/pc_i82544/Berger2013.cnf, 1259, 3179, 8469
-cnf/sundermann/systems_software/uClibc/Oh2020-ng_1_0_29.cnf, 269, 1403, 5217
+cnf/sundermann/systems_software/uClibc/Oh2020-ng_1_0_29.cnf, 269, 1403, 5217
 cnf/sundermann/systems_software/uClibc/Pett2023-2020-12-24_11-54-53.cnf, 235, 1670, 4659
 cnf/sundermann/systems_software/uClibc/Knüppel2017.cnf, 313, 1240, 2821
 cnf/sundermann/systems_software/ts1000/Berger2013.cnf, 1297, 3218, 8508
@@ -4643,7 +4643,7 @@ cnf/sundermann/systems_software/stb/Knüppel2017.cnf, 1265, 2497, 5139
 cnf/sundermann/systems_software/picasso/Berger2013.cnf, 1248, 3808, 14915
 cnf/sundermann/systems_software/picasso/Knüppel2017.cnf, 1261, 2529, 5238
 cnf/sundermann/systems_software/csb281/Berger2013.cnf, 1233, 3114, 8303
-cnf/sundermann/systems_software/Embtoolkit/Berger2013.cnf, 23516, 180511, 1500028
+cnf/sundermann/systems_software/Embtoolkit/Berger2013.cnf, 23516, 180511, 1500028
 cnf/sundermann/systems_software/csb281/Knüppel2017.cnf, 1246, 2478, 5104
 cnf/sundermann/systems_software/sleb/Berger2013.cnf, 1188, 3009, 8074
 cnf/sundermann/systems_software/innovator/Berger2013.cnf, 1256, 50452, 341481
